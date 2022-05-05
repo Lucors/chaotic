@@ -1,0 +1,505 @@
+<00:19:07> [MSG] Запрошен login.php
+<00:19:07> [MSG] Аутентифицирован пользователь "lucors"
+<00:19:09> [MSG] Запрошен logout.php
+<00:19:09> [MSG] Пользователь "lucors" вышел
+<01:29:31> [MSG] Запрошен login.php
+<01:29:31> [MSG] Аутентифицирован пользователь "lucors"
+<01:34:41> [MSG] Запрошен logout.php
+<01:34:41> [MSG] Пользователь "lucors" вышел
+<01:34:46> [MSG] Запрошен login.php
+<01:34:46> [MSG] Аутентифицирован пользователь "lucors"
+<02:09:32> [MSG] Запрошен logout.php
+<02:09:32> [MSG] Пользователь "lucors" вышел
+<02:22:15> [MSG] Запрошен login.php
+<02:22:15> [MSG] Аутентифицирован пользователь "lucors"
+<02:24:32> [MSG] Запрошен logout.php
+<02:24:32> [MSG] Пользователь "lucors" вышел
+<03:16:37> [MSG] Запрошен login.php
+<03:16:37> [WARN] Не найден пользователь "th"
+<03:16:48> [MSG] Запрошен login.php
+<03:16:48> [WARN] Не найден пользователь "thesourecode.max@yandex.ru"
+<03:16:49> [MSG] Запрошен login.php
+<03:16:49> [WARN] Не найден пользователь "thesourecode.max@yandex.ru"
+<03:19:07> [MSG] Запрошен login.php
+<03:19:07> [MSG] Аутентифицирован пользователь ""
+<03:19:09> [MSG] Запрошен logout.php
+<03:19:09> [WARN] Попытка выхода не аутентифиц. пользователя
+<03:19:46> [MSG] Запрошен login.php
+<03:19:46> [DEBUG] Попытка аутен. ранее аутентифиц. пользователя "lucors"
+<03:19:48> [MSG] Запрошен logout.php
+<03:19:48> [WARN] Попытка выхода не аутентифиц. пользователя
+<03:20:03> [MSG] Запрошен login.php
+<03:20:03> [DEBUG] Попытка аутен. ранее аутентифиц. пользователя "lucors"
+<03:21:39> [MSG] Запрошен logout.php
+<03:21:39> [MSG] Пользователь "thesourecode.max@yandex.ru" вышел
+<03:21:43> [MSG] Запрошен login.php
+<03:21:43> [WARN] Не найден пользователь "lucors"
+<03:21:53> [MSG] Запрошен login.php
+<03:21:53> [MSG] Аутентифицирован пользователь ""
+<03:25:08> [MSG] Запрошен logout.php
+<03:25:08> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<03:27:06> [MSG] Запрошен login.php
+<03:27:06> [MSG] Аутентифицирован пользователь ""
+<03:30:08> [MSG] Запрошен logout.php
+<03:30:08> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<03:50:42> [MSG] Запрошен login.php
+<03:50:42> [MSG] Аутентифицирован пользователь ""
+<03:50:44> [MSG] Запрошен logout.php
+<03:50:44> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<04:34:31> [MSG] Запрошен login.php
+<04:34:31> [WARN] Не найден пользователь "gfgg"
+<05:04:39> [MSG] Запрошен login.php
+<05:04:39> [MSG] Аутентифицирован пользователь ""
+<05:04:54> [MSG] Запрошен logout.php
+<05:04:54> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:05:06> [MSG] Запрошен signup.php
+<05:05:42> [MSG] Запрошен login.php
+<05:05:42> [WARN] Переданы неверные значения email&pass
+<05:05:48> [MSG] Запрошен login.php
+<05:05:48> [WARN] Переданы неверные значения email&pass
+<05:05:52> [MSG] Запрошен login.php
+<05:05:52> [WARN] Переданы неверные значения email&pass
+<05:05:54> [MSG] Запрошен login.php
+<05:05:54> [WARN] Переданы неверные значения email&pass
+<05:05:59> [MSG] Запрошен login.php
+<05:05:59> [WARN] Переданы неверные значения email&pass
+<05:06:06> [MSG] Запрошен signup.php
+<05:06:06> [WARN] Переданы неверные значения email&pass&name
+<05:07:16> [MSG] Запрошен signup.php
+<05:07:44> [MSG] Запрошен signup.php
+<05:08:02> [MSG] Запрошен signup.php
+<05:09:53> [MSG] Запрошен signup.php
+<05:10:10> [MSG] Запрошен signup.php
+<05:10:40> [MSG] Запрошен signup.php
+<05:10:56> [MSG] Запрошен signup.php
+<05:11:08> [MSG] Запрошен signup.php
+<05:11:09> [MSG] Запрошен signup.php
+<05:11:25> [MSG] Запрошен signup.php
+<05:11:25> [MSG] Запрошен signup.php
+<05:13:07> [MSG] Запрошен signup.php
+<05:13:07> [ERROR] Ошибка регистрации "thesourcecode.max@yandex.ru"
+<05:13:08> [MSG] Запрошен signup.php
+<05:13:08> [ERROR] Ошибка регистрации "thesourcecode.max@yandex.ru"
+<05:13:22> [MSG] Запрошен signup.php
+<05:13:46> [MSG] Запрошен signup.php
+<05:14:33> [MSG] Запрошен signup.php
+<05:14:37> [MSG] Запрошен signup.php
+<05:14:37> [MSG] Зарегистрирован пользователь "leha:thesourcecode.max@yandex.ru2"
+<05:15:28> [MSG] Запрошен logout.php
+<05:15:28> [MSG] Пользователь "thesourcecode.max@yandex.ru2" вышел
+<05:15:31> [MSG] Запрошен signup.php
+<05:15:31> [MSG] Зарегистрирован пользователь "leha:thesourcecode.max@yandex.ru2"
+<05:15:35> [MSG] Запрошен logout.php
+<05:15:35> [MSG] Пользователь "thesourcecode.max@yandex.ru2" вышел
+<05:15:49> [MSG] Запрошен signup.php
+<05:15:49> [ERROR] Ошибка MYSQL: Duplicate entry 'thesourcecode.max@yandex.ru' for key 'users.email'
+<05:15:49> [ERROR] Ошибка регистрации "thesourcecode.max@yandex.ru"
+<05:16:34> [MSG] Запрошен signup.php
+<05:16:34> [MSG] Зарегистрирован пользователь "Alex:leha@yandex.ru"
+<05:16:37> [MSG] Запрошен logout.php
+<05:16:37> [MSG] Пользователь "leha@yandex.ru" вышел
+<05:16:50> [MSG] Запрошен login.php
+<05:16:50> [MSG] Аутентифицирован пользователь ""
+<05:16:52> [MSG] Запрошен logout.php
+<05:16:52> [MSG] Пользователь "leha@yandex.ru" вышел
+<05:17:25> [MSG] Запрошен signup.php
+<05:17:25> [MSG] Зарегистрирован пользователь "Jabroni:jabroni@mail.ru"
+<05:19:07> [MSG] Запрошен logout.php
+<05:19:07> [MSG] Пользователь "jabroni@mail.ru" вышел
+<05:19:21> [MSG] Запрошен signup.php
+<05:19:21> [MSG] Зарегистрирован пользователь "test:test@mail.ru"
+<05:19:55> [MSG] Запрошен logout.php
+<05:19:55> [MSG] Пользователь "test@mail.ru" вышел
+<05:20:03> [MSG] Запрошен signup.php
+<05:20:03> [ERROR] Ошибка MYSQL: Duplicate entry 'test@mail.ru' for key 'users.email'
+<05:20:03> [ERROR] Ошибка регистрации "test@mail.ru"
+<05:21:38> [MSG] Запрошен signup.php
+<05:21:38> [MSG] Зарегистрирован пользователь "Максим:nizamov.2001@mail.ru"
+<05:21:42> [MSG] Запрошен logout.php
+<05:21:42> [MSG] Пользователь "nizamov.2001@mail.ru" вышел
+<05:22:25> [MSG] Запрошен login.php
+<05:22:25> [MSG] Аутентифицирован пользователь ""
+<05:25:02> [MSG] Запрошен signup.php
+<05:25:02> [MSG] Зарегистрирован пользователь "firefoxtest:ff@ff.com"
+<05:25:21> [MSG] Запрошен logout.php
+<05:25:21> [MSG] Пользователь "ff@ff.com" вышел
+<05:25:26> [MSG] Запрошен login.php
+<05:25:26> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<05:27:05> [MSG] Запрошен login.php
+<05:27:05> [MSG] Аутентифицирован пользователь ""
+<05:27:33> [MSG] Запрошен logout.php
+<05:27:33> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:27:46> [MSG] Запрошен logout.php
+<05:27:46> [MSG] Пользователь "ff@ff.com" вышел
+<05:33:51> [MSG] Запрошен login.php
+<05:33:51> [MSG] Аутентифицирован пользователь ""
+<05:35:07> [MSG] Запрошен logout.php
+<05:35:07> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:35:18> [MSG] Запрошен login.php
+<05:35:18> [WARN] Переданы неверные значения email&pass
+<05:35:26> [MSG] Запрошен login.php
+<05:35:26> [WARN] Не найден пользователь "ff@ds.com"
+<05:35:31> [MSG] Запрошен login.php
+<05:35:31> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:36:17> [MSG] Запрошен login.php
+<05:36:17> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:36:22> [MSG] Запрошен login.php
+<05:36:23> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:36:41> [MSG] Запрошен login.php
+<05:36:41> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:36:41> [MSG] Запрошен login.php
+<05:36:41> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:36:45> [MSG] Запрошен login.php
+<05:36:45> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:37:10> [MSG] Запрошен login.php
+<05:37:10> [ERROR] Введен неверный пароль пользователя "ff@ff.com"
+<05:37:13> [MSG] Запрошен login.php
+<05:37:13> [MSG] Аутентифицирован пользователь ""
+<05:37:44> [MSG] Запрошен logout.php
+<05:37:44> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:37:50> [MSG] Запрошен login.php
+<05:37:50> [MSG] Аутентифицирован пользователь ""
+<05:38:14> [MSG] Запрошен logout.php
+<05:38:14> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:38:18> [MSG] Запрошен login.php
+<05:38:18> [MSG] Аутентифицирован пользователь ""
+<05:38:21> [MSG] Запрошен logout.php
+<05:38:21> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:38:46> [MSG] Запрошен signup.php
+<05:38:46> [WARN] Переданы неверные значения email&pass&nick
+<05:38:57> [MSG] Запрошен signup.php
+<05:38:57> [MSG] Зарегистрирован пользователь "пп:hello@mail.ru"
+<05:40:35> [MSG] Запрошен logout.php
+<05:40:35> [MSG] Пользователь "hello@mail.ru" вышел
+<05:40:40> [MSG] Запрошен login.php
+<05:40:40> [MSG] Аутентифицирован пользователь ""
+<05:41:11> [MSG] Запрошен logout.php
+<05:41:11> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:41:27> [MSG] Запрошен login.php
+<05:41:27> [MSG] Аутентифицирован пользователь ""
+<05:48:19> [MSG] Запрошен signup.php
+<05:48:19> [MSG] Зарегистрирован пользователь "test:test@test.com"
+<05:48:43> [MSG] Запрошен login.php
+<05:48:43> [WARN] Не найден пользователь "test@test.com"
+<05:48:57> [MSG] Запрошен login.php
+<05:48:57> [WARN] Переданы неверные значения email&pass
+<05:48:58> [MSG] Запрошен login.php
+<05:48:58> [WARN] Переданы неверные значения email&pass
+<05:48:59> [MSG] Запрошен login.php
+<05:48:59> [WARN] Переданы неверные значения email&pass
+<05:49:05> [MSG] Запрошен login.php
+<05:49:05> [MSG] Аутентифицирован пользователь ""
+<05:49:10> [MSG] Запрошен logout.php
+<05:49:10> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<06:12:16> [MSG] Запрошен login.php
+<06:12:16> [MSG] Аутентифицирован пользователь ""
+<08:01:59> [MSG] Запрошен logout.php
+<08:01:59> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<08:26:45> [MSG] Запрошен login.php
+<08:26:45> [MSG] Аутентифицирован пользователь ""
+<08:33:42> [MSG] Запрошен logout.php
+<08:33:42> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<08:44:06> [MSG] Запрошен login.php
+<08:44:06> [MSG] Аутентифицирован пользователь ""
+<08:52:45> [MSG] Запрошен logout.php
+<08:52:45> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<08:52:53> [MSG] Запрошен login.php
+<08:52:53> [MSG] Аутентифицирован пользователь ""
+<08:52:58> [MSG] Запрошен logout.php
+<08:52:58> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<08:58:13> [MSG] Запрошен login.php
+<08:58:13> [MSG] Аутентифицирован пользователь ""
+<09:01:11> [MSG] Запрошен login.php
+<09:01:11> [DEBUG] Попытка аутен. ранее аутентифиц. пользователя "Lucors"
+<09:01:16> [MSG] Запрошен logout.php
+<09:01:16> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:01:23> [MSG] Запрошен login.php
+<09:01:23> [MSG] Аутентифицирован пользователь ""
+<09:01:24> [MSG] Запрошен logout.php
+<09:01:24> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:01:35> [MSG] Запрошен login.php
+<09:01:35> [MSG] Аутентифицирован пользователь ""
+<09:01:53> [MSG] Запрошен logout.php
+<09:01:53> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:01:57> [MSG] Запрошен login.php
+<09:01:57> [MSG] Аутентифицирован пользователь ""
+<09:01:59> [MSG] Запрошен logout.php
+<09:01:59> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:02:02> [MSG] Запрошен login.php
+<09:02:02> [MSG] Аутентифицирован пользователь ""
+<09:02:04> [MSG] Запрошен logout.php
+<09:02:04> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:02:19> [MSG] Запрошен login.php
+<09:02:19> [MSG] Аутентифицирован пользователь ""
+<09:02:22> [MSG] Запрошен logout.php
+<09:02:22> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:02:26> [MSG] Запрошен login.php
+<09:02:26> [MSG] Аутентифицирован пользователь ""
+<09:02:28> [MSG] Запрошен logout.php
+<09:02:28> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:02:33> [MSG] Запрошен login.php
+<09:02:33> [MSG] Аутентифицирован пользователь ""
+<09:02:35> [MSG] Запрошен logout.php
+<09:02:35> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:04:37> [MSG] Запрошен login.php
+<09:04:37> [MSG] Аутентифицирован пользователь ""
+<09:04:39> [MSG] Запрошен logout.php
+<09:04:39> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:04:42> [MSG] Запрошен login.php
+<09:04:42> [MSG] Аутентифицирован пользователь ""
+<09:04:43> [MSG] Запрошен logout.php
+<09:04:43> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:04:47> [MSG] Запрошен login.php
+<09:04:47> [MSG] Аутентифицирован пользователь ""
+<09:04:48> [MSG] Запрошен logout.php
+<09:04:48> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:06:12> [MSG] Запрошен login.php
+<09:06:12> [MSG] Аутентифицирован пользователь ""
+<09:06:14> [MSG] Запрошен logout.php
+<09:06:14> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:07:23> [MSG] Запрошен login.php
+<09:07:23> [MSG] Аутентифицирован пользователь ""
+<09:09:06> [MSG] Запрошен logout.php
+<09:09:06> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:32:59> [MSG] Запрошен login.php
+<09:32:59> [MSG] Аутентифицирован пользователь ""
+<10:01:16> [MSG] Запрошен logout.php
+<10:01:16> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<10:01:40> [MSG] Запрошен login.php
+<10:01:40> [MSG] Аутентифицирован пользователь ""
+<10:02:37> [MSG] Запрошен logout.php
+<10:02:37> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<10:02:46> [MSG] Запрошен login.php
+<10:02:46> [MSG] Аутентифицирован пользователь ""
+<10:17:33> [MSG] Запрошен settings.php
+<10:18:01> [MSG] Запрошен settings.php
+<10:19:48> [MSG] Запрошен login.php
+<10:19:48> [WARN] Не найден пользователь "thesourecode.max@yandex.ru"
+<10:19:52> [MSG] Запрошен login.php
+<10:19:52> [MSG] Аутентифицирован пользователь ""
+<10:19:53> [MSG] Запрошен settings.php
+<10:21:26> [MSG] Запрошен settings.php
+<10:21:35> [MSG] Запрошен settings.php
+<10:21:37> [MSG] Запрошен settings.php
+<10:21:39> [MSG] Запрошен settings.php
+<10:21:42> [MSG] Запрошен settings.php
+<10:21:46> [MSG] Запрошен settings.php
+<10:21:51> [MSG] Запрошен settings.php
+<10:28:14> [MSG] Запрошен settings.php
+<10:33:19> [MSG] Запрошен settings.php
+<10:34:15> [MSG] Запрошен settings.php
+<10:37:04> [MSG] Запрошен settings.php
+<10:39:00> [MSG] Запрошен settings.php
+<10:39:24> [MSG] Запрошен settings.php
+<10:40:03> [MSG] Запрошен settings.php
+<10:40:06> [MSG] Запрошен settings.php
+<10:40:09> [MSG] Запрошен settings.php
+<13:50:47> [MSG] Запрошен login.php
+<13:50:47> [WARN] Переданы неверные значения email&pass
+<17:03:38> [MSG] Запрошен signup.php
+<17:03:38> [MSG] Зарегистрирован пользователь "jekarws:jekarws@gmail.com"
+<17:03:45> [MSG] Запрошен logout.php
+<17:03:45> [MSG] Пользователь "jekarws@gmail.com" вышел
+<17:03:48> [MSG] Запрошен login.php
+<17:03:48> [MSG] Аутентифицирован пользователь ""
+<17:04:14> [MSG] Запрошен settings.php
+<17:04:21> [MSG] Запрошен settings.php
+<17:04:25> [MSG] Запрошен settings.php
+<17:04:33> [MSG] Запрошен logout.php
+<17:04:33> [MSG] Пользователь "jekarws@gmail.com" вышел
+<17:04:36> [MSG] Запрошен login.php
+<17:04:36> [MSG] Аутентифицирован пользователь ""
+<17:04:49> [MSG] Запрошен settings.php
+<17:04:59> [MSG] Запрошен settings.php
+<17:05:02> [MSG] Запрошен logout.php
+<17:05:02> [MSG] Пользователь "jekarws@gmail.com" вышел
+<17:05:10> [MSG] Запрошен login.php
+<17:05:10> [MSG] Аутентифицирован пользователь ""
+<19:35:40> [MSG] Запрошен settings.php
+<19:35:43> [MSG] Запрошен settings.php
+<19:47:54> [MSG] Запрошен settings.php
+<20:30:08> [MSG] Запрошен login.php
+<20:30:08> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru"
+<20:30:23> [MSG] Запрошен signup.php
+<20:30:23> [MSG] Зарегистрирован пользователь "Lucors:thesourcecode.max@yandex.ru"
+<20:52:12> [MSG] Запрошен login.php
+<20:52:12> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru"
+<20:52:26> [MSG] Запрошен signup.php
+<20:52:26> [MSG] Зарегистрирован пользователь "Lucors:thesourcecode.max@yandex.ru"
+<20:54:55> [MSG] Запрошен settings.php
+<20:55:24> [MSG] Запрошен settings.php
+<20:56:01> [MSG] Запрошен settings.php
+<20:56:02> [MSG] Запрошен settings.php
+<20:56:35> [MSG] Запрошен settings.php
+<20:58:24> [MSG] Запрошен settings.php
+<20:59:51> [MSG] Запрошен settings.php
+<21:01:17> [MSG] Запрошен settings.php
+<21:01:29> [MSG] Запрошен settings.php
+<21:01:33> [MSG] Запрошен settings.php
+<21:01:45> [MSG] Запрошен settings.php
+<21:01:50> [MSG] Запрошен settings.php
+<21:02:00> [MSG] Запрошен settings.php
+<21:04:58> [MSG] Запрошен settings.php
+<21:05:20> [MSG] Запрошен settings.php
+<21:08:24> [MSG] Запрошен settings.php
+<21:08:24> [WARN] Неавторизированный польз. попытался получить настройки
+<21:08:27> [MSG] Запрошен settings.php
+<21:08:29> [MSG] Запрошен settings.php
+<21:08:32> [MSG] Запрошен settings.php
+<21:34:30> [MSG] Запрошен settings.php
+<21:34:40> [MSG] Запрошен settings.php
+<21:49:54> [MSG] Запрошен settings.php
+<21:49:56> [MSG] Запрошен settings.php
+<21:49:56> [WARN] Ошибка декодирования json строки [set]
+<21:50:36> [MSG] Запрошен settings.php
+<21:50:38> [MSG] Запрошен settings.php
+<21:51:00> [MSG] Запрошен settings.php
+<21:51:24> [MSG] Запрошен settings.php
+<21:52:05> [MSG] Запрошен settings.php
+<21:52:07> [MSG] Запрошен settings.php
+<21:52:53> [MSG] Запрошен settings.php
+<21:52:55> [MSG] Запрошен settings.php
+<21:53:26> [MSG] Запрошен settings.php
+<21:54:00> [MSG] Запрошен settings.php
+<22:16:22> [MSG] Запрошен settings.php
+<22:16:25> [MSG] Запрошен settings.php
+<22:16:28> [MSG] Запрошен settings.php
+<22:22:29> [MSG] Запрошен settings.php
+<22:22:32> [MSG] Запрошен settings.php
+<22:22:34> [MSG] Запрошен settings.php
+<22:25:12> [MSG] Запрошен settings.php
+<22:25:13> [MSG] Запрошен settings.php
+<22:25:35> [MSG] Запрошен settings.php
+<22:25:41> [MSG] Запрошен settings.php
+<22:25:44> [MSG] Запрошен settings.php
+<22:25:46> [MSG] Запрошен settings.php
+<22:25:48> [MSG] Запрошен settings.php
+<22:25:51> [MSG] Запрошен settings.php
+<22:25:53> [MSG] Запрошен settings.php
+<22:26:48> [MSG] Запрошен settings.php
+<22:26:50> [MSG] Запрошен settings.php
+<22:26:54> [MSG] Запрошен settings.php
+<22:26:55> [MSG] Запрошен settings.php
+<22:26:56> [MSG] Запрошен settings.php
+<22:26:57> [MSG] Запрошен settings.php
+<22:26:59> [MSG] Запрошен settings.php
+<22:27:20> [MSG] Запрошен settings.php
+<22:27:22> [MSG] Запрошен settings.php
+<22:27:24> [MSG] Запрошен settings.php
+<22:27:26> [MSG] Запрошен settings.php
+<22:27:40> [MSG] Запрошен settings.php
+<22:27:42> [MSG] Запрошен settings.php
+<22:27:45> [MSG] Запрошен logout.php
+<22:27:45> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<22:27:47> [MSG] Запрошен login.php
+<22:27:47> [MSG] Аутентифицирован пользователь ""
+<22:27:48> [MSG] Запрошен settings.php
+<22:27:50> [MSG] Запрошен settings.php
+<22:27:52> [MSG] Запрошен settings.php
+<22:27:54> [MSG] Запрошен settings.php
+<22:27:57> [MSG] Запрошен settings.php
+<22:27:58> [MSG] Запрошен settings.php
+<22:28:02> [MSG] Запрошен settings.php
+<22:28:45> [MSG] Запрошен settings.php
+<22:28:54> [MSG] Запрошен settings.php
+<22:29:06> [MSG] Запрошен settings.php
+<22:40:08> [MSG] Запрошен settings.php
+<22:40:10> [MSG] Запрошен settings.php
+<22:40:14> [MSG] Запрошен settings.php
+<22:40:15> [MSG] Запрошен settings.php
+<22:40:56> [MSG] Запрошен settings.php
+<22:47:05> [MSG] Запрошен settings.php
+<22:47:05> [WARN] Неавторизированный польз. попытался получить настройки
+<22:47:11> [MSG] Запрошен settings.php
+<22:47:11> [WARN] Неавторизированный польз. попытался получить настройки
+<22:47:13> [MSG] Запрошен login.php
+<22:47:13> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru"
+<22:47:22> [MSG] Запрошен signup.php
+<22:47:22> [MSG] Зарегистрирован пользователь "Lucors:thesourcecode.max@yandex.ru"
+<22:47:25> [MSG] Запрошен settings.php
+<22:47:27> [MSG] Запрошен settings.php
+<22:47:32> [MSG] Запрошен settings.php
+<22:47:33> [MSG] Запрошен settings.php
+<22:47:35> [MSG] Запрошен settings.php
+<22:47:37> [MSG] Запрошен settings.php
+<22:47:39> [MSG] Запрошен settings.php
+<22:47:41> [MSG] Запрошен settings.php
+<22:47:43> [MSG] Запрошен settings.php
+<22:47:44> [MSG] Запрошен settings.php
+<22:47:46> [MSG] Запрошен settings.php
+<22:47:49> [MSG] Запрошен logout.php
+<22:47:49> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<22:47:52> [MSG] Запрошен login.php
+<22:47:52> [MSG] Аутентифицирован пользователь ""
+<22:47:53> [MSG] Запрошен settings.php
+<22:49:24> [MSG] Запрошен settings.php
+<22:49:26> [MSG] Запрошен settings.php
+<22:49:29> [MSG] Запрошен logout.php
+<22:49:29> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<22:49:31> [MSG] Запрошен login.php
+<22:49:31> [MSG] Аутентифицирован пользователь ""
+<22:49:31> [MSG] Запрошен settings.php
+<22:49:35> [MSG] Запрошен logout.php
+<22:49:35> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<22:49:50> [MSG] Запрошен signup.php
+<22:49:50> [MSG] Зарегистрирован пользователь "jeka:jeka@rws.ru"
+<22:49:51> [MSG] Запрошен settings.php
+<22:49:53> [MSG] Запрошен settings.php
+<22:49:55> [MSG] Запрошен logout.php
+<22:49:55> [MSG] Пользователь "jeka@rws.ru" вышел
+<22:49:58> [MSG] Запрошен login.php
+<22:49:58> [MSG] Аутентифицирован пользователь ""
+<22:49:58> [MSG] Запрошен settings.php
+<22:50:00> [MSG] Запрошен settings.php
+<22:52:48> [MSG] Запрошен settings.php
+<22:52:52> [MSG] Запрошен settings.php
+<22:52:54> [MSG] Запрошен settings.php
+<22:52:57> [MSG] Запрошен logout.php
+<22:52:57> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:07:35> [MSG] Запрошен login.php
+<23:07:35> [MSG] Аутентифицирован пользователь ""
+<23:07:35> [MSG] Запрошен settings.php
+<23:07:37> [MSG] Запрошен settings.php
+<23:18:49> [MSG] Запрошен logout.php
+<23:18:49> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:20:35> [MSG] Запрошен signup.php
+<23:20:35> [WARN] Переданы неверные значения email&pass&nick
+<23:20:41> [MSG] Запрошен signup.php
+<23:20:41> [MSG] Зарегистрирован пользователь "Жека:navi@navi.ru"
+<23:20:41> [MSG] Запрошен settings.php
+<23:21:06> [MSG] Запрошен settings.php
+<23:21:10> [MSG] Запрошен settings.php
+<23:21:35> [MSG] Запрошен settings.php
+<23:27:41> [MSG] Запрошен login.php
+<23:27:41> [MSG] Аутентифицирован пользователь ""
+<23:27:41> [MSG] Запрошен settings.php
+<23:45:17> [MSG] Запрошен settings.php
+<23:45:17> [MSG] Запрошен avatars.php
+<23:45:26> [MSG] Запрошен avatars.php
+<23:45:39> [MSG] Запрошен avatars.php
+<23:46:26> [MSG] Запрошен avatars.php
+<23:46:26> [MSG] Запрошен settings.php
+<23:46:43> [MSG] Запрошен logout.php
+<23:46:43> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:46:47> [MSG] Запрошен login.php
+<23:46:47> [MSG] Аутентифицирован пользователь ""
+<23:46:47> [MSG] Запрошен avatars.php
+<23:46:47> [DEBUG] Не найден пользовательский аватар
+<23:46:47> [MSG] Запрошен settings.php
+<23:51:04> [MSG] Запрошен settings.php
+<23:51:16> [MSG] Запрошен settings.php
+<23:51:16> [MSG] Запрошен avatars.php
+<23:51:16> [DEBUG] Не найден пользовательский аватар
+<23:51:25> [MSG] Запрошен settings.php
+<23:51:36> [MSG] Запрошен settings.php
+<23:51:42> [MSG] Запрошен settings.php
+<23:53:21> [MSG] Запрошен logout.php
+<23:53:21> [MSG] Пользователь "jeka@rws.ru" вышел
+<23:53:23> [MSG] Запрошен login.php
+<23:53:23> [MSG] Аутентифицирован пользователь ""
+<23:53:23> [MSG] Запрошен settings.php
+<23:53:23> [MSG] Запрошен avatars.php
+<23:55:08> [MSG] Запрошен settings.php
+<23:55:13> [MSG] Запрошен settings.php
+<23:56:26> [MSG] Запрошен settings.php
+<23:56:26> [MSG] Запрошен avatars.php

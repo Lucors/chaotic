@@ -1,0 +1,746 @@
+<01:59:32> [MSG] Запрошен login.php
+<01:59:32> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<01:59:50> [MSG] Запрошен login.php
+<01:59:50> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<01:59:50> [MSG] Запрошен login.php
+<01:59:50> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:23> [MSG] Запрошен login.php
+<02:11:23> [MSG] Аутентифицирован пользователь "Lucors"
+<02:11:23> [MSG] Запрошен rooms.php
+<02:11:23> [MSG] Запрошен settings.php
+<02:11:24> [MSG] Запрошен avatars.php
+<02:11:26> [MSG] Запрошен logout.php
+<02:11:26> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<02:11:41> [MSG] Запрошен login.php
+<02:11:41> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:46> [MSG] Запрошен login.php
+<02:11:46> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:46> [MSG] Запрошен login.php
+<02:11:46> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:47> [MSG] Запрошен login.php
+<02:11:47> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:47> [MSG] Запрошен login.php
+<02:11:47> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:51> [MSG] Запрошен login.php
+<02:11:51> [ERROR] Введен неверный пароль пользователя "thesourcecode.max@yandex.ru"
+<02:11:56> [MSG] Запрошен login.php
+<02:11:56> [MSG] Аутентифицирован пользователь "Lucors"
+<02:11:56> [MSG] Запрошен rooms.php
+<02:11:56> [MSG] Запрошен settings.php
+<02:11:56> [MSG] Запрошен avatars.php
+<02:22:32> [MSG] Запрошен rooms.php
+<02:22:32> [MSG] Запрошен topics.php
+<02:22:42> [MSG] Запрошен rooms.php
+<02:26:35> [MSG] Запрошен rooms.php
+<02:26:38> [MSG] Запрошен topics.php
+<02:27:12> [MSG] Запрошен rooms.php
+<02:29:50> [MSG] Запрошен rooms.php
+<02:29:50> [MSG] Запрошен avatars.php
+<02:29:50> [MSG] Запрошен settings.php
+<02:29:52> [MSG] Запрошен logout.php
+<02:29:52> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<02:29:55> [MSG] Запрошен rooms.php
+<02:29:55> [WARN] Недостаточно прав для создания комнаты [getAll]
+<02:30:04> [MSG] Запрошен topics.php
+<02:30:04> [WARN] Недостаточно прав для создания комнаты [getAll]
+<02:30:06> [MSG] Запрошен users.php
+<02:30:06> [WARN] Недостаточно прав для запроса пользователей
+<02:30:14> [MSG] Запрошен users.php
+<02:30:14> [WARN] Недостаточно прав для запроса пользователей
+<02:30:15> [MSG] Запрошен notifications.php
+<02:30:15> [WARN] Недостаточно прав для запроса уведомлений
+<02:31:51> [MSG] Запрошен login.php
+<02:31:51> [MSG] Аутентифицирован пользователь "Lucors"
+<02:31:51> [MSG] Запрошен rooms.php
+<02:31:51> [MSG] Запрошен avatars.php
+<02:31:51> [MSG] Запрошен settings.php
+<02:33:17> [MSG] Запрошен rooms.php
+<02:34:10> [MSG] Запрошен rooms.php
+<02:34:10> [MSG] Запрошен topics.php
+<02:35:25> [MSG] Запрошен rooms.php
+<02:35:25> [MSG] Запрошен topics.php
+<02:36:08> [MSG] Запрошен rooms.php
+<02:36:17> [MSG] Запрошен rooms.php
+<02:36:17> [MSG] Запрошен topics.php
+<02:36:50> [MSG] Запрошен login.php
+<02:36:50> [MSG] Аутентифицирован пользователь "Lucors"
+<02:36:50> [MSG] Запрошен rooms.php
+<02:36:50> [MSG] Запрошен avatars.php
+<02:36:50> [MSG] Запрошен settings.php
+<02:36:52> [MSG] Запрошен topics.php
+<02:36:52> [MSG] Запрошен maps.php
+<02:37:11> [MSG] Запрошен rooms.php
+<02:37:11> [WARN] Неверное значение "Время ответа" [createRoom]
+<02:37:18> [MSG] Запрошен rooms.php
+<02:37:18> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('ПРИВЕТ, КО', 2, '',
+						20, 0, 1, 1)
+			
+<02:37:26> [MSG] Запрошен rooms.php
+<02:37:28> [MSG] Запрошен rooms.php
+<02:37:28> [MSG] Запрошен topics.php
+<02:37:31> [MSG] Запрошен rooms.php
+<02:37:31> [MSG] Запрошен topics.php
+<02:37:45> [MSG] Запрошен rooms.php
+<02:37:45> [MSG] Запрошен avatars.php
+<02:37:45> [MSG] Запрошен settings.php
+<02:37:52> [MSG] Запрошен rooms.php
+<02:37:52> [MSG] Запрошен topics.php
+<02:37:52> [MSG] Запрошен topics.php
+<02:37:52> [MSG] Запрошен rooms.php
+<02:37:53> [MSG] Запрошен rooms.php
+<02:37:53> [MSG] Запрошен topics.php
+<02:37:54> [MSG] Запрошен rooms.php
+<02:37:54> [MSG] Запрошен topics.php
+<02:37:54> [MSG] Запрошен rooms.php
+<02:37:54> [MSG] Запрошен topics.php
+<02:37:55> [MSG] Запрошен rooms.php
+<02:37:55> [MSG] Запрошен topics.php
+<02:37:56> [MSG] Запрошен rooms.php
+<02:37:56> [MSG] Запрошен topics.php
+<02:37:57> [MSG] Запрошен rooms.php
+<02:37:57> [MSG] Запрошен topics.php
+<02:37:59> [MSG] Запрошен rooms.php
+<02:37:59> [MSG] Запрошен topics.php
+<02:38:01> [MSG] Запрошен rooms.php
+<02:38:01> [MSG] Запрошен topics.php
+<02:38:11> [MSG] Запрошен rooms.php
+<02:38:11> [MSG] Запрошен topics.php
+<02:38:38> [MSG] Запрошен rooms.php
+<02:38:38> [MSG] Запрошен topics.php
+<02:38:39> [MSG] Запрошен topics.php
+<02:38:39> [MSG] Запрошен rooms.php
+<02:38:40> [MSG] Запрошен rooms.php
+<02:38:40> [MSG] Запрошен topics.php
+<02:38:40> [MSG] Запрошен topics.php
+<02:38:40> [MSG] Запрошен rooms.php
+<02:38:41> [MSG] Запрошен rooms.php
+<02:38:41> [MSG] Запрошен topics.php
+<02:38:42> [MSG] Запрошен rooms.php
+<02:38:42> [MSG] Запрошен topics.php
+<02:39:10> [MSG] Запрошен rooms.php
+<02:44:09> [MSG] Запрошен rooms.php
+<02:44:09> [MSG] Запрошен topics.php
+<02:44:50> [MSG] Запрошен rooms.php
+<02:44:50> [MSG] Запрошен topics.php
+<02:45:01> [MSG] Запрошен rooms.php
+<02:45:01> [MSG] Запрошен topics.php
+<02:45:08> [MSG] Запрошен rooms.php
+<02:45:08> [MSG] Запрошен topics.php
+<02:45:09> [MSG] Запрошен rooms.php
+<02:45:09> [MSG] Запрошен topics.php
+<02:45:09> [MSG] Запрошен rooms.php
+<02:45:09> [MSG] Запрошен topics.php
+<02:45:10> [MSG] Запрошен rooms.php
+<02:45:10> [MSG] Запрошен topics.php
+<02:45:10> [MSG] Запрошен rooms.php
+<02:45:10> [MSG] Запрошен topics.php
+<02:49:37> [MSG] Запрошен topics.php
+<02:49:37> [MSG] Запрошен maps.php
+<02:51:46> [MSG] Запрошен rooms.php
+<02:51:49> [MSG] Запрошен rooms.php
+<02:51:49> [MSG] Запрошен topics.php
+<02:51:54> [MSG] Запрошен rooms.php
+<02:51:54> [MSG] Запрошен topics.php
+<02:54:21> [MSG] Запрошен rooms.php
+<02:54:21> [MSG] Запрошен topics.php
+<02:54:21> [MSG] Запрошен rooms.php
+<02:54:21> [MSG] Запрошен topics.php
+<02:54:21> [MSG] Запрошен rooms.php
+<02:54:21> [MSG] Запрошен topics.php
+<02:54:21> [MSG] Запрошен topics.php
+<02:54:21> [MSG] Запрошен rooms.php
+<02:54:21> [MSG] Запрошен rooms.php
+<02:54:21> [MSG] Запрошен topics.php
+<02:56:38> [MSG] Запрошен rooms.php
+<02:56:38> [MSG] Запрошен avatars.php
+<02:56:38> [MSG] Запрошен settings.php
+<02:56:40> [MSG] Запрошен rooms.php
+<02:56:40> [MSG] Запрошен rooms.php
+<03:12:41> [MSG] Запрошен rooms.php
+<03:12:41> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<03:12:41> [WARN] Комната не найдена [exitRoom]
+<03:12:47> [MSG] Запрошен rooms.php
+<03:12:47> [MSG] Запрошен settings.php
+<03:12:47> [MSG] Запрошен avatars.php
+<03:12:49> [MSG] Запрошен rooms.php
+<03:12:49> [MSG] Запрошен topics.php
+<04:43:53> [MSG] Запрошен rooms.php
+<04:43:53> [MSG] Запрошен topics.php
+<04:43:53> [MSG] Запрошен topics.php
+<04:43:53> [MSG] Запрошен rooms.php
+<04:43:55> [MSG] Запрошен rooms.php
+<04:43:56> [MSG] Запрошен rooms.php
+<04:43:56> [MSG] Запрошен topics.php
+<04:43:58> [MSG] Запрошен rooms.php
+<04:43:58> [MSG] Запрошен topics.php
+<04:43:58> [MSG] Запрошен rooms.php
+<04:44:00> [MSG] Запрошен rooms.php
+<04:44:00> [MSG] Запрошен topics.php
+<04:44:00> [MSG] Запрошен rooms.php
+<04:44:01> [MSG] Запрошен rooms.php
+<04:44:02> [MSG] Запрошен rooms.php
+<04:44:02> [MSG] Запрошен topics.php
+<04:44:04> [MSG] Запрошен rooms.php
+<04:44:04> [MSG] Запрошен topics.php
+<04:44:04> [MSG] Запрошен rooms.php
+<04:44:09> [MSG] Запрошен settings.php
+<04:44:11> [MSG] Запрошен settings.php
+<04:44:13> [MSG] Запрошен rooms.php
+<04:44:13> [MSG] Запрошен topics.php
+<04:44:13> [MSG] Запрошен rooms.php
+<04:44:14> [MSG] Запрошен topics.php
+<04:44:14> [MSG] Запрошен rooms.php
+<04:44:15> [MSG] Запрошен settings.php
+<04:44:17> [MSG] Запрошен settings.php
+<04:44:19> [MSG] Запрошен rooms.php
+<04:44:19> [MSG] Запрошен rooms.php
+<04:44:19> [MSG] Запрошен topics.php
+<04:44:21> [MSG] Запрошен users.php
+<04:46:05> [MSG] Запрошен rooms.php
+<04:46:13> [MSG] Запрошен settings.php
+<04:46:15> [MSG] Запрошен topics.php
+<04:46:15> [MSG] Запрошен maps.php
+<04:46:25> [MSG] Запрошен users.php
+<04:46:33> [MSG] Запрошен rooms.php
+<04:46:33> [MSG] Запрошен topics.php
+<04:46:34> [MSG] Запрошен rooms.php
+<04:46:34> [MSG] Запрошен topics.php
+<04:46:35> [MSG] Запрошен rooms.php
+<04:46:36> [MSG] Запрошен rooms.php
+<04:46:36> [MSG] Запрошен topics.php
+<04:46:37> [MSG] Запрошен rooms.php
+<04:46:38> [MSG] Запрошен rooms.php
+<04:46:38> [MSG] Запрошен topics.php
+<04:46:39> [MSG] Запрошен rooms.php
+<04:46:40> [MSG] Запрошен rooms.php
+<04:46:40> [MSG] Запрошен topics.php
+<04:46:41> [MSG] Запрошен rooms.php
+<04:46:42> [MSG] Запрошен rooms.php
+<04:46:42> [MSG] Запрошен topics.php
+<04:46:45> [MSG] Запрошен rooms.php
+<04:46:45> [MSG] Запрошен rooms.php
+<04:46:46> [MSG] Запрошен topics.php
+<04:46:47> [MSG] Запрошен rooms.php
+<04:46:48> [MSG] Запрошен rooms.php
+<04:46:48> [MSG] Запрошен topics.php
+<04:46:50> [MSG] Запрошен rooms.php
+<04:46:52> [MSG] Запрошен rooms.php
+<04:46:52> [MSG] Запрошен topics.php
+<04:46:53> [MSG] Запрошен rooms.php
+<04:46:53> [MSG] Запрошен topics.php
+<04:46:53> [MSG] Запрошен rooms.php
+<04:46:54> [MSG] Запрошен rooms.php
+<04:46:54> [MSG] Запрошен topics.php
+<04:47:11> [MSG] Запрошен users.php
+<04:47:24> [MSG] Запрошен private-messages.php
+<04:47:26> [MSG] Запрошен private-messages.php
+<04:47:27> [MSG] Запрошен private-messages.php
+<04:47:29> [MSG] Запрошен private-messages.php
+<04:47:30> [MSG] Запрошен private-messages.php
+<04:47:31> [MSG] Запрошен private-messages.php
+<04:47:32> [MSG] Запрошен private-messages.php
+<04:47:33> [MSG] Запрошен private-messages.php
+<04:47:38> [MSG] Запрошен users.php
+<04:48:14> [MSG] Запрошен users.php
+<04:48:19> [MSG] Запрошен users.php
+<04:48:21> [MSG] Запрошен users.php
+<04:49:24> [MSG] Запрошен users.php
+<04:49:25> [MSG] Запрошен private-messages.php
+<04:50:09> [MSG] Запрошен users.php
+<04:51:59> [MSG] Запрошен private-messages.php
+<04:52:30> [MSG] Запрошен logout.php
+<04:52:30> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<04:53:14> [MSG] Запрошен login.php
+<04:53:14> [MSG] Аутентифицирован пользователь "Братишка"
+<04:53:14> [MSG] Запрошен rooms.php
+<04:53:14> [MSG] Запрошен avatars.php
+<04:53:14> [MSG] Запрошен settings.php
+<04:53:16> [MSG] Запрошен rooms.php
+<04:53:16> [MSG] Запрошен rooms.php
+<04:53:16> [WARN] Ошибка получения списка комнат [getAll]
+<04:53:19> [MSG] Запрошен rooms.php
+<04:53:19> [WARN] Ошибка получения списка комнат [getAll]
+<04:53:19> [MSG] Запрошен avatars.php
+<04:53:19> [MSG] Запрошен settings.php
+<04:53:24> [MSG] Запрошен avatars.php
+<04:53:24> [MSG] Запрошен settings.php
+<04:53:24> [MSG] Запрошен rooms.php
+<04:53:24> [WARN] Ошибка получения списка комнат [getAll]
+<04:53:53> [MSG] Запрошен rooms.php
+<04:53:53> [WARN] Ошибка получения списка комнат [getAll]
+<04:54:26> [MSG] Запрошен login.php
+<04:54:26> [MSG] Аутентифицирован пользователь "Lucors"
+<04:54:26> [MSG] Запрошен rooms.php
+<04:54:26> [WARN] Ошибка получения списка комнат [getAll]
+<04:54:26> [MSG] Запрошен settings.php
+<04:54:26> [MSG] Запрошен avatars.php
+<04:58:41> [MSG] Запрошен topics.php
+<04:58:41> [MSG] Запрошен maps.php
+<04:58:47> [MSG] Запрошен login.php
+<04:58:47> [MSG] Запрошен rooms.php
+<04:58:47> [WARN] Ошибка получения списка комнат [getAll]
+<04:58:47> [MSG] Запрошен avatars.php
+<04:58:47> [MSG] Запрошен settings.php
+<04:58:49> [MSG] Запрошен rooms.php
+<04:58:49> [WARN] Ошибка получения списка комнат [getAll]
+<04:58:49> [MSG] Запрошен settings.php
+<04:58:49> [MSG] Запрошен avatars.php
+<04:58:52> [MSG] Запрошен rooms.php
+<04:58:52> [WARN] Ошибка получения списка комнат [getAll]
+<04:58:52> [MSG] Запрошен settings.php
+<04:58:53> [MSG] Запрошен avatars.php
+<04:58:56> [MSG] Запрошен rooms.php
+<04:58:56> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('ds', 0, '',
+						10, 0, 4, 1)
+			
+<04:58:58> [MSG] Запрошен rooms.php
+<04:58:58> [MSG] Запрошен avatars.php
+<04:58:58> [MSG] Запрошен settings.php
+<04:59:00> [MSG] Запрошен rooms.php
+<04:59:41> [MSG] Запрошен rooms.php
+<04:59:41> [MSG] Запрошен settings.php
+<04:59:41> [MSG] Запрошен avatars.php
+<04:59:47> [MSG] Запрошен settings.php
+<04:59:47> [MSG] Запрошен rooms.php
+<04:59:47> [MSG] Запрошен avatars.php
+<04:59:52> [MSG] Запрошен rooms.php
+<04:59:52> [MSG] Запрошен rooms.php
+<04:59:52> [WARN] Ошибка получения списка комнат [getAll]
+<04:59:54> [MSG] Запрошен rooms.php
+<04:59:54> [WARN] Ошибка получения списка комнат [getAll]
+<04:59:54> [MSG] Запрошен settings.php
+<04:59:54> [MSG] Запрошен avatars.php
+<05:02:09> [MSG] Запрошен rooms.php
+<05:02:09> [MSG] Запрошен avatars.php
+<05:02:09> [MSG] Запрошен settings.php
+<05:02:11> [MSG] Запрошен settings.php
+<05:02:11> [MSG] Запрошен rooms.php
+<05:02:11> [MSG] Запрошен avatars.php
+<05:02:13> [MSG] Запрошен rooms.php
+<05:02:16> [MSG] Запрошен topics.php
+<05:02:16> [MSG] Запрошен maps.php
+<05:02:19> [MSG] Запрошен rooms.php
+<05:02:19> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('ds', 0, '',
+						10, 0, 4, 1)
+			
+<05:02:21> [MSG] Запрошен rooms.php
+<05:02:23> [MSG] Запрошен topics.php
+<05:02:23> [MSG] Запрошен rooms.php
+<05:02:27> [MSG] Запрошен rooms.php
+<05:02:27> [MSG] Запрошен rooms.php
+<05:02:53> [MSG] Запрошен users.php
+<05:02:55> [MSG] Запрошен private-messages.php
+<05:03:20> [MSG] Запрошен users.php
+<05:03:22> [MSG] Запрошен private-messages.php
+<05:04:08> [MSG] Запрошен private-messages.php
+<05:04:15> [MSG] Запрошен users.php
+<05:04:17> [MSG] Запрошен private-messages.php
+<05:04:37> [MSG] Запрошен logout.php
+<05:04:37> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:04:47> [MSG] Запрошен private-messages.php
+<05:05:29> [MSG] Запрошен login.php
+<05:05:29> [MSG] Аутентифицирован пользователь "Lucors"
+<05:05:29> [MSG] Запрошен rooms.php
+<05:05:29> [MSG] Запрошен avatars.php
+<05:05:29> [MSG] Запрошен settings.php
+<05:05:31> [MSG] Запрошен users.php
+<05:05:32> [MSG] Запрошен private-messages.php
+<05:05:34> [MSG] Запрошен private-messages.php
+<05:05:43> [MSG] Запрошен private-messages.php
+<05:05:45> [MSG] Запрошен private-messages.php
+<05:05:53> [MSG] Запрошен private-messages.php
+<05:06:53> [MSG] Запрошен private-messages.php
+<05:07:13> [MSG] Запрошен users.php
+<05:07:16> [MSG] Запрошен logout.php
+<05:07:16> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:07:21> [MSG] Запрошен login.php
+<05:07:21> [WARN] Не найден пользователь "jeka@jeka.ru"
+<05:07:23> [MSG] Запрошен login.php
+<05:07:23> [MSG] Аутентифицирован пользователь "test"
+<05:07:23> [MSG] Запрошен rooms.php
+<05:07:23> [MSG] Запрошен settings.php
+<05:07:23> [MSG] Запрошен avatars.php
+<05:07:25> [MSG] Запрошен users.php
+<05:07:27> [MSG] Запрошен notifications.php
+<05:07:28> [MSG] Запрошен users.php
+<05:07:40> [MSG] Запрошен private-messages.php
+<05:09:56> [MSG] Запрошен private-messages.php
+<05:10:41> [MSG] Запрошен private-messages.php
+<05:10:43> [MSG] Запрошен users.php
+<05:10:46> [MSG] Запрошен users.php
+<05:10:47> [MSG] Запрошен notifications.php
+<05:10:47> [MSG] Запрошен users.php
+<05:10:56> [MSG] Запрошен private-messages.php
+<05:11:09> [MSG] Запрошен private-messages.php
+<05:11:13> [MSG] Запрошен private-messages.php
+<05:11:27> [MSG] Запрошен private-messages.php
+<05:11:33> [MSG] Запрошен rooms.php
+<05:11:33> [MSG] Запрошен settings.php
+<05:11:33> [MSG] Запрошен avatars.php
+<05:11:40> [MSG] Запрошен users.php
+<05:11:44> [MSG] Запрошен users.php
+<05:11:46> [MSG] Запрошен private-messages.php
+<05:11:57> [MSG] Запрошен notifications.php
+<05:11:57> [MSG] Запрошен users.php
+<05:12:12> [MSG] Запрошен users.php
+<05:12:16> [MSG] Запрошен users.php
+<05:12:19> [MSG] Запрошен notifications.php
+<05:12:21> [MSG] Запрошен users.php
+<05:12:22> [MSG] Запрошен notifications.php
+<05:12:22> [MSG] Запрошен users.php
+<05:12:27> [MSG] Запрошен notifications.php
+<05:12:36> [MSG] Запрошен login.php
+<05:12:36> [MSG] Аутентифицирован пользователь "Lucors"
+<05:12:36> [MSG] Запрошен rooms.php
+<05:12:36> [MSG] Запрошен avatars.php
+<05:12:36> [MSG] Запрошен settings.php
+<05:12:38> [MSG] Запрошен users.php
+<05:12:40> [MSG] Запрошен private-messages.php
+<05:12:42> [MSG] Запрошен notifications.php
+<05:12:58> [MSG] Запрошен users.php
+<05:13:00> [MSG] Запрошен users.php
+<05:13:01> [MSG] Запрошен users.php
+<05:13:03> [MSG] Запрошен notifications.php
+<05:13:06> [MSG] Запрошен users.php
+<05:13:07> [MSG] Запрошен users.php
+<05:13:08> [MSG] Запрошен users.php
+<05:13:17> [MSG] Запрошен users.php
+<05:13:18> [MSG] Запрошен notifications.php
+<05:13:21> [MSG] Запрошен users.php
+<05:13:21> [MSG] Запрошен notifications.php
+<05:13:24> [MSG] Запрошен users.php
+<05:13:24> [MSG] Запрошен users.php
+<05:13:29> [MSG] Запрошен notifications.php
+<05:13:30> [MSG] Запрошен notifications.php
+<05:13:35> [MSG] Запрошен users.php
+<05:13:37> [MSG] Запрошен notifications.php
+<05:13:38> [MSG] Запрошен users.php
+<05:13:39> [MSG] Запрошен private-messages.php
+<05:13:42> [MSG] Запрошен users.php
+<05:13:43> [MSG] Запрошен notifications.php
+<05:13:44> [MSG] Запрошен notifications.php
+<05:13:45> [MSG] Запрошен users.php
+<05:13:46> [MSG] Запрошен rooms.php
+<05:13:46> [MSG] Запрошен avatars.php
+<05:13:46> [MSG] Запрошен settings.php
+<05:13:48> [MSG] Запрошен settings.php
+<05:13:48> [MSG] Запрошен avatars.php
+<05:13:48> [MSG] Запрошен rooms.php
+<05:13:50> [MSG] Запрошен users.php
+<05:13:51> [MSG] Запрошен notifications.php
+<05:13:52> [MSG] Запрошен users.php
+<05:13:53> [MSG] Запрошен users.php
+<05:13:59> [MSG] Запрошен users.php
+<05:14:00> [MSG] Запрошен notifications.php
+<05:14:01> [MSG] Запрошен users.php
+<05:14:02> [MSG] Запрошен notifications.php
+<05:14:03> [MSG] Запрошен notifications.php
+<05:14:04> [MSG] Запрошен users.php
+<05:14:05> [MSG] Запрошен users.php
+<05:14:06> [MSG] Запрошен notifications.php
+<05:14:07> [MSG] Запрошен users.php
+<05:14:08> [MSG] Запрошен notifications.php
+<05:14:09> [MSG] Запрошен notifications.php
+<05:14:10> [MSG] Запрошен users.php
+<05:14:12> [MSG] Запрошен users.php
+<05:14:14> [MSG] Запрошен notifications.php
+<05:14:15> [MSG] Запрошен users.php
+<05:14:16> [MSG] Запрошен users.php
+<05:14:18> [MSG] Запрошен notifications.php
+<05:14:21> [MSG] Запрошен users.php
+<05:14:22> [MSG] Запрошен private-messages.php
+<05:14:25> [MSG] Запрошен private-messages.php
+<05:14:27> [MSG] Запрошен private-messages.php
+<05:14:29> [MSG] Запрошен users.php
+<05:14:30> [MSG] Запрошен private-messages.php
+<05:14:33> [MSG] Запрошен notifications.php
+<05:14:35> [MSG] Запрошен users.php
+<05:14:36> [MSG] Запрошен notifications.php
+<05:14:37> [MSG] Запрошен users.php
+<05:16:17> [MSG] Запрошен rooms.php
+<05:16:17> [MSG] Запрошен settings.php
+<05:16:17> [MSG] Запрошен avatars.php
+<05:16:19> [MSG] Запрошен users.php
+<05:16:20> [MSG] Запрошен notifications.php
+<05:16:21> [MSG] Запрошен notifications.php
+<05:16:23> [MSG] Запрошен rating.php
+<05:16:30> [MSG] Запрошен rooms.php
+<05:16:33> [MSG] Запрошен topics.php
+<05:16:33> [MSG] Запрошен maps.php
+<05:16:58> [MSG] Запрошен rooms.php
+<05:16:58> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('Привет из Linux', 2, '',
+						20, 0, 17, 1)
+			
+<05:17:02> [MSG] Запрошен rooms.php
+<05:17:02> [MSG] Запрошен avatars.php
+<05:17:02> [MSG] Запрошен settings.php
+<05:17:34> [MSG] Запрошен logout.php
+<05:17:34> [MSG] Пользователь "test.max@yandex.ru" вышел
+<05:17:40> [MSG] Запрошен login.php
+<05:17:40> [MSG] Аутентифицирован пользователь "Lucors"
+<05:17:40> [MSG] Запрошен rooms.php
+<05:17:40> [MSG] Запрошен settings.php
+<05:17:40> [MSG] Запрошен avatars.php
+<05:17:42> [MSG] Запрошен rooms.php
+<05:17:42> [MSG] Запрошен topics.php
+<05:17:56> [MSG] Запрошен login.php
+<05:17:56> [MSG] Аутентифицирован пользователь "Братишка"
+<05:17:56> [MSG] Запрошен rooms.php
+<05:17:56> [MSG] Запрошен avatars.php
+<05:17:56> [MSG] Запрошен settings.php
+<05:17:58> [MSG] Запрошен topics.php
+<05:17:58> [MSG] Запрошен maps.php
+<05:18:58> [MSG] Запрошен rooms.php
+<05:18:58> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('Firefox рулит', 1, 'root',
+						15, 0, 4, 1)
+			
+<05:19:01> [MSG] Запрошен rooms.php
+<05:19:02> [MSG] Запрошен rooms.php
+<05:19:02> [MSG] Запрошен topics.php
+<05:19:03> [MSG] Запрошен rooms.php
+<05:19:03> [MSG] Запрошен topics.php
+<05:19:03> [MSG] Запрошен rooms.php
+<05:19:03> [MSG] Запрошен topics.php
+<05:19:04> [MSG] Запрошен rooms.php
+<05:19:04> [MSG] Запрошен topics.php
+<05:19:05> [MSG] Запрошен rooms.php
+<05:19:05> [MSG] Запрошен topics.php
+<05:19:06> [MSG] Запрошен rooms.php
+<05:19:06> [MSG] Запрошен topics.php
+<05:19:09> [MSG] Запрошен rooms.php
+<05:19:09> [MSG] Запрошен topics.php
+<05:19:10> [MSG] Запрошен rooms.php
+<05:19:10> [MSG] Запрошен topics.php
+<05:20:16> [MSG] Запрошен rooms.php
+<05:20:16> [MSG] Запрошен topics.php
+<05:20:17> [MSG] Запрошен rooms.php
+<05:20:17> [MSG] Запрошен topics.php
+<05:20:18> [MSG] Запрошен rooms.php
+<05:20:18> [MSG] Запрошен topics.php
+<05:20:19> [MSG] Запрошен rooms.php
+<05:20:19> [MSG] Запрошен topics.php
+<05:20:20> [MSG] Запрошен rooms.php
+<05:20:20> [MSG] Запрошен topics.php
+<05:20:21> [MSG] Запрошен rooms.php
+<05:20:22> [MSG] Запрошен topics.php
+<05:20:22> [MSG] Запрошен rooms.php
+<05:20:22> [MSG] Запрошен topics.php
+<05:20:23> [MSG] Запрошен rooms.php
+<05:20:23> [MSG] Запрошен topics.php
+<05:20:24> [MSG] Запрошен rooms.php
+<05:20:24> [MSG] Запрошен topics.php
+<05:20:25> [MSG] Запрошен rooms.php
+<05:20:25> [MSG] Запрошен topics.php
+<05:20:25> [MSG] Запрошен rooms.php
+<05:20:25> [MSG] Запрошен topics.php
+<05:20:25> [MSG] Запрошен topics.php
+<05:20:25> [MSG] Запрошен rooms.php
+<05:20:26> [MSG] Запрошен rooms.php
+<05:20:26> [MSG] Запрошен topics.php
+<05:20:26> [MSG] Запрошен topics.php
+<05:20:26> [MSG] Запрошен rooms.php
+<05:20:26> [MSG] Запрошен topics.php
+<05:20:26> [MSG] Запрошен rooms.php
+<05:20:27> [MSG] Запрошен rooms.php
+<05:20:27> [MSG] Запрошен topics.php
+<05:20:27> [MSG] Запрошен rooms.php
+<05:20:27> [MSG] Запрошен topics.php
+<05:20:27> [MSG] Запрошен rooms.php
+<05:20:27> [MSG] Запрошен topics.php
+<05:20:28> [MSG] Запрошен rooms.php
+<05:20:28> [MSG] Запрошен topics.php
+<05:20:28> [MSG] Запрошен rooms.php
+<05:20:28> [MSG] Запрошен topics.php
+<05:20:28> [MSG] Запрошен rooms.php
+<05:20:28> [MSG] Запрошен topics.php
+<05:20:29> [MSG] Запрошен topics.php
+<05:20:29> [MSG] Запрошен rooms.php
+<05:20:29> [MSG] Запрошен rooms.php
+<05:20:29> [MSG] Запрошен topics.php
+<05:20:29> [MSG] Запрошен topics.php
+<05:20:29> [MSG] Запрошен rooms.php
+<05:20:29> [MSG] Запрошен topics.php
+<05:20:29> [MSG] Запрошен rooms.php
+<05:20:29> [MSG] Запрошен topics.php
+<05:20:29> [MSG] Запрошен rooms.php
+<05:20:30> [MSG] Запрошен rooms.php
+<05:20:30> [MSG] Запрошен topics.php
+<05:20:30> [MSG] Запрошен rooms.php
+<05:20:30> [MSG] Запрошен topics.php
+<05:20:30> [MSG] Запрошен rooms.php
+<05:20:30> [MSG] Запрошен topics.php
+<05:20:31> [MSG] Запрошен rooms.php
+<05:20:31> [MSG] Запрошен topics.php
+<05:20:32> [MSG] Запрошен rooms.php
+<05:20:32> [MSG] Запрошен topics.php
+<05:20:34> [MSG] Запрошен rooms.php
+<05:20:34> [MSG] Запрошен topics.php
+<05:20:36> [MSG] Запрошен rooms.php
+<05:20:36> [MSG] Запрошен topics.php
+<05:20:37> [MSG] Запрошен rooms.php
+<05:20:37> [MSG] Запрошен topics.php
+<05:20:38> [MSG] Запрошен rooms.php
+<05:20:38> [MSG] Запрошен topics.php
+<05:20:39> [MSG] Запрошен rooms.php
+<05:20:39> [MSG] Запрошен topics.php
+<05:20:48> [MSG] Запрошен rooms.php
+<05:20:48> [MSG] Запрошен avatars.php
+<05:20:48> [MSG] Запрошен settings.php
+<05:20:50> [MSG] Запрошен rooms.php
+<05:20:50> [MSG] Запрошен topics.php
+<05:20:50> [MSG] Запрошен rooms.php
+<05:20:50> [MSG] Запрошен topics.php
+<05:20:51> [MSG] Запрошен rooms.php
+<05:20:51> [MSG] Запрошен topics.php
+<05:20:52> [MSG] Запрошен rooms.php
+<05:20:52> [MSG] Запрошен topics.php
+<05:20:54> [MSG] Запрошен rooms.php
+<05:20:54> [MSG] Запрошен topics.php
+<05:20:56> [MSG] Запрошен rooms.php
+<05:20:56> [MSG] Запрошен topics.php
+<05:21:05> [MSG] Запрошен rooms.php
+<05:21:05> [MSG] Запрошен topics.php
+<05:21:06> [MSG] Запрошен rooms.php
+<05:21:06> [MSG] Запрошен topics.php
+<05:21:06> [MSG] Запрошен rooms.php
+<05:21:06> [MSG] Запрошен topics.php
+<05:22:46> [MSG] Запрошен rooms.php
+<05:22:46> [MSG] Запрошен settings.php
+<05:22:46> [MSG] Запрошен avatars.php
+<05:22:48> [MSG] Запрошен rooms.php
+<05:22:48> [MSG] Запрошен topics.php
+<05:22:49> [MSG] Запрошен rooms.php
+<05:22:49> [MSG] Запрошен topics.php
+<05:22:50> [MSG] Запрошен rooms.php
+<05:22:50> [MSG] Запрошен topics.php
+<05:22:50> [MSG] Запрошен rooms.php
+<05:22:50> [MSG] Запрошен topics.php
+<05:22:52> [MSG] Запрошен rooms.php
+<05:22:52> [MSG] Запрошен topics.php
+<05:22:52> [MSG] Запрошен rooms.php
+<05:22:52> [MSG] Запрошен topics.php
+<05:24:21> [MSG] Запрошен rooms.php
+<05:24:21> [MSG] Запрошен topics.php
+<05:24:21> [MSG] Запрошен rooms.php
+<05:24:21> [MSG] Запрошен topics.php
+<05:24:23> [MSG] Запрошен rooms.php
+<05:24:23> [MSG] Запрошен settings.php
+<05:24:23> [MSG] Запрошен avatars.php
+<05:24:25> [MSG] Запрошен rooms.php
+<05:24:25> [MSG] Запрошен topics.php
+<05:24:28> [MSG] Запрошен rooms.php
+<05:24:28> [MSG] Запрошен topics.php
+<05:24:49> [MSG] Запрошен rooms.php
+<05:24:49> [MSG] Запрошен settings.php
+<05:24:49> [MSG] Запрошен avatars.php
+<05:24:51> [MSG] Запрошен rooms.php
+<05:24:51> [MSG] Запрошен topics.php
+<05:25:22> [MSG] Запрошен rooms.php
+<05:25:22> [MSG] Запрошен settings.php
+<05:25:22> [MSG] Запрошен avatars.php
+<05:25:25> [MSG] Запрошен topics.php
+<05:25:25> [MSG] Запрошен rooms.php
+<05:25:25> [MSG] Запрошен rooms.php
+<05:25:25> [MSG] Запрошен topics.php
+<05:25:26> [MSG] Запрошен rooms.php
+<05:25:26> [MSG] Запрошен topics.php
+<05:25:29> [MSG] Запрошен rooms.php
+<05:25:29> [MSG] Запрошен topics.php
+<05:25:32> [MSG] Запрошен rooms.php
+<05:25:32> [MSG] Запрошен topics.php
+<05:25:34> [MSG] Запрошен rooms.php
+<05:25:34> [MSG] Запрошен topics.php
+<05:25:36> [MSG] Запрошен rooms.php
+<05:25:36> [MSG] Запрошен topics.php
+<05:26:28> [MSG] Запрошен rating.php
+<05:26:31> [MSG] Запрошен logout.php
+<05:26:31> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:26:33> [MSG] Запрошен login.php
+<05:26:33> [MSG] Аутентифицирован пользователь "Lucors"
+<05:26:33> [MSG] Запрошен rooms.php
+<05:26:34> [MSG] Запрошен avatars.php
+<05:26:34> [MSG] Запрошен settings.php
+<05:26:36> [MSG] Запрошен rooms.php
+<05:26:36> [MSG] Запрошен topics.php
+<05:26:36> [MSG] Запрошен rooms.php
+<05:26:36> [MSG] Запрошен topics.php
+<05:26:37> [MSG] Запрошен rooms.php
+<05:26:37> [MSG] Запрошен topics.php
+<05:28:51> [MSG] Запрошен rooms.php
+<05:28:51> [MSG] Запрошен avatars.php
+<05:28:51> [MSG] Запрошен settings.php
+<05:28:54> [MSG] Запрошен rooms.php
+<05:28:54> [MSG] Запрошен topics.php
+<05:28:55> [MSG] Запрошен rooms.php
+<05:28:55> [MSG] Запрошен topics.php
+<05:28:55> [MSG] Запрошен topics.php
+<05:28:55> [MSG] Запрошен rooms.php
+<05:28:56> [MSG] Запрошен logout.php
+<05:28:56> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<05:29:04> [MSG] Запрошен login.php
+<05:29:05> [MSG] Аутентифицирован пользователь "Lucors"
+<05:29:05> [MSG] Запрошен rooms.php
+<05:29:05> [MSG] Запрошен avatars.php
+<05:29:05> [MSG] Запрошен settings.php
+<05:29:07> [MSG] Запрошен users.php
+<05:29:09> [MSG] Запрошен private-messages.php
+<05:29:09> [MSG] Запрошен private-messages.php
+<05:29:10> [MSG] Запрошен private-messages.php
+<05:29:12> [MSG] Запрошен private-messages.php
+<05:29:14> [MSG] Запрошен rooms.php
+<05:29:14> [MSG] Запрошен topics.php
+<05:29:15> [MSG] Запрошен rooms.php
+<05:29:15> [MSG] Запрошен topics.php
+<05:29:16> [MSG] Запрошен rooms.php
+<05:29:16> [MSG] Запрошен topics.php
+<12:20:59> [MSG] Запрошен rooms.php
+<12:20:59> [MSG] Запрошен avatars.php
+<12:20:59> [MSG] Запрошен settings.php
+<12:22:11> [MSG] Запрошен rooms.php
+<12:22:11> [MSG] Запрошен topics.php
+<14:28:54> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:28:54> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:00> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:00> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:06> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:06> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:12> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:12> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:18> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:18> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:24> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:24> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:30> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:30> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:36> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:36> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:42> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:42> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:48> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:48> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:54> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:29:54> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:30:00> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:30:00> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:30:06> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<14:30:06> [ERROR] Ошибка MYSQL: MySQL server has gone away

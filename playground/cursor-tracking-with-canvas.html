@@ -1,0 +1,144 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Тест анимаций</title>
+        <link rel="shortcut icon" href="src/playground-favicon.png"/>
+
+        <script src="src/jquery.js"></script>
+        <script src="src/jquery.easing.min.js"></script>
+
+        <style type="text/css">
+            @font-face {
+                font-family: "Comfortaa Regular"; 
+                src: url(src/Comfortaa-Regular.ttf); 
+            }
+            body {
+                margin: 0;
+                padding: 0;
+                width: 100vw;
+                height: 100vh;
+                overflow: hidden;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: #363636;
+                color: white;
+            }
+            a {
+                color: wheat;
+            }
+            canvas {
+                margin: 0;
+                border: none;
+                padding: 0;
+                width: 100vw;
+                height: 100vh;
+            }
+        </style>
+
+        <script defer type="text/javascript">
+            let canvas = null;
+            let ctx = null;
+            let eyes = [];
+            let theta;
+            const mouse = {
+                x: undefined,
+                y: undefined
+            };
+
+            class Eye {
+                constructor(x, y, radius) {
+                    this.x = x;
+                    this.y = y;
+                    this.radius = radius;
+                }
+                draw() {
+                    let dx = mouse.x - this.x;
+                    let dy = mouse.y - this.y;
+                    theta = Math.atan2(dy, dx); 
+                    
+                    // глаз
+                    ctx.beginPath();
+                    ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2, true);
+                    ctx.fillStyle = "rgb(51, 122, 183)";
+                    ctx.fill();
+                    ctx.closePath();
+                    
+                    // зрачок
+                    let pupilRadius = this.radius / 2.5;
+                    let pupil_x = this.x + Math.cos(theta) * this.radius / 1.9;
+                    let pupil_y = this.y + Math.sin(theta) * this.radius / 1.9;
+                    ctx.beginPath();
+                    ctx.arc(pupil_x, pupil_y, pupilRadius, 0, Math.PI * 2, true);
+                    ctx.fillStyle = "white";
+                    ctx.fill();
+                    ctx.closePath();
+                }
+            }
+            function init() {
+                eyes = [];
+                let overlapping = false;
+                let numberOfEyes = Math.random()*40+50; // Кол-во глаз
+                let protection = 10000;
+                let counter = 0;
+                while (eyes.length < numberOfEyes && counter < protection) {
+                    let eye = {
+                        x: Math.random() * canvas.width,
+                        y: Math.random() * canvas.height,
+                        radius: Math.floor(Math.random() * 140) + 10 // радиус глаз
+                    };
+                    overlapping = false;
+                    for (let i = 0; i < eyes.length; i++) {
+                        let previousEye = eyes[i];
+                        let dx = eye.x - previousEye.x;
+                        let dy = eye.y - previousEye.y;
+                        let distance = Math.sqrt(dx * dx + dy * dy);
+                        if (distance < (eye.radius + previousEye.radius)) {
+                            overlapping = true;
+                            break;
+                        }
+                    }
+                    if (!overlapping) {
+                        eyes.push(new Eye(eye.x, eye.y, eye.radius));
+                    }
+                    counter++;
+                }
+            }
+            function animate() {
+                requestAnimationFrame(animate);
+                ctx.fillStyle = "rgb(191, 226, 255)";
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+                for (let i = 0; i < eyes.length; i++) {
+                    eyes[i].draw();
+                }
+            }
+
+
+
+            $(document).ready(function(){
+                canvas = $("canvas").get(0);
+                canvas.width = canvas.offsetWidth;
+                canvas.height = canvas.offsetHeight;
+                ctx = canvas.getContext("2d");
+
+                init();
+                animate();
+                $(window).resize(function(){
+                    canvas.width = $(this).width();
+                    canvas.height = $(this).height();
+                    init();
+                });
+                $(document).mousemove(function(e){
+                    mouse.x = e.pageX - canvas.getBoundingClientRect().left;
+                    mouse.y = e.pageY - canvas.getBoundingClientRect().top;
+                });
+            });
+        </script>
+    </head>
+
+    <body>
+        <canvas></canvas>
+    </body>
+
+</html>

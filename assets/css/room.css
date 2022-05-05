@@ -1,0 +1,88 @@
+#let-me-get-out-of-here {
+	width: max-content;
+    height: max-content;
+    font-size: calc(var(--size-font-general)*2);
+}
+
+#room.panel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#lobby {
+    background-color: var(--color-substr-bg);
+    border-left: var(--size-substr-border) solid var(--color-substr-border);
+    box-shadow: -1.2vw 0px 1.3vw -0.9vw var(--color-substr-shadow);
+    border-radius: 0.7vw;
+    height: 75vh;
+    width: 50vw;
+    display: flex;
+}
+#lobby > .room-info {
+    height: 100%;
+    width: 55%;
+    position: initial;
+    z-index: 0;
+    left: calc(0% + var(--size-substr-border));
+    background-color: unset;
+    border-right: var(--size-substr-border) solid var(--color-substr-border);
+    box-shadow: 1.2vw 0px 1.3vw -0.9vw var(--color-substr-shadow);
+}
+#lobby > .room-users {
+    height: 100%;
+    width: 45%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#lobby > .room-users > .header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: var(--color-modal-header-bg);
+    border-radius: 0 0.7vw 0.7vw 0;
+    width: 100%;
+    padding: 2% 0;
+    margin: 0 0 2% 0;
+}
+#lobby > .room-users > * {
+    width: 90%;
+    margin: 1% 0;
+}
+#lobby > .room-users > .hline {
+    width: 100%;
+}
+#lobby .users-list {
+    height: 70%;
+}
+#lobby .users-list > .user.creator {
+    order: -1;
+}
+#lobby .users-list > .user:before {
+    border-right: var(--size-substr-border) solid var(--color-modal-border);
+    box-shadow: 1.2vw 0px 1.3vw -0.9vw var(--color-modal-shadow);
+}
+#lobby .users-list > .user.creator:before,
+#lobby .users-list > .user.ready:before {
+    border-right: var(--size-substr-border) solid var(--color-substr-border);
+    box-shadow: 1.2vw 0px 1.3vw -0.9vw var(--color-substr-shadow);
+}
+
+.room-info .field.actions {
+    justify-content: space-evenly;
+}
+.room-info .field.actions > * {
+    width: 45%;
+}
+
+#public-link {
+    display: none;
+} 
+#public-link.active {
+    display: flex;
+    flex-direction: column;
+    margin: 0.5em;
+}
+#public-link.active .value {
+    display: flex;
+}

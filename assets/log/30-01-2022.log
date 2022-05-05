@@ -1,0 +1,16 @@
+<21:49:22> [MSG] Аутентифицирован "Lucors"
+<21:52:37> [MSG] Аутентифицирован "Pepsico"
+<22:11:09> [MSG] Аутентифицирован "Братишка"
+<22:25:29> [WARN] Не определен путь запроса (route) /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[36]
+<22:27:30> [WARN] Ошибка обновления списка попуска /home/u3905860fl/domains/chaoticgame.ru/public_html/api/question/methods.php[76]
+<22:28:12> [WARN] Ошибка обновления списка попуска /home/u3905860fl/domains/chaoticgame.ru/public_html/api/question/methods.php[77]
+<22:29:44> [WARN] Ошибка обновления списка пропуска ('178,') /home/u3905860fl/domains/chaoticgame.ru/public_html/api/question/methods.php[76]
+<22:30:36> [WARN] Ошибка обновления списка пропуска ('
+            UPDATE
+                ingame_steps_order
+            SET
+                ignore_question = '179,'
+            WHERE 
+                user_id = 1
+        ') /home/u3905860fl/domains/chaoticgame.ru/public_html/api/question/methods.php[84]
+<22:38:43> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11

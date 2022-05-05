@@ -1,0 +1,17 @@
+<10:51:42> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:51:42> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:51:48> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:51:48> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:51:54> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:51:54> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:52:00> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:52:00> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<10:52:02> [ERROR] Ошибка MYSQL: (2002) No such file or directory
+<11:58:28> [MSG] Запрошен users.php
+<12:09:58> [MSG] Запрошен topics.php
+<22:48:59> [MSG] Запрошен login.php
+<22:48:59> [MSG] Аутентифицирован пользователь ""
+<22:48:59> [MSG] Запрошен avatars.php
+<22:48:59> [MSG] Запрошен rooms.php
+<22:48:59> [MSG] Запрошен settings.php
+<22:49:00> [MSG] Запрошен users.php

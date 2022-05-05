@@ -1,0 +1,53 @@
+<10:06:56> [MSG] Запрошен avatars.php
+<10:06:56> [MSG] Запрошен settings.php
+<10:06:56> [MSG] Запрошен rooms.php
+<10:06:58> [MSG] Запрошен topics.php
+<10:07:21> [MSG] Запрошен rooms.php
+<10:07:21> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+<10:07:21> [ERROR] Ошибка определения тем комнаты [createRoom]
+<10:08:35> [MSG] Запрошен rooms.php
+<10:08:35> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+<10:08:35> [ERROR] Ошибка определения тем комнаты [createRoom]
+<10:09:26> [MSG] Запрошен rooms.php
+<10:09:26> [WARN] 
+				INSERT INTO
+					rooms_topics (room_id, topic_id)
+				VALUES 
+			(10, 1), (10, 4),
+<10:09:26> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 4
+<10:09:26> [ERROR] Ошибка определения тем комнаты [createRoom]
+<10:10:01> [MSG] Запрошен rooms.php
+<10:11:38> [MSG] Запрошен avatars.php
+<10:11:38> [MSG] Запрошен settings.php
+<10:11:38> [MSG] Запрошен rooms.php
+<10:11:44> [MSG] Запрошен topics.php
+<10:12:13> [MSG] Запрошен rooms.php
+<10:12:13> [WARN] Неверное значение "Время ответа" [createRoom]
+<10:12:23> [MSG] Запрошен rooms.php
+<10:12:23> [WARN] Неверное значение "Время ответа" [createRoom]
+<10:12:31> [MSG] Запрошен rooms.php
+<10:15:26> [MSG] Запрошен settings.php
+<10:15:26> [MSG] Запрошен rooms.php
+<10:15:26> [MSG] Запрошен avatars.php
+<15:22:36> [MSG] Запрошен topics.php
+<15:22:49> [MSG] Запрошен topics.php
+<15:23:24> [MSG] Запрошен settings.php
+<15:23:24> [MSG] Запрошен avatars.php
+<15:23:24> [MSG] Запрошен rooms.php
+<15:23:26> [MSG] Запрошен topics.php
+<15:23:41> [MSG] Запрошен rooms.php
+<15:23:43> [MSG] Запрошен settings.php
+<15:23:43> [MSG] Запрошен avatars.php
+<15:23:43> [MSG] Запрошен rooms.php
+<15:23:59> [MSG] Запрошен avatars.php
+<15:23:59> [MSG] Запрошен settings.php
+<15:23:59> [MSG] Запрошен rooms.php
+<15:24:21> [MSG] Запрошен avatars.php
+<15:24:21> [MSG] Запрошен settings.php
+<15:24:21> [MSG] Запрошен rooms.php
+<16:16:54> [MSG] Запрошен settings.php
+<16:16:54> [MSG] Запрошен rooms.php
+<16:16:55> [MSG] Запрошен avatars.php
+<16:17:14> [MSG] Запрошен avatars.php
+<16:17:14> [MSG] Запрошен settings.php
+<16:17:14> [MSG] Запрошен rooms.php

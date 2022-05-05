@@ -1,0 +1,3 @@
+<14:43:48> [MSG] Аутентифицирован "Lucors"
+<14:43:48> [WARN] Ошибка получения данных комнаты #1 /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[62]
+<14:43:52> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11

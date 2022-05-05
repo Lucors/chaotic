@@ -1,0 +1,94 @@
+<01:49:23> [MSG] Запрошен login.php
+<01:49:23> [MSG] Аутентифицирован пользователь ""
+<01:49:23> [MSG] Запрошен avatars.php
+<01:49:23> [MSG] Запрошен rooms.php
+<01:49:23> [MSG] Запрошен settings.php
+<01:49:27> [MSG] Запрошен settings.php
+<01:49:31> [MSG] Запрошен settings.php
+<01:49:41> [MSG] Запрошен users.php
+<02:38:16> [MSG] Запрошен login.php
+<02:38:16> [MSG] Аутентифицирован пользователь ""
+<02:38:16> [MSG] Запрошен avatars.php
+<02:38:16> [MSG] Запрошен rooms.php
+<02:38:16> [MSG] Запрошен settings.php
+<02:38:19> [MSG] Запрошен users.php
+<02:38:22> [MSG] Запрошен private-messages.php
+<02:38:26> [MSG] Запрошен private-messages.php
+<02:38:32> [MSG] Запрошен users.php
+<02:38:51> [MSG] Запрошен settings.php
+<02:38:54> [MSG] Запрошен users.php
+<02:38:56> [MSG] Запрошен private-messages.php
+<02:39:01> [MSG] Запрошен users.php
+<02:39:03> [MSG] Запрошен settings.php
+<02:39:35> [MSG] Запрошен rooms.php
+<02:39:42> [MSG] Запрошен rooms.php
+<02:39:44> [MSG] Запрошен settings.php
+<02:39:49> [MSG] Запрошен topics.php
+<02:39:49> [MSG] Запрошен maps.php
+<02:40:08> [MSG] Запрошен rooms.php
+<02:40:08> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('room', 1, '1234',
+						10, 0, 2, 1)
+			
+<02:40:10> [MSG] Запрошен rooms.php
+<02:40:10> [MSG] Запрошен rooms.php
+<02:44:01> [MSG] Запрошен login.php
+<02:44:01> [MSG] Аутентифицирован пользователь ""
+<02:44:01> [MSG] Запрошен settings.php
+<02:44:01> [MSG] Запрошен rooms.php
+<02:44:01> [MSG] Запрошен avatars.php
+<02:44:03> [MSG] Запрошен users.php
+<02:44:04> [MSG] Запрошен private-messages.php
+<02:44:08> [MSG] Запрошен private-messages.php
+<16:55:09> [MSG] Запрошен settings.php
+<16:55:09> [MSG] Запрошен rooms.php
+<16:55:09> [MSG] Запрошен avatars.php
+<16:55:11> [MSG] Запрошен users.php
+<16:55:16> [MSG] Запрошен users.php
+<17:30:08> [MSG] Запрошен avatars.php
+<17:30:08> [MSG] Запрошен settings.php
+<17:30:08> [MSG] Запрошен rooms.php
+<17:30:10> [MSG] Запрошен users.php
+<17:30:12> [MSG] Запрошен users.php
+<17:30:13> [MSG] Запрошен users.php
+<17:30:16> [MSG] Запрошен rating.php
+<17:31:09> [MSG] Запрошен rooms.php
+<17:41:56> [MSG] Запрошен settings.php
+<17:42:13> [MSG] Запрошен settings.php
+<17:42:15> [MSG] Запрошен rating.php
+<17:42:18> [MSG] Запрошен avatars.php
+<17:42:18> [MSG] Запрошен settings.php
+<17:42:18> [MSG] Запрошен rooms.php
+<17:42:20> [MSG] Запрошен settings.php
+<17:42:24> [MSG] Запрошен rating.php
+<17:44:12> [MSG] Запрошен settings.php
+<17:44:12> [MSG] Запрошен rooms.php
+<17:44:12> [MSG] Запрошен avatars.php
+<17:44:13> [MSG] Запрошен settings.php
+<17:44:21> [MSG] Запрошен rating.php
+<17:44:23> [MSG] Запрошен rating.php
+<17:46:24> [MSG] Запрошен avatars.php
+<17:46:24> [MSG] Запрошен settings.php
+<17:46:24> [MSG] Запрошен rooms.php
+<17:46:28> [MSG] Запрошен settings.php
+<17:46:29> [MSG] Запрошен rating.php
+<17:46:40> [MSG] Запрошен rooms.php
+<17:49:11> [MSG] Запрошен avatars.php
+<17:49:11> [MSG] Запрошен settings.php
+<17:49:11> [MSG] Запрошен rooms.php
+<17:50:14> [MSG] Запрошен users.php
+<17:50:17> [MSG] Запрошен users.php
+<17:50:19> [MSG] Запрошен users.php
+<17:52:19> [MSG] Запрошен users.php
+<17:52:20> [MSG] Запрошен private-messages.php
+<17:52:22> [MSG] Запрошен users.php
+<17:52:23> [MSG] Запрошен private-messages.php
+<18:21:17> [MSG] Запрошен users.php
+<18:21:38> [MSG] Запрошен rooms.php
+<18:21:39> [MSG] Запрошен rooms.php
+<18:30:13> [MSG] Запрошен avatars.php
+<18:30:13> [MSG] Запрошен rooms.php
+<18:30:13> [MSG] Запрошен settings.php

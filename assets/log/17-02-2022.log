@@ -1,0 +1,69 @@
+<00:01:13> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<02:45:33> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<02:45:36> [MSG] Аутентифицирован "Lucors"
+<02:45:52> [MSG] Аутентифицирован "Pepsico"
+<02:52:50> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<02:56:52> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:11:55> [MSG] Аутентифицирован "Pepsico"
+<03:12:01> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<03:13:04> [MSG] Аутентифицирован "test"
+<03:13:31> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:17:37> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:18:39> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<03:18:42> [MSG] Пользователь "test.max@yandex.ru" вышел
+<11:09:12> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<11:09:18> [MSG] Аутентифицирован "Lucors"
+<11:09:45> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<11:10:15> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<11:10:38> [MSG] Аутентифицирован "mechik123"
+<11:13:42> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<13:33:22> [MSG] Аутентифицирован "Lucors"
+<13:38:47> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<13:39:02> [WARN] ÐÐ¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ Ð½Ðµ Ð°Ð²ÑÐ¾ÑÐ¸Ð·Ð¸ÑÐ¾Ð²Ð°Ð½ /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<13:39:42> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<13:52:58> [MSG] Аутентифицирован "Lucors"
+<14:27:59> [MSG] Аутентифицирован "jekarws"
+<14:29:04> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<14:29:20> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<14:29:22> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<14:29:22> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<14:29:22> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<14:29:26> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<14:30:13> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<14:35:45> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<14:40:56> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<14:47:17> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<14:47:53> [WARN] Неверное значение "Время ответа" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[132]
+<14:49:24> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<14:52:26> [MSG] Пользователь "jekarws@gmail.com" вышел
+<14:52:29> [WARN] Некорректный формат email /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[59]
+<14:52:32> [WARN] Не найден пользователь "sdf@ya.ru" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<14:52:57> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[410]
+<14:53:16> [WARN] Ошибка получения списка друзей /home/u3905860fl/domains/chaoticgame.ru/public_html/api/user/methods.php[72]
+<14:53:21> [WARN] Ошибка получения списка друзей /home/u3905860fl/domains/chaoticgame.ru/public_html/api/user/methods.php[72]
+<14:53:25> [MSG] Пользователь "jekarws@gmdfgail.com" вышел
+<14:53:28> [MSG] Аутентифицирован "jekarws"
+<14:53:51> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<14:53:56> [MSG] Аутентифицирован "test"
+<14:54:47> [WARN] Ошибка получения списка друзей /home/u3905860fl/domains/chaoticgame.ru/public_html/api/user/methods.php[72]
+<14:56:18> [WARN] Ошибка получения списка друзей /home/u3905860fl/domains/chaoticgame.ru/public_html/api/user/methods.php[72]
+<15:18:13> [WARN] Не задан параметр MAP_ID (map_id) /home/u3905860fl/domains/chaoticgame.ru/public_html/api/map/handler.php[34]
+<15:49:08> [MSG] Аутентифицирован "Pepsico"
+<16:47:27> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<20:58:24> [MSG] Аутентифицирован "test"
+<22:52:53> [MSG] Аутентифицирован "test"
+<22:58:15> [MSG] Пользователь "test.max@yandex.ru" вышел
+<22:58:19> [MSG] Аутентифицирован "jekarws"
+<22:58:20> [MSG] Аутентифицирован "Lucors"
+<22:59:20> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<23:00:28> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<23:00:29> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<23:00:35> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[410]
+<23:00:45> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<23:00:52> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[410]
+<23:01:02> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[410]
+<23:01:23> [MSG] Аутентифицирован "Pepsico"
+<23:01:29> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[410]
+<23:06:07> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<23:06:36> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<23:17:57> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11

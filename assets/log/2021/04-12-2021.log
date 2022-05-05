@@ -1,0 +1,259 @@
+<22:01:29> [MSG] Запрошен login.php
+<22:01:29> [MSG] Аутентифицирован пользователь "Lucors"
+<22:01:29> [MSG] Запрошен rooms.php
+<22:01:29> [MSG] Запрошен avatars.php
+<22:01:29> [MSG] Запрошен settings.php
+<22:01:31> [MSG] Запрошен users.php
+<22:01:33> [MSG] Запрошен rating.php
+<22:01:33> [ERROR] Ошибка MYSQL: Unknown column 'rating_total' in 'field list'
+<22:09:12> [MSG] Запрошен logout.php
+<22:09:12> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<22:09:30> [MSG] Запрошен signup.php
+<22:09:30> [MSG] Зарегистрирован пользователь "Pepsico:pepsi@yandex.ru"
+<22:09:30> [MSG] Запрошен rooms.php
+<22:09:30> [MSG] Запрошен settings.php
+<22:09:30> [MSG] Запрошен avatars.php
+<22:09:40> [MSG] Запрошен rating.php
+<22:09:40> [ERROR] Ошибка MYSQL: Unknown column 'rating_total' in 'field list'
+<22:50:40> [MSG] Запрошен rooms.php
+<22:50:40> [ERROR] Ошибка MYSQL: Unknown column 'maps.preview' in 'field list'
+<22:50:40> [WARN] Ошибка получения данных комнаты [get]
+<22:50:40> [MSG] Запрошен topics.php
+<22:50:42> [MSG] Запрошен rooms.php
+<22:50:42> [ERROR] Ошибка MYSQL: Unknown column 'maps.preview' in 'field list'
+<22:50:42> [WARN] Ошибка получения данных комнаты [get]
+<22:50:42> [MSG] Запрошен topics.php
+<22:57:56> [MSG] Запрошен topics.php
+<22:57:56> [MSG] Запрошен rooms.php
+<22:57:58> [MSG] Запрошен rooms.php
+<22:57:58> [MSG] Запрошен topics.php
+<22:58:29> [MSG] Запрошен rooms.php
+<22:58:29> [MSG] Запрошен topics.php
+<22:58:30> [MSG] Запрошен rooms.php
+<22:58:30> [MSG] Запрошен topics.php
+<22:58:31> [MSG] Запрошен rooms.php
+<22:58:31> [MSG] Запрошен topics.php
+<22:58:32> [MSG] Запрошен rooms.php
+<22:58:32> [MSG] Запрошен topics.php
+<22:58:33> [MSG] Запрошен rooms.php
+<22:58:33> [MSG] Запрошен topics.php
+<22:58:35> [MSG] Запрошен rooms.php
+<22:58:35> [MSG] Запрошен topics.php
+<22:58:36> [MSG] Запрошен rooms.php
+<22:58:36> [MSG] Запрошен topics.php
+<22:58:37> [MSG] Запрошен rooms.php
+<22:58:37> [MSG] Запрошен topics.php
+<22:58:38> [MSG] Запрошен rooms.php
+<22:58:38> [MSG] Запрошен topics.php
+<22:58:46> [MSG] Запрошен login.php
+<22:58:47> [MSG] Запрошен rooms.php
+<22:58:47> [MSG] Запрошен settings.php
+<22:58:47> [MSG] Запрошен avatars.php
+<23:03:11> [MSG] Запрошен login.php
+<23:03:11> [MSG] Запрошен rooms.php
+<23:03:11> [MSG] Запрошен avatars.php
+<23:03:11> [MSG] Запрошен settings.php
+<23:03:44> [MSG] Запрошен rooms.php
+<23:03:44> [MSG] Запрошен avatars.php
+<23:03:44> [MSG] Запрошен settings.php
+<23:03:47> [MSG] Запрошен rooms.php
+<23:03:47> [MSG] Запрошен settings.php
+<23:03:47> [MSG] Запрошен avatars.php
+<23:03:48> [MSG] Запрошен users.php
+<23:03:50> [MSG] Запрошен logout.php
+<23:03:50> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<23:03:55> [MSG] Запрошен login.php
+<23:03:55> [MSG] Аутентифицирован пользователь "Pepsico"
+<23:03:55> [MSG] Запрошен rooms.php
+<23:03:55> [MSG] Запрошен settings.php
+<23:03:55> [MSG] Запрошен avatars.php
+<23:03:56> [MSG] Запрошен users.php
+<23:04:48> [MSG] Запрошен rating.php
+<23:04:48> [ERROR] Ошибка MYSQL: Unknown column 'rating_total' in 'field list'
+<23:04:50> [MSG] Запрошен rooms.php
+<23:04:50> [MSG] Запрошен topics.php
+<23:04:51> [MSG] Запрошен rooms.php
+<23:04:51> [MSG] Запрошен topics.php
+<23:04:55> [MSG] Запрошен rooms.php
+<23:04:55> [MSG] Запрошен avatars.php
+<23:04:55> [MSG] Запрошен settings.php
+<23:04:56> [MSG] Запрошен topics.php
+<23:04:56> [MSG] Запрошен maps.php
+<23:29:19> [MSG] Запрошен settings.php
+<23:29:19> [MSG] Запрошен avatars.php
+<23:29:19> [MSG] Запрошен rooms.php
+<23:29:21> [MSG] Запрошен topics.php
+<23:29:21> [MSG] Запрошен maps.php
+<23:29:25> [MSG] Запрошен rooms.php
+<23:29:25> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:29:25> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE
+					user_id = 18' at line 6
+<23:29:25> [ERROR] Ошибка добавления игрока в комнату [createRoom]
+<23:29:57> [MSG] Запрошен rooms.php
+<23:29:57> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:29:57> [ERROR] Ошибка MYSQL: Unknown column 'USTAGE_INROOM_READY' in 'field list'
+<23:29:57> [ERROR] Ошибка добавления игрока в комнату [createRoom]
+<23:29:59> [MSG] Запрошен rooms.php
+<23:29:59> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:29:59> [ERROR] Ошибка MYSQL: Unknown column 'USTAGE_INROOM_READY' in 'field list'
+<23:29:59> [ERROR] Ошибка добавления игрока в комнату [createRoom]
+<23:31:59> [MSG] Запрошен rooms.php
+<23:31:59> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:32:00> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}
+				WHERE
+					user_id = 18' at line 5
+<23:32:00> [ERROR] Ошибка добавления игрока в комнату [createRoom]
+<23:32:00> [MSG] Запрошен rooms.php
+<23:32:00> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:32:00> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}
+				WHERE
+					user_id = 18' at line 5
+<23:32:00> [ERROR] Ошибка добавления игрока в комнату [createRoom]
+<23:34:36> [MSG] Запрошен rooms.php
+<23:34:36> [MSG] Запрошен avatars.php
+<23:34:36> [MSG] Запрошен settings.php
+<23:34:38> [MSG] Запрошен rooms.php
+<23:34:38> [MSG] Запрошен settings.php
+<23:34:38> [MSG] Запрошен avatars.php
+<23:34:42> [MSG] Запрошен topics.php
+<23:34:42> [MSG] Запрошен maps.php
+<23:34:46> [MSG] Запрошен rooms.php
+<23:34:46> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:34:46> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}
+				WHERE
+					user_id = 18' at line 5
+<23:34:46> [ERROR] Ошибка добавления игрока в комнату 
+				UPDATE
+					users
+				SET 
+					room_id = 44,
+					stage = {USTAGE_INROOM_READY}
+				WHERE
+					user_id = 18
+			 [createRoom]
+<23:39:11> [MSG] Запрошен rooms.php
+<23:39:11> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 18, 1)
+			
+<23:40:00> [MSG] Запрошен rooms.php
+<23:40:00> [MSG] Запрошен avatars.php
+<23:40:00> [MSG] Запрошен settings.php
+<23:45:13> [MSG] Запрошен rooms.php
+<23:45:13> [MSG] Запрошен settings.php
+<23:45:13> [MSG] Запрошен avatars.php
+<23:45:15> [MSG] Запрошен rooms.php
+<23:45:15> [MSG] Запрошен rooms.php
+<23:45:17> [MSG] Запрошен rooms.php
+<23:45:19> [MSG] Запрошен users.php
+<23:51:33> [MSG] Запрошен logout.php
+<23:51:33> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<23:51:37> [MSG] Запрошен login.php
+<23:51:37> [MSG] Аутентифицирован пользователь "Lucors"
+<23:51:38> [MSG] Запрошен rooms.php
+<23:51:38> [MSG] Запрошен settings.php
+<23:51:38> [MSG] Запрошен avatars.php
+<23:51:40> [MSG] Запрошен users.php
+<23:51:42> [MSG] Запрошен logout.php
+<23:51:42> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:51:45> [MSG] Запрошен login.php
+<23:51:46> [MSG] Аутентифицирован пользователь "Pepsico"
+<23:51:46> [MSG] Запрошен rooms.php
+<23:51:46> [MSG] Запрошен settings.php
+<23:51:46> [MSG] Запрошен avatars.php
+<23:51:48> [MSG] Запрошен users.php
+<23:51:49> [MSG] Запрошен logout.php
+<23:51:49> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<23:51:52> [MSG] Запрошен login.php
+<23:51:52> [MSG] Аутентифицирован пользователь "Lucors"
+<23:51:52> [MSG] Запрошен rooms.php
+<23:51:52> [MSG] Запрошен settings.php
+<23:51:52> [MSG] Запрошен avatars.php
+<23:51:54> [MSG] Запрошен settings.php
+<23:51:56> [MSG] Запрошен settings.php
+<23:52:15> [MSG] Запрошен rooms.php
+<23:52:15> [MSG] Запрошен topics.php
+<23:52:17> [MSG] Запрошен rooms.php
+<23:52:17> [MSG] Запрошен topics.php
+<23:52:19> [MSG] Запрошен rooms.php
+<23:52:19> [MSG] Запрошен topics.php
+<23:52:20> [MSG] Запрошен rooms.php
+<23:52:20> [MSG] Запрошен topics.php
+<23:52:22> [MSG] Запрошен rooms.php
+<23:52:23> [MSG] Запрошен rooms.php
+<23:52:23> [MSG] Запрошен topics.php
+<23:52:24> [MSG] Запрошен rooms.php
+<23:52:24> [MSG] Запрошен topics.php
+<23:52:25> [MSG] Запрошен rooms.php
+<23:52:25> [MSG] Запрошен topics.php
+<23:58:14> [MSG] Запрошен logout.php
+<23:58:14> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:58:17> [MSG] Запрошен login.php
+<23:58:17> [MSG] Аутентифицирован пользователь "Lucors"
+<23:58:17> [MSG] Запрошен rooms.php
+<23:58:17> [MSG] Запрошен settings.php
+<23:58:17> [MSG] Запрошен avatars.php
+<23:58:19> [MSG] Запрошен rooms.php
+<23:58:21> [MSG] Запрошен rooms.php
+<23:58:21> [MSG] Запрошен avatars.php
+<23:58:21> [MSG] Запрошен settings.php
+<23:58:22> [MSG] Запрошен rooms.php
+<23:58:22> [MSG] Запрошен topics.php
+<23:58:22> [MSG] Запрошен settings.php
+<23:58:24> [MSG] Запрошен settings.php
+<23:58:26> [MSG] Запрошен rooms.php
+<23:58:27> [MSG] Запрошен logout.php
+<23:58:27> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:58:31> [MSG] Запрошен login.php
+<23:58:32> [MSG] Аутентифицирован пользователь "Lucors"
+<23:58:32> [MSG] Запрошен rooms.php
+<23:58:32> [MSG] Запрошен settings.php
+<23:58:32> [MSG] Запрошен avatars.php
+<23:58:33> [MSG] Запрошен topics.php
+<23:58:33> [MSG] Запрошен rooms.php
+<23:58:40> [MSG] Запрошен logout.php
+<23:58:40> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:58:47> [MSG] Запрошен login.php
+<23:58:47> [MSG] Аутентифицирован пользователь "Lucors"
+<23:58:47> [MSG] Запрошен rooms.php
+<23:58:47> [MSG] Запрошен avatars.php
+<23:58:47> [MSG] Запрошен settings.php

@@ -1,0 +1,13 @@
+<05:15:30> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<07:02:56> [MSG] Аутентифицирован "ann"
+<08:23:21> [MSG] Аутентифицирован "Pepsico"
+<08:23:29> [MSG] Аутентифицирован "Lucors"
+<08:23:36> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<08:23:50> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<08:24:01> [MSG] Аутентифицирован "Lucors"
+<08:24:27> [MSG] Аутентифицирован "Pepsico"
+<08:24:39> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<08:24:43> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<08:33:27> [MSG] Аутентифицирован "Pepsico"
+<08:45:37> [MSG] Аутентифицирован "Lucors"
+<08:46:21> [MSG] Аутентифицирован "Pepsico"

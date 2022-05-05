@@ -1,0 +1,46 @@
+<03:13:56> [MSG] Аутентифицирован "jekarws"
+<03:14:01> [MSG] Аутентифицирован "Lucors"
+<03:14:22> [MSG] Аутентифицирован "sexy"
+<03:14:57> [MSG] Создана комната: {
+                room_id:    405, 
+                creator_id: 3, 
+                privace:    0,
+                name:       "Траходром", 
+                map_id:     1
+            }
+<03:14:59> [MSG] Игрок вошел в комнату: {room_id: 405, user_id: 1}
+<03:15:11> [MSG] Игрок вошел в комнату: {room_id: 405, user_id: 2}
+<03:15:22> [MSG] Началась игра: {room_id: 405}
+<03:21:28> [WARN] Некорректный формат email /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[124]
+<03:21:36> [WARN] Некорректный формат email /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[124]
+<03:24:06> [MSG] Игра окончена: {room_id: 405, winner_id: 1}
+<03:24:09> [MSG] Игрок покинул комнату: {room_id: 405, user_id: 3}
+<03:24:09> [MSG] Удалена комната: {room_id: 405}
+<03:24:10> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:24:10> [MSG] Игрок покинул комнату: {room_id: , user_id: 1}
+<03:24:12> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:24:12> [MSG] Игрок покинул комнату: {room_id: , user_id: 2}
+<03:24:19> [MSG] Создана комната: {
+                room_id:    406, 
+                creator_id: 3, 
+                privace:    0,
+                name:       "Траходром", 
+                map_id:     2
+            }
+<03:24:30> [MSG] Игрок вошел в комнату: {room_id: 406, user_id: 1}
+<03:24:31> [MSG] Игрок вошел в комнату: {room_id: 406, user_id: 42}
+<03:25:03> [MSG] Игрок вошел в комнату: {room_id: 406, user_id: 2}
+<03:25:07> [MSG] Началась игра: {room_id: 406}
+<03:37:09> [MSG] Игра окончена: {room_id: 406, winner_id: 3}
+<03:37:13> [MSG] Игрок покинул комнату: {room_id: 406, user_id: 2}
+<03:37:13> [MSG] Игрок покинул комнату: {room_id: 406, user_id: 3}
+<03:37:14> [MSG] Удалена комната: {room_id: 406}
+<03:37:14> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:37:14> [MSG] Игрок покинул комнату: {room_id: , user_id: 42}
+<03:37:18> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<03:37:18> [MSG] Игрок покинул комнату: {room_id: , user_id: 1}
+<03:40:13> [WARN] Пустой запрос /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[33]
+<03:40:13> [WARN] Пустой запрос /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[33]
+<03:40:13> [WARN] Пустой запрос /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[33]
+<03:43:14> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<03:44:56> [MSG] Аутентифицирован "Lucors"

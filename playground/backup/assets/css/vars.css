@@ -1,0 +1,24 @@
+:root {
+	--test-var: blue;
+
+	/*General*/
+	--general-f-s: 1vw;
+	--general-bg-c: #363636;
+	--selection-bg-c-white: #ffffff8c;
+	--selection-bg-c-black: #0000008c;
+
+	/*Intro*/
+	--authsub-h: 90vh;
+	--authsub-w: 25vw;
+	/*--authsub-b-w: 1vw;*/
+	--authsub-b-w: 0.5vw;
+	--authparent-w: 18vw;
+
+	/*Menu*/
+	--size-self-user-max-w: 5em;
+
+	/*Obsolete*/
+	/*--selection-bg-c: #fff27847;*/
+	/*--authparent-h: 45vh;*/
+	/*--scroll-w: 1vw;*/
+}

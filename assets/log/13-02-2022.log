@@ -1,0 +1,13 @@
+<23:37:42> [MSG] Аутентифицирован "Lucors"
+<23:37:55> [MSG] Аутентифицирован "Pepsico"
+<23:41:07> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<23:41:07> [WARN] Ошибка получения данных комнаты /home/u3905860fl/domains/chaoticgame.ru/public_html/api/map/methods.php[40]
+<23:41:11> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<23:41:11> [WARN] Ошибка получения данных комнаты /home/u3905860fl/domains/chaoticgame.ru/public_html/api/map/methods.php[40]
+<23:41:14> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<23:41:14> [WARN] Ошибка получения данных комнаты /home/u3905860fl/domains/chaoticgame.ru/public_html/api/map/methods.php[40]
+<23:41:27> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<23:41:27> [WARN] Ошибка получения данных комнаты /home/u3905860fl/domains/chaoticgame.ru/public_html/api/map/methods.php[40]
+<23:41:33> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<23:41:33> [WARN] Ошибка получения данных комнаты /home/u3905860fl/domains/chaoticgame.ru/public_html/api/map/methods.php[40]
+<23:50:24> [ERROR] Ошибка MYSQL: (1054) Unknown column 'SSTAGE_WAIT' in 'field list'

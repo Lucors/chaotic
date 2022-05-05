@@ -1,0 +1,27 @@
+<03:43:18> [WARN] Не найден пользователь "best_sar@list.ru" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<03:43:53> [MSG] Аутентифицирован "Lucors"
+<03:58:06> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<04:00:21> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<04:03:36> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<04:05:29> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<04:12:36> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<04:12:45> [MSG] Пользователь "best_sar@list.ru" вышел
+<05:57:12> [WARN] Не найден пользователь "jeka@jeka.ru" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<05:57:19> [MSG] Аутентифицирован "Lucors"
+<05:59:53> [MSG] Аутентифицирован "Pepsico"
+<06:10:20> [WARN] 1 -> jQuery351030780912969615115_1645326303877?
+<06:11:51> [WARN] 1 -> jQuery351018923034239749104_1645326698868?
+<06:12:49> [WARN] 1 -> jQuery351018923034239749104_1645326698868
+<06:12:54> [WARN] 1 -> ?
+<06:15:08> [WARN] 1 -> jQuery351018923034239749104_1645326698868?
+<06:15:12> [WARN] 1 -> jQuery351018923034239749104_1645326698868?
+<06:17:00> [WARN] 1 -> jQuery351018923034239749104_1645326698868?
+<06:20:42> [WARN] 1 -> %3F%3F%3F
+<06:22:45> [WARN] 1 -> jQuery351010377210246580892_1645327355209?
+<06:24:12> [WARN] 1 -> ???
+<06:27:05> [WARN] 1 -> ???
+<06:27:41> [WARN] 1 -> ???
+<06:28:04> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<06:28:16> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<06:34:30> [MSG] Аутентифицирован "Lucors"
+<06:38:13> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел

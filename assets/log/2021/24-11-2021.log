@@ -1,0 +1,63 @@
+<02:55:06> [MSG] Запрошен rooms.php
+<02:55:06> [MSG] Запрошен settings.php
+<02:55:06> [MSG] Запрошен avatars.php
+<03:01:00> [MSG] Запрошен rooms.php
+<03:01:00> [MSG] Запрошен settings.php
+<03:01:00> [MSG] Запрошен avatars.php
+<03:01:09> [MSG] Запрошен rooms.php
+<03:01:09> [MSG] Запрошен avatars.php
+<03:01:09> [MSG] Запрошен settings.php
+<03:01:24> [MSG] Запрошен users.php
+<03:01:26> [MSG] Запрошен private-messages.php
+<03:01:39> [MSG] Запрошен topics.php
+<03:01:39> [MSG] Запрошен maps.php
+<03:01:46> [MSG] Запрошен topics.php
+<03:01:46> [MSG] Запрошен maps.php
+<03:02:24> [MSG] Запрошен rooms.php
+<03:02:24> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('мсмс', 0, '',
+						10, 0, 1, 22)
+			
+<03:02:56> [MSG] Запрошен rooms.php
+<03:02:56> [MSG] Запрошен settings.php
+<03:02:56> [MSG] Запрошен avatars.php
+<03:02:59> [MSG] Запрошен rooms.php
+<03:02:59> [MSG] Запрошен avatars.php
+<03:02:59> [MSG] Запрошен settings.php
+<03:03:00> [MSG] Запрошен rooms.php
+<03:03:00> [MSG] Запрошен rooms.php
+<03:03:02> [MSG] Запрошен rooms.php
+<03:03:03> [MSG] Запрошен settings.php
+<03:03:10> [MSG] Запрошен rooms.php
+<03:03:10> [MSG] Запрошен settings.php
+<03:03:10> [MSG] Запрошен avatars.php
+<03:03:12> [MSG] Запрошен logout.php
+<03:03:12> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<03:03:15> [MSG] Запрошен settings.php
+<03:03:15> [WARN] Пользователь не авторизирован []
+<03:03:20> [MSG] Запрошен users.php
+<03:03:20> [WARN] Недостаточно прав для запроса пользователей
+<03:04:06> [MSG] Запрошен rooms.php
+<03:04:06> [WARN] Недостаточно прав для запроса списка комнат [getAll]
+<03:04:08> [MSG] Запрошен rooms.php
+<03:04:08> [WARN] Недостаточно прав для запроса списка комнат [getAll]
+<03:06:53> [MSG] Запрошен login.php
+<03:06:53> [MSG] Аутентифицирован пользователь "Lucors"
+<03:06:53> [MSG] Запрошен rooms.php
+<03:06:53> [MSG] Запрошен avatars.php
+<03:06:53> [MSG] Запрошен settings.php
+<03:06:54> [MSG] Запрошен settings.php
+<03:07:00> [MSG] Запрошен rooms.php
+<03:07:00> [MSG] Запрошен settings.php
+<03:07:00> [MSG] Запрошен avatars.php
+<03:07:01> [MSG] Запрошен logout.php
+<03:07:01> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<03:07:04> [MSG] Запрошен settings.php
+<03:07:04> [WARN] Пользователь не авторизирован []
+<03:07:12> [MSG] Запрошен users.php
+<03:07:12> [WARN] Недостаточно прав для запроса пользователей
+<03:07:15> [MSG] Запрошен notifications.php
+<03:07:15> [WARN] Недостаточно прав для запроса уведомлений

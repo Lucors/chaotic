@@ -1,0 +1,196 @@
+<00:35:29> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1) WHERE user_id = 1' at line 4
+<00:44:27> [MSG] Запрошен rooms.php
+<00:44:27> [MSG] Запрошен avatars.php
+<00:44:27> [MSG] Запрошен settings.php
+<00:44:31> [MSG] Запрошен users.php
+<00:44:33> [MSG] Запрошен private-messages.php
+<00:44:47> [MSG] Запрошен login.php
+<00:44:47> [MSG] Аутентифицирован пользователь "Pepsico"
+<00:44:47> [MSG] Запрошен rooms.php
+<00:44:47> [MSG] Запрошен avatars.php
+<00:44:47> [MSG] Запрошен settings.php
+<00:44:50> [MSG] Запрошен rooms.php
+<00:44:50> [MSG] Запрошен rooms.php
+<00:44:52> [MSG] Запрошен users.php
+<00:44:57> [MSG] Запрошен users.php
+<00:44:58> [MSG] Запрошен notifications.php
+<00:45:01> [MSG] Запрошен users.php
+<00:45:02> [MSG] Запрошен notifications.php
+<00:45:03> [MSG] Запрошен notifications.php
+<00:45:03> [MSG] Запрошен users.php
+<00:45:05> [MSG] Запрошен private-messages.php
+<00:45:11> [MSG] Запрошен users.php
+<00:45:12> [MSG] Запрошен private-messages.php
+<00:45:26> [MSG] Запрошен private-messages.php
+<00:45:30> [MSG] Запрошен users.php
+<00:45:41> [MSG] Запрошен private-messages.php
+<00:45:48> [MSG] Запрошен private-messages.php
+<00:46:00> [MSG] Запрошен topics.php
+<00:46:00> [MSG] Запрошен maps.php
+<00:46:24> [MSG] Запрошен rooms.php
+<00:46:24> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('Крутая комната', 0, '',
+						15, 0, 18, 2)
+			
+<00:46:25> [MSG] Запрошен rooms.php
+<00:46:26> [MSG] Запрошен rooms.php
+<00:46:26> [MSG] Запрошен topics.php
+<00:46:27> [MSG] Запрошен rooms.php
+<00:46:27> [MSG] Запрошен topics.php
+<00:46:28> [MSG] Запрошен rooms.php
+<00:46:28> [MSG] Запрошен topics.php
+<00:46:29> [MSG] Запрошен rooms.php
+<00:46:29> [MSG] Запрошен topics.php
+<00:46:30> [MSG] Запрошен rooms.php
+<00:46:30> [MSG] Запрошен topics.php
+<00:46:31> [MSG] Запрошен topics.php
+<00:46:31> [MSG] Запрошен rooms.php
+<06:35:22> [MSG] Аутентифицирован "Lucors"
+<06:35:34> [MSG] Запрошен rooms.php
+<06:35:34> [MSG] Запрошен avatars.php
+<06:35:34> [MSG] Запрошен settings.php
+<06:35:38> [MSG] Запрошен settings.php
+<06:35:40> [MSG] Запрошен users.php
+<06:37:35> [MSG] Запрошен users.php
+<06:40:14> [MSG] Запрошен rooms.php
+<06:40:14> [MSG] Запрошен avatars.php
+<06:40:14> [MSG] Запрошен settings.php
+<06:40:17> [MSG] Запрошен users.php
+<06:49:03> [MSG] Запрошен rooms.php
+<06:49:03> [MSG] Запрошен avatars.php
+<06:49:03> [MSG] Запрошен settings.php
+<06:49:17> [MSG] Запрошен rooms.php
+<06:49:17> [MSG] Запрошен avatars.php
+<06:49:17> [MSG] Запрошен settings.php
+<06:50:54> [MSG] Запрошен rooms.php
+<06:50:54> [MSG] Запрошен avatars.php
+<06:50:54> [MSG] Запрошен settings.php
+<06:57:46> [MSG] Запрошен rating.php
+<06:57:48> [MSG] Запрошен settings.php
+<06:57:51> [MSG] Запрошен rating.php
+<06:59:15> [MSG] Запрошен rooms.php
+<06:59:16> [MSG] Запрошен avatars.php
+<06:59:16> [MSG] Запрошен settings.php
+<06:59:42> [MSG] Запрошен users.php
+<06:59:43> [MSG] Запрошен private-messages.php
+<07:00:03> [MSG] Запрошен rooms.php
+<07:00:03> [MSG] Запрошен avatars.php
+<07:00:03> [MSG] Запрошен settings.php
+<07:01:22> [MSG] Запрошен rooms.php
+<07:01:22> [MSG] Запрошен avatars.php
+<07:01:22> [MSG] Запрошен settings.php
+<07:02:24> [MSG] Запрошен rooms.php
+<07:02:24> [MSG] Запрошен avatars.php
+<07:02:24> [MSG] Запрошен settings.php
+<07:03:33> [MSG] Запрошен rooms.php
+<07:03:33> [MSG] Запрошен avatars.php
+<07:03:33> [MSG] Запрошен settings.php
+<07:03:34> [MSG] Запрошен settings.php
+<07:03:36> [MSG] Запрошен settings.php
+<07:03:58> [MSG] Запрошен settings.php
+<07:03:59> [MSG] Запрошен settings.php
+<07:04:08> [MSG] Запрошен rooms.php
+<07:04:08> [MSG] Запрошен avatars.php
+<07:04:08> [MSG] Запрошен settings.php
+<07:04:10> [MSG] Запрошен users.php
+<07:09:33> [MSG] Запрошен avatars.php
+<07:09:33> [MSG] Запрошен settings.php
+<07:10:34> [MSG] Запрошен avatars.php
+<07:10:34> [MSG] Запрошен settings.php
+<07:12:25> [MSG] Запрошен avatars.php
+<07:12:25> [MSG] Запрошен settings.php
+<07:13:46> [MSG] Запрошен avatars.php
+<07:13:46> [MSG] Запрошен settings.php
+<07:16:04> [MSG] Запрошен avatars.php
+<07:16:04> [MSG] Запрошен settings.php
+<07:16:06> [MSG] Запрошен rooms.php
+<07:16:06> [MSG] Запрошен topics.php
+<07:16:53> [MSG] Запрошен avatars.php
+<07:16:53> [MSG] Запрошен settings.php
+<07:16:55> [MSG] Запрошен topics.php
+<07:16:57> [MSG] Запрошен topics.php
+<07:16:58> [MSG] Запрошен topics.php
+<07:19:16> [MSG] Запрошен topics.php
+<07:21:15> [MSG] Запрошен avatars.php
+<07:21:15> [MSG] Запрошен settings.php
+<07:21:16> [MSG] Запрошен topics.php
+<07:21:51> [MSG] Запрошен avatars.php
+<07:21:51> [MSG] Запрошен settings.php
+<07:21:56> [MSG] Запрошен topics.php
+<07:33:38> [MSG] Запрошен avatars.php
+<07:34:01> [MSG] Запрошен avatars.php
+<08:04:15> [MSG] Запрошен avatars.php
+<08:04:19> [MSG] Запрошен private-messages.php
+<08:07:33> [MSG] Запрошен avatars.php
+<08:07:36> [MSG] Запрошен private-messages.php
+<08:07:38> [MSG] Запрошен private-messages.php
+<08:07:39> [MSG] Запрошен private-messages.php
+<08:07:40> [MSG] Запрошен private-messages.php
+<08:07:41> [MSG] Запрошен private-messages.php
+<08:07:42> [MSG] Запрошен private-messages.php
+<08:07:44> [MSG] Запрошен private-messages.php
+<08:09:55> [MSG] Запрошен avatars.php
+<08:11:32> [MSG] Запрошен avatars.php
+<08:12:21> [MSG] Запрошен private-messages.php
+<08:12:22> [MSG] Запрошен private-messages.php
+<08:14:10> [MSG] Запрошен avatars.php
+<08:14:56> [MSG] Запрошен settings.php
+<08:14:59> [MSG] Запрошен settings.php
+<08:17:09> [MSG] Запрошен avatars.php
+<08:19:22> [MSG] Запрошен avatars.php
+<08:27:14> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:27:14> [ERROR] Ошибка записи тем комнаты
+<08:27:16> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:27:16> [ERROR] Ошибка записи тем комнаты
+<08:27:22> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:27:22> [ERROR] Ошибка записи тем комнаты
+<08:28:23> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:28:23> [ERROR] Ошибка записи тем комнаты
+<08:28:24> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:28:24> [ERROR] Ошибка записи тем комнаты
+<08:29:01> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:29:01> [ERROR] Ошибка записи тем комнаты
+<08:30:46> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3),(, 7)' at line 4
+<08:30:46> [ERROR] Ошибка записи тем комнаты
+<08:32:44> [ERROR] Ошибка MYSQL: Duplicate entry 'Крутая комната' for key 'rooms.name'
+<08:32:44> [ERROR] Ошибка создания комнаты
+<08:33:10> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 6),(, 7)' at line 4
+<08:33:10> [ERROR] Ошибка записи тем комнаты
+<08:34:32> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 6),(, 7)' at line 4
+<08:34:32> [ERROR] Ошибка записи тем комнаты
+<08:37:19> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 3),(, 7)' at line 4
+<08:37:19> [ERROR] Ошибка записи тем комнаты
+<08:40:20> [ERROR] Неверное значение "Время ответа"
+<08:40:50> [ERROR] Неверное значение "Время ответа"
+<08:44:23> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 4),(, 7)' at line 4
+<08:44:23> [ERROR] Ошибка записи тем комнаты
+<08:44:29> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 4),(, 7)' at line 4
+<08:44:29> [ERROR] Ошибка записи тем комнаты
+<08:46:45> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3)' at line 4
+<08:46:45> [ERROR] Ошибка записи тем комнаты
+<08:46:57> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3)' at line 4
+<08:46:57> [ERROR] Ошибка записи тем комнаты
+<08:47:47> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 2),(, 3)' at line 4
+<08:47:47> [ERROR] Ошибка записи тем комнаты
+<08:48:40> [ERROR] Ошибка MYSQL: Duplicate entry 'Крутая комната' for key 'rooms.name'
+<08:49:17> [ERROR] Ошибка MYSQL: Duplicate entry 'Крутая комната' for key 'rooms.name'
+<08:50:55> [ERROR] Ошибка MYSQL: Duplicate entry 'Крутая комната' for key 'rooms.name'
+<08:54:19> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', 3),(, 6)' at line 4
+<08:54:19> [ERROR] Ошибка записи тем комнаты
+<09:09:22> [MSG] Аутентифицирован "test"
+<09:12:48> [MSG] Пользователь "test.max@yandex.ru" вышел
+<09:12:53> [MSG] Аутентифицирован "test"
+<09:12:55> [MSG] Пользователь "test.max@yandex.ru" вышел
+<09:26:05> [MSG] Пользователь "army@boy.ru" вышел
+<09:26:10> [MSG] Аутентифицирован "test"
+<09:26:36> [MSG] Пользователь "test.max@yandex.ru" вышел
+<09:31:13> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<09:32:17> [MSG] Аутентифицирован "Lucors"
+<15:55:07> [MSG] Аутентифицирован "test"
+<15:55:18> [MSG] Пользователь "test.max@yandex.ru" вышел
+<15:55:24> [MSG] Аутентифицирован "Pepsico"
+<17:53:49> [MSG] Аутентифицирован "Lucors"
+<21:04:48> [MSG] Аутентифицирован "Lucors"

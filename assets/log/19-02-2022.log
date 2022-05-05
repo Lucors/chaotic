@@ -1,0 +1,28 @@
+<01:02:20> [MSG] Аутентифицирован "Lucors"
+<01:02:30> [MSG] Аутентифицирован "Pepsico"
+<01:04:27> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<01:11:48> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<01:37:24> [MSG] Аутентифицирован "mechik123"
+<01:41:21> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<01:47:26> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<20:25:20> [MSG] Аутентифицирован "Lucors"
+<20:27:02> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<21:30:26> [MSG] Аутентифицирован "Lucors"
+<21:30:32> [MSG] Аутентифицирован "Pepsico"
+<21:31:16> [MSG] Аутентифицирован "sexy"
+<21:31:30> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<21:31:43> [WARN] Некорректный формат email /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[59]
+<21:31:44> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<21:31:44> [WARN] Некорректный формат email /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[59]
+<21:31:59> [MSG] Аутентифицирован "Nikita Juicew RWS 777RUS"
+<21:32:02> [MSG] Аутентифицирован "Lucors"
+<21:32:05> [MSG] Аутентифицирован "uwu"
+<21:32:15> [WARN] Не найден пользователь "jeka@jeka.ru" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<21:32:19> [MSG] Аутентифицирован "Pepsico"
+<21:32:33> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<21:33:24> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<21:33:26> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<21:33:29> [MSG] Аутентифицирован "Lucors"
+<21:43:25> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<21:43:28> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<21:44:52> [MSG] Аутентифицирован "Pepsico"

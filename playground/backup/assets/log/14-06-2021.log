@@ -1,0 +1,825 @@
+<06:35:06> [MSG] Запрошен avatars.php
+<06:35:06> [MSG] Запрошен settings.php
+<06:35:06> [MSG] Запрошен rooms.php
+<06:35:08> [MSG] Запрошен users.php
+<06:35:22> [MSG] Запрошен settings.php
+<06:35:22> [MSG] Запрошен avatars.php
+<06:35:22> [MSG] Запрошен rooms.php
+<06:35:23> [MSG] Запрошен users.php
+<06:36:00> [MSG] Запрошен avatars.php
+<06:36:00> [MSG] Запрошен settings.php
+<06:36:00> [MSG] Запрошен rooms.php
+<06:36:02> [MSG] Запрошен users.php
+<06:38:10> [MSG] Запрошен settings.php
+<06:38:10> [MSG] Запрошен rooms.php
+<06:38:10> [MSG] Запрошен avatars.php
+<06:38:19> [MSG] Запрошен avatars.php
+<06:38:19> [MSG] Запрошен settings.php
+<06:38:19> [MSG] Запрошен rooms.php
+<06:38:31> [MSG] Запрошен settings.php
+<06:38:31> [MSG] Запрошен avatars.php
+<06:38:31> [MSG] Запрошен rooms.php
+<06:38:31> [MSG] Запрошена sse служба времени [time.php]
+<06:38:37> [MSG] Запрошен users.php
+<06:39:12> [MSG] Запрошен avatars.php
+<06:39:12> [MSG] Запрошен settings.php
+<06:39:12> [MSG] Запрошен rooms.php
+<06:39:13> [MSG] Запрошен users.php
+<06:39:29> [MSG] Запрошен private-messages.php
+<06:39:30> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:33> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:36> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:39> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:42> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:45> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:48> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:51> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:39:54> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:40:54> [MSG] Запрошен avatars.php
+<06:40:54> [MSG] Запрошен settings.php
+<06:40:54> [MSG] Запрошен rooms.php
+<06:40:54> [MSG] Запрошена sse служба времени [time.php]
+<06:41:03> [MSG] Запрошен avatars.php
+<06:41:03> [MSG] Запрошен settings.php
+<06:41:03> [MSG] Запрошен rooms.php
+<06:41:03> [MSG] Запрошена sse служба времени [time.php]
+<06:41:12> [MSG] Запрошен settings.php
+<06:41:12> [MSG] Запрошен rooms.php
+<06:41:12> [MSG] Запрошен avatars.php
+<06:41:14> [MSG] Запрошен users.php
+<06:41:15> [MSG] Запрошен private-messages.php
+<06:41:19> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:22> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:25> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:28> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:31> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:34> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:37> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:46> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:49> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:52> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:55> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:41:58> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:42:01> [MSG] Запрошен settings.php
+<06:42:01> [MSG] Запрошен avatars.php
+<06:42:01> [MSG] Запрошен rooms.php
+<06:42:40> [MSG] Запрошен avatars.php
+<06:42:40> [MSG] Запрошен settings.php
+<06:42:40> [MSG] Запрошен rooms.php
+<06:42:51> [MSG] Запрошен avatars.php
+<06:42:51> [MSG] Запрошен settings.php
+<06:42:51> [MSG] Запрошен rooms.php
+<06:42:51> [MSG] Запрошена sse служба времени [time.php]
+<06:43:14> [MSG] Запрошен settings.php
+<06:43:14> [MSG] Запрошен avatars.php
+<06:43:14> [MSG] Запрошен rooms.php
+<06:43:45> [MSG] Запрошен avatars.php
+<06:43:45> [MSG] Запрошен settings.php
+<06:43:45> [MSG] Запрошен rooms.php
+<06:43:47> [MSG] Запрошен users.php
+<06:43:57> [MSG] Запрошен private-messages.php
+<06:43:58> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:44:04> [MSG] Запрошен avatars.php
+<06:44:04> [MSG] Запрошен settings.php
+<06:44:04> [MSG] Запрошен rooms.php
+<06:45:18> [MSG] Запрошен avatars.php
+<06:45:18> [MSG] Запрошен settings.php
+<06:45:18> [MSG] Запрошен rooms.php
+<06:45:54> [MSG] Запрошен avatars.php
+<06:45:54> [MSG] Запрошен settings.php
+<06:45:54> [MSG] Запрошен rooms.php
+<06:45:56> [MSG] Запрошен users.php
+<06:45:57> [MSG] Запрошен private-messages.php
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:57> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:45:58> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:27> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:47:30> [MSG] Запрошен avatars.php
+<06:47:30> [MSG] Запрошен settings.php
+<06:47:30> [MSG] Запрошен rooms.php
+<06:48:12> [MSG] Запрошен avatars.php
+<06:48:12> [MSG] Запрошен settings.php
+<06:48:12> [MSG] Запрошен rooms.php
+<06:48:16> [MSG] Запрошен users.php
+<06:48:18> [MSG] Запрошен private-messages.php
+<06:48:18> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:48:44> [MSG] Запрошен login.php
+<06:48:44> [MSG] Аутентифицирован пользователь ""
+<06:48:44> [MSG] Запрошен avatars.php
+<06:48:44> [MSG] Запрошен settings.php
+<06:48:44> [MSG] Запрошен rooms.php
+<06:48:46> [MSG] Запрошен settings.php
+<06:48:46> [MSG] Запрошен rooms.php
+<06:48:46> [MSG] Запрошен avatars.php
+<06:48:47> [MSG] Запрошен users.php
+<06:48:49> [MSG] Запрошен private-messages.php
+<06:48:49> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:48:54> [MSG] Запрошен private-messages.php
+<06:48:54> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:48:55> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:03> [MSG] Запрошен private-messages.php
+<06:49:04> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:04> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:04> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:04> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:39> [MSG] Запрошен private-messages.php
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:40> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запрошен private-messages.php
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:49:44> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:50:14> [MSG] Запрошен settings.php
+<06:50:14> [MSG] Запрошен rooms.php
+<06:50:14> [MSG] Запрошен avatars.php
+<06:51:59> [MSG] Запрошен settings.php
+<06:51:59> [MSG] Запрошен avatars.php
+<06:51:59> [MSG] Запрошен rooms.php
+<06:52:06> [MSG] Запрошен settings.php
+<06:52:06> [MSG] Запрошен avatars.php
+<06:52:06> [MSG] Запрошен rooms.php
+<06:52:09> [MSG] Запрошен settings.php
+<06:52:09> [MSG] Запрошен rooms.php
+<06:52:09> [MSG] Запрошен avatars.php
+<06:52:10> [MSG] Запрошен settings.php
+<06:52:10> [MSG] Запрошен rooms.php
+<06:52:10> [MSG] Запрошен avatars.php
+<06:52:13> [MSG] Запрошен users.php
+<06:52:14> [MSG] Запрошен private-messages.php
+<06:52:16> [MSG] Запрошен users.php
+<06:52:17> [MSG] Запрошен private-messages.php
+<06:52:23> [MSG] Запрошен private-messages.php
+<06:52:56> [MSG] Запрошен settings.php
+<06:52:56> [MSG] Запрошен rooms.php
+<06:52:56> [MSG] Запрошен avatars.php
+<06:52:59> [MSG] Запрошен users.php
+<06:53:00> [MSG] Запрошен private-messages.php
+<06:53:00> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:53:04> [MSG] Запрошен avatars.php
+<06:53:04> [MSG] Запрошен rooms.php
+<06:53:04> [MSG] Запрошен settings.php
+<06:53:06> [MSG] Запрошен settings.php
+<06:53:06> [MSG] Запрошен rooms.php
+<06:53:06> [MSG] Запрошен avatars.php
+<06:53:07> [MSG] Запрошен users.php
+<06:53:08> [MSG] Запрошен private-messages.php
+<06:53:08> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:53:53> [MSG] Запрошен users.php
+<06:53:57> [MSG] Запрошен avatars.php
+<06:53:57> [MSG] Запрошен settings.php
+<06:53:57> [MSG] Запрошен rooms.php
+<06:53:58> [MSG] Запрошен avatars.php
+<06:53:59> [MSG] Запрошен settings.php
+<06:53:59> [MSG] Запрошен rooms.php
+<06:54:04> [MSG] Запрошен users.php
+<06:54:05> [MSG] Запрошен private-messages.php
+<06:54:05> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:54:14> [MSG] Запрошен private-messages.php
+<06:54:19> [MSG] Запрошен users.php
+<06:54:20> [MSG] Запрошен private-messages.php
+<06:54:20> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:54:25> [MSG] Запрошен private-messages.php
+<06:58:12> [MSG] Запрошен avatars.php
+<06:58:12> [MSG] Запрошен settings.php
+<06:58:12> [MSG] Запрошен rooms.php
+<06:58:13> [MSG] Запрошен avatars.php
+<06:58:13> [MSG] Запрошен settings.php
+<06:58:13> [MSG] Запрошен rooms.php
+<06:58:15> [MSG] Запрошен avatars.php
+<06:58:15> [MSG] Запрошен settings.php
+<06:58:15> [MSG] Запрошен rooms.php
+<06:58:16> [MSG] Запрошен users.php
+<06:58:17> [MSG] Запрошен private-messages.php
+<06:58:17> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:58:44> [MSG] Запрошен private-messages.php
+<06:58:46> [MSG] Запрошен users.php
+<06:58:47> [MSG] Запрошен private-messages.php
+<06:58:47> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:59:10> [MSG] Запрошен private-messages.php
+<06:59:43> [MSG] Запрошен private-messages.php
+<06:59:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<06:59:54> [MSG] Запрошен users.php
+<06:59:56> [MSG] Запрошен private-messages.php
+<06:59:56> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:01:13> [MSG] Запрошен users.php
+<07:01:19> [MSG] Запрошен login.php
+<07:01:19> [MSG] Аутентифицирован пользователь ""
+<07:01:19> [MSG] Запрошен avatars.php
+<07:01:19> [MSG] Запрошен settings.php
+<07:01:19> [MSG] Запрошен rooms.php
+<07:01:22> [MSG] Запрошен users.php
+<07:01:25> [MSG] Запрошен users.php
+<07:01:30> [MSG] Запрошен private-messages.php
+<07:01:30> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:01:33> [MSG] Запрошен private-messages.php
+<07:01:33> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:01:41> [MSG] Запрошен private-messages.php
+<07:01:43> [MSG] Запрошен private-messages.php
+<07:01:53> [MSG] Запрошен private-messages.php
+<07:02:22> [MSG] Запрошен private-messages.php
+<07:02:22> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:02:34> [MSG] Запрошен private-messages.php
+<07:02:34> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:02:41> [MSG] Запрошен private-messages.php
+<07:02:58> [MSG] Запрошен private-messages.php
+<07:02:58> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:03:02> [MSG] Запрошен logout.php
+<07:03:02> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<07:03:05> [MSG] Запрошен login.php
+<07:03:05> [MSG] Аутентифицирован пользователь ""
+<07:03:05> [MSG] Запрошен settings.php
+<07:03:05> [MSG] Запрошен rooms.php
+<07:03:05> [MSG] Запрошен avatars.php
+<07:03:06> [MSG] Запрошен users.php
+<07:03:07> [MSG] Запрошен private-messages.php
+<07:03:07> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:03:17> [MSG] Запрошен rooms.php
+<07:03:22> [MSG] Запрошен settings.php
+<07:03:23> [MSG] Запрошен settings.php
+<07:03:24> [MSG] Запрошен settings.php
+<07:03:24> [MSG] Запрошен settings.php
+<07:03:24> [MSG] Запрошен settings.php
+<07:03:24> [MSG] Запрошен settings.php
+<07:03:29> [MSG] Запрошен settings.php
+<07:03:29> [MSG] Запрошен settings.php
+<07:03:35> [MSG] Запрошен logout.php
+<07:03:35> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<07:03:39> [MSG] Запрошен login.php
+<07:03:39> [MSG] Аутентифицирован пользователь ""
+<07:03:39> [MSG] Запрошен settings.php
+<07:03:39> [MSG] Запрошен avatars.php
+<07:03:39> [MSG] Запрошен rooms.php
+<07:03:40> [MSG] Запрошен users.php
+<07:03:41> [MSG] Запрошен settings.php
+<07:03:42> [MSG] Запрошен users.php
+<07:03:43> [MSG] Запрошен settings.php
+<07:03:47> [MSG] Запрошен users.php
+<07:03:49> [MSG] Запрошен users.php
+<07:03:49> [DEBUG] users.nick LIKE '%0002%'
+<07:03:54> [MSG] Запрошен settings.php
+<07:04:02> [MSG] Запрошен users.php
+<07:04:02> [DEBUG] users.user_id = 0002
+<07:04:05> [MSG] Запрошен notifications.php
+<07:04:10> [MSG] Запрошен users.php
+<07:04:15> [MSG] Запрошен users.php
+<07:04:16> [MSG] Запрошен notifications.php
+<07:04:17> [MSG] Запрошен users.php
+<07:04:38> [MSG] Запрошен settings.php
+<07:05:06> [MSG] Запрошен avatars.php
+<07:05:06> [MSG] Запрошен settings.php
+<07:05:06> [MSG] Запрошен rooms.php
+<07:05:15> [MSG] Запрошен settings.php
+<07:05:20> [MSG] Запрошен users.php
+<07:05:22> [MSG] Запрошен settings.php
+<07:05:24> [MSG] Запрошен users.php
+<07:05:25> [MSG] Запрошен private-messages.php
+<07:05:25> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:05:27> [MSG] Запрошен settings.php
+<07:05:28> [MSG] Запрошен users.php
+<07:05:30> [MSG] Запрошен settings.php
+<07:05:57> [MSG] Запрошен settings.php
+<07:08:06> [MSG] Запрошен avatars.php
+<07:08:06> [MSG] Запрошен settings.php
+<07:08:06> [MSG] Запрошен rooms.php
+<07:08:08> [MSG] Запрошен users.php
+<07:08:09> [MSG] Запрошен settings.php
+<07:08:11> [MSG] Запрошен users.php
+<07:08:13> [MSG] Запрошен private-messages.php
+<07:08:13> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:08:41> [MSG] Запрошен settings.php
+<07:08:41> [MSG] Запрошен avatars.php
+<07:08:41> [MSG] Запрошен rooms.php
+<07:08:43> [MSG] Запрошен settings.php
+<07:08:45> [MSG] Запрошен users.php
+<07:08:46> [MSG] Запрошен private-messages.php
+<07:08:46> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:08:49> [MSG] Запрошен rooms.php
+<07:08:50> [MSG] Запрошен rooms.php
+<07:08:51> [MSG] Запрошен settings.php
+<07:08:53> [MSG] Запрошен users.php
+<07:08:54> [MSG] Запрошен private-messages.php
+<07:08:54> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:08:59> [MSG] Запрошен settings.php
+<07:09:03> [MSG] Запрошен rooms.php
+<07:09:09> [MSG] Запрошен avatars.php
+<07:09:09> [MSG] Запрошен settings.php
+<07:09:09> [MSG] Запрошен rooms.php
+<07:09:11> [MSG] Запрошен users.php
+<07:09:12> [MSG] Запрошен private-messages.php
+<07:09:12> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:09:20> [MSG] Запрошен settings.php
+<07:09:22> [MSG] Запрошен users.php
+<07:09:23> [MSG] Запрошен private-messages.php
+<07:09:23> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:09:26> [MSG] Запрошен settings.php
+<07:09:31> [MSG] Запрошен settings.php
+<07:09:32> [MSG] Запрошен settings.php
+<07:09:32> [MSG] Запрошен settings.php
+<07:09:32> [MSG] Запрошен settings.php
+<07:09:45> [MSG] Запрошен settings.php
+<07:09:45> [MSG] Запрошен avatars.php
+<07:09:45> [MSG] Запрошен rooms.php
+<07:09:49> [MSG] Запрошен users.php
+<07:09:50> [MSG] Запрошен private-messages.php
+<07:09:50> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:09:54> [MSG] Запрошен settings.php
+<07:09:55> [MSG] Запрошен settings.php
+<07:09:55> [MSG] Запрошен settings.php
+<07:09:55> [MSG] Запрошен settings.php
+<07:09:56> [MSG] Запрошен users.php
+<07:10:27> [MSG] Запрошен avatars.php
+<07:10:27> [MSG] Запрошен settings.php
+<07:10:27> [MSG] Запрошен rooms.php
+<07:10:29> [MSG] Запрошен users.php
+<07:10:30> [MSG] Запрошен private-messages.php
+<07:10:30> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:10:33> [MSG] Запрошен settings.php
+<07:10:36> [MSG] Запрошен users.php
+<07:10:37> [MSG] Запрошен private-messages.php
+<07:10:37> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:10:41> [MSG] Запрошен settings.php
+<07:12:16> [MSG] Запрошен settings.php
+<07:12:16> [MSG] Запрошен rooms.php
+<07:12:16> [MSG] Запрошен avatars.php
+<07:12:17> [MSG] Запрошен settings.php
+<07:12:26> [MSG] Запрошен rooms.php
+<07:12:28> [MSG] Запрошен rooms.php
+<07:12:30> [MSG] Запрошен rooms.php
+<07:12:39> [MSG] Запрошен users.php
+<07:12:41> [MSG] Запрошен private-messages.php
+<07:12:41> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<07:12:57> [MSG] Запрошен private-messages.php
+<07:13:04> [MSG] Запрошен settings.php
+<07:13:10> [MSG] Запрошен logout.php
+<07:13:10> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<07:25:13> [MSG] Запрошен login.php
+<07:25:13> [MSG] Аутентифицирован пользователь ""
+<07:25:13> [MSG] Запрошен settings.php
+<07:25:13> [MSG] Запрошен avatars.php
+<07:25:13> [MSG] Запрошен rooms.php
+<08:49:38> [MSG] Запрошен signup.php
+<08:49:38> [MSG] Зарегистрирован пользователь "Prokhorov.zh:prohorov-2000@list.ru"
+<08:49:38> [MSG] Запрошен avatars.php
+<08:49:38> [MSG] Запрошен settings.php
+<08:49:38> [MSG] Запрошен rooms.php
+<08:50:30> [MSG] Запрошен users.php
+<08:50:30> [DEBUG] Пустой или невалидный запрос
+<08:51:01> [MSG] Запрошен users.php
+<08:51:01> [DEBUG] Пустой или невалидный запрос
+<08:51:14> [MSG] Запрошен settings.php
+<08:51:35> [MSG] Запрошен users.php
+<08:51:56> [MSG] Запрошен notifications.php
+<08:51:57> [MSG] Запрошен users.php
+<08:52:05> [MSG] Запрошен users.php
+<08:52:05> [DEBUG] users.nick LIKE '%Zzzz%'
+<08:52:10> [MSG] Запрошен users.php
+<08:57:52> [MSG] Запрошен login.php
+<08:57:52> [MSG] Аутентифицирован пользователь ""
+<08:57:52> [MSG] Запрошен avatars.php
+<08:57:52> [MSG] Запрошен settings.php
+<08:57:52> [MSG] Запрошен rooms.php
+<08:57:58> [MSG] Запрошен users.php
+<08:58:43> [MSG] Запрошен users.php
+<08:58:43> [DEBUG] users.nick LIKE '%jeka%'
+<08:59:01> [MSG] Запрошен users.php
+<08:59:01> [DEBUG] users.nick LIKE '%mech%'
+<08:59:04> [MSG] Запрошен notifications.php
+<08:59:23> [MSG] Запрошен notifications.php
+<08:59:30> [MSG] Запрошен users.php
+<08:59:36> [MSG] Запрошен private-messages.php
+<08:59:36> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<09:00:45> [MSG] Запрошен settings.php
+<09:00:52> [MSG] Запрошен settings.php
+<09:00:57> [MSG] Запрошен users.php
+<09:01:19> [MSG] Запрошен private-messages.php
+<09:01:19> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<13:46:01> [MSG] Запрошен login.php
+<13:46:01> [MSG] Аутентифицирован пользователь ""
+<13:46:01> [MSG] Запрошен avatars.php
+<13:46:01> [MSG] Запрошен settings.php
+<13:46:01> [MSG] Запрошен rooms.php
+<13:46:10> [MSG] Запрошен users.php
+<13:46:12> [MSG] Запрошен users.php
+<13:46:17> [MSG] Запрошен users.php
+<13:46:17> [DEBUG] users.nick LIKE '%lucors%'
+<13:46:18> [MSG] Запрошен notifications.php
+<13:46:26> [MSG] Запрошен notifications.php
+<13:46:27> [MSG] Запрошен notifications.php
+<13:46:27> [MSG] Запрошен notifications.php
+<13:46:30> [MSG] Запрошен settings.php
+<13:46:33> [MSG] Запрошен settings.php
+<13:46:44> [MSG] Запрошен rooms.php
+<13:46:49> [MSG] Запрошен users.php
+<13:46:55> [MSG] Запрошен users.php
+<13:46:55> [DEBUG] Пустой или невалидный запрос
+<13:47:30> [MSG] Запрошен users.php
+<13:47:30> [DEBUG] users.user_id = 0001
+<13:47:32> [MSG] Запрошен notifications.php
+<13:47:33> [MSG] Запрошен notifications.php
+<13:47:33> [MSG] Запрошен notifications.php
+<13:47:33> [MSG] Запрошен notifications.php
+<13:47:34> [MSG] Запрошен notifications.php
+<13:47:34> [MSG] Запрошен notifications.php
+<13:47:35> [MSG] Запрошен notifications.php
+<13:47:40> [MSG] Запрошен users.php
+<13:47:40> [DEBUG] users.nick LIKE '%lucors%'
+<13:47:41> [MSG] Запрошен notifications.php
+<13:47:45> [MSG] Запрошен users.php
+<13:47:46> [MSG] Запрошен notifications.php
+<13:47:47> [MSG] Запрошен users.php
+<13:47:49> [MSG] Запрошен notifications.php
+<17:04:26> [MSG] Запрошен avatars.php
+<17:04:26> [MSG] Запрошен settings.php
+<17:04:26> [MSG] Запрошен rooms.php
+<17:04:34> [MSG] Запрошен users.php
+<17:04:37> [MSG] Запрошен private-messages.php
+<17:04:37> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<17:04:41> [MSG] Запрошен notifications.php
+<17:04:42> [MSG] Запрошен users.php
+<17:04:56> [MSG] Запрошен users.php
+<17:04:56> [DEBUG] users.user_id = 0002
+<17:04:59> [MSG] Запрошен notifications.php
+<17:05:03> [MSG] Запрошен notifications.php
+<17:05:05> [MSG] Запрошен notifications.php
+<17:05:05> [MSG] Запрошен users.php
+<17:05:09> [MSG] Запрошен users.php
+<17:05:09> [DEBUG] users.user_id = 0003
+<17:05:11> [MSG] Запрошен notifications.php
+<17:05:13> [MSG] Запрошен notifications.php
+<17:05:14> [MSG] Запрошен notifications.php
+<17:05:15> [MSG] Запрошен notifications.php
+<17:05:16> [MSG] Запрошен notifications.php
+<17:05:18> [MSG] Запрошен notifications.php
+<17:05:23> [MSG] Запрошен users.php
+<17:05:23> [DEBUG] users.user_id = 0004
+<17:05:27> [MSG] Запрошен notifications.php
+<17:05:29> [MSG] Запрошен notifications.php
+<17:05:39> [MSG] Запрошен settings.php
+<17:05:53> [MSG] Запрошен rooms.php
+<17:05:55> [MSG] Запрошен rooms.php
+<17:05:57> [MSG] Запрошен rooms.php
+<18:44:11> [MSG] Запрошен login.php
+<18:44:11> [MSG] Аутентифицирован пользователь ""
+<18:44:11> [MSG] Запрошен avatars.php
+<18:44:11> [MSG] Запрошен rooms.php
+<18:44:11> [MSG] Запрошен settings.php
+<18:44:14> [MSG] Запрошен users.php
+<18:44:15> [MSG] Запрошен settings.php
+<18:44:17> [MSG] Запрошен settings.php
+<18:44:19> [MSG] Запрошен users.php
+<18:44:20> [MSG] Запрошен private-messages.php
+<18:44:21> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<18:44:23> [MSG] Запрошен private-messages.php
+<18:44:23> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<18:46:49> [DEBUG] Попытка подключения к БД: u3905860fl_admin
+<18:46:49> [DEBUG] Успешное подключение к БД: u3905860fl_admin
+<18:46:49> [DEBUG] Произведен запрос к БД: u3905860fl_admin
+<18:46:49> [DEBUG] Закрыто соединение с БД: u3905860fl_admin
+<18:48:44> [DEBUG] Попытка подключения к БД: u3905860fl_admin
+<18:48:44> [DEBUG] Успешное подключение к БД: u3905860fl_admin
+<18:48:44> [DEBUG] Закрыто соединение с БД: u3905860fl_admin
+<19:24:10> [MSG] Запрошен login.php
+<19:24:10> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru"
+<19:24:18> [MSG] Запрошен signup.php
+<19:24:18> [MSG] Зарегистрирован пользователь "Lucors:thesourcecode.max@yandex.ru"
+<19:24:19> [MSG] Запрошен settings.php
+<19:24:19> [MSG] Запрошен avatars.php
+<19:24:19> [MSG] Запрошен rooms.php
+<19:24:21> [MSG] Запрошен users.php
+<19:31:45> [MSG] Запрошен settings.php
+<19:43:08> [MSG] Запрошен users.php
+<19:46:55> [MSG] Запрошен logout.php
+<19:46:55> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<19:57:37> [MSG] Запрошен login.php
+<19:57:37> [MSG] Аутентифицирован пользователь ""
+<19:57:37> [MSG] Запрошен avatars.php
+<19:57:37> [MSG] Запрошен rooms.php
+<19:57:37> [MSG] Запрошен settings.php
+<19:58:09> [MSG] Запрошен login.php
+<19:58:21> [MSG] Запрошен logout.php
+<19:58:21> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<20:02:03> [MSG] Запрошен login.php
+<20:02:03> [MSG] Аутентифицирован пользователь ""
+<20:02:03> [MSG] Запрошен settings.php
+<20:02:03> [MSG] Запрошен rooms.php
+<20:02:03> [MSG] Запрошен avatars.php
+<20:02:05> [MSG] Запрошен settings.php
+<20:02:05> [MSG] Запрошен rooms.php
+<20:02:05> [MSG] Запрошен avatars.php
+<20:21:07> [MSG] Запрошен users.php
+<20:21:12> [MSG] Запрошен notifications.php
+<20:21:13> [MSG] Запрошен users.php
+<20:21:44> [MSG] Запрошен users.php
+<20:21:52> [MSG] Запрошен rooms.php
+<20:24:27> [MSG] Запрошен rooms.php
+<20:24:31> [MSG] Запрошен settings.php
+<20:24:34> [MSG] Запрошен logout.php
+<20:24:34> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<20:25:07> [MSG] Запрошен login.php
+<20:25:07> [MSG] Аутентифицирован пользователь ""
+<20:25:07> [MSG] Запрошен settings.php
+<20:25:07> [MSG] Запрошен rooms.php
+<20:25:07> [MSG] Запрошен avatars.php
+<20:25:12> [MSG] Запрошен users.php
+<20:27:36> [MSG] Запрошен rooms.php
+<20:27:37> [MSG] Запрошен rooms.php
+<20:27:42> [MSG] Запрошен users.php
+<20:34:57> [MSG] Запрошен settings.php
+<20:34:57> [MSG] Запрошен avatars.php
+<20:34:57> [MSG] Запрошен rooms.php
+<20:36:51> [MSG] Запрошен settings.php
+<20:36:51> [MSG] Запрошен avatars.php
+<20:36:51> [MSG] Запрошен rooms.php
+<20:36:53> [MSG] Запрошен rooms.php
+<20:37:20> [MSG] Запрошен rooms.php
+<20:37:23> [MSG] Запрошен settings.php
+<20:37:23> [MSG] Запрошен avatars.php
+<20:37:23> [MSG] Запрошен rooms.php
+<20:37:26> [MSG] Запрошен rooms.php
+<20:37:49> [MSG] Запрошен settings.php
+<20:37:49> [MSG] Запрошен rooms.php
+<20:37:49> [MSG] Запрошен avatars.php
+<20:37:53> [MSG] Запрошен settings.php
+<20:37:53> [MSG] Запрошен avatars.php
+<20:37:53> [MSG] Запрошен rooms.php
+<20:38:38> [MSG] Запрошен signup.php
+<20:38:38> [MSG] Зарегистрирован пользователь "Jeka:jeka@jeka.rws"
+<20:38:38> [MSG] Запрошен avatars.php
+<20:38:38> [MSG] Запрошен settings.php
+<20:38:38> [MSG] Запрошен rooms.php
+<20:38:44> [MSG] Запрошен users.php
+<20:38:51> [MSG] Запрошен users.php
+<20:38:52> [MSG] Запрошен notifications.php
+<20:40:00> [MSG] Запрошен avatars.php
+<20:40:00> [MSG] Запрошен settings.php
+<20:40:00> [MSG] Запрошен rooms.php
+<20:40:08> [MSG] Запрошен users.php
+<20:40:09> [MSG] Запрошен notifications.php
+<20:42:30> [MSG] Запрошен settings.php
+<20:42:30> [MSG] Запрошен rooms.php
+<20:42:30> [MSG] Запрошен avatars.php
+<20:42:32> [MSG] Запрошен users.php
+<20:42:33> [MSG] Запрошен notifications.php
+<20:42:34> [MSG] Запрошен notifications.php
+<20:42:35> [MSG] Запрошен notifications.php
+<20:42:35> [MSG] Запрошен notifications.php
+<20:42:35> [MSG] Запрошен notifications.php
+<20:42:41> [MSG] Запрошен avatars.php
+<20:42:41> [MSG] Запрошен settings.php
+<20:42:41> [MSG] Запрошен rooms.php
+<20:42:42> [MSG] Запрошен users.php
+<20:42:44> [MSG] Запрошен notifications.php
+<20:42:47> [MSG] Запрошен notifications.php
+<20:42:50> [MSG] Запрошен users.php
+<20:43:02> [MSG] Запрошен users.php
+<20:43:05> [MSG] Запрошен users.php
+<20:44:10> [MSG] Запрошен signup.php
+<20:44:10> [MSG] Зарегистрирован пользователь "sexy:sexy@sexy.com"
+<20:44:10> [MSG] Запрошен avatars.php
+<20:44:10> [MSG] Запрошен settings.php
+<20:44:10> [MSG] Запрошен rooms.php
+<20:44:18> [MSG] Запрошен private-messages.php
+<20:44:24> [MSG] Запрошен settings.php
+<20:44:26> [MSG] Запрошен settings.php
+<20:44:29> [MSG] Запрошен settings.php
+<20:44:33> [MSG] Запрошен users.php
+<20:44:36> [MSG] Запрошен users.php
+<20:44:53> [MSG] Запрошен users.php
+<20:44:57> [MSG] Запрошен users.php
+<20:45:00> [MSG] Запрошен notifications.php
+<20:45:04> [MSG] Запрошен users.php
+<20:45:11> [MSG] Запрошен notifications.php
+<20:47:28> [MSG] Запрошен avatars.php
+<20:47:28> [MSG] Запрошен settings.php
+<20:47:28> [MSG] Запрошен rooms.php
+<20:48:16> [MSG] Запрошен settings.php
+<20:48:16> [MSG] Запрошен avatars.php
+<20:48:16> [MSG] Запрошен rooms.php
+<20:48:18> [MSG] Запрошен users.php
+<20:48:19> [MSG] Запрошен notifications.php
+<20:48:20> [MSG] Запрошен notifications.php
+<20:48:21> [MSG] Запрошен users.php
+<20:48:32> [MSG] Запрошен notifications.php
+<20:48:33> [MSG] Запрошен users.php
+<20:48:35> [MSG] Запрошен users.php
+<20:48:35> [MSG] Запрошен notifications.php
+<20:48:36> [MSG] Запрошен notifications.php
+<20:48:37> [MSG] Запрошен notifications.php
+<20:48:37> [MSG] Запрошен notifications.php
+<20:48:40> [MSG] Запрошен notifications.php
+<20:48:42> [MSG] Запрошен notifications.php
+<20:48:42> [MSG] Запрошен users.php
+<20:48:43> [MSG] Запрошен users.php
+<20:48:43> [MSG] Запрошен private-messages.php
+<20:48:43> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<20:48:43> [MSG] Запрошен users.php
+<20:48:47> [MSG] Запрошен notifications.php
+<20:48:48> [MSG] Запрошен users.php
+<20:48:49> [MSG] Запрошен notifications.php
+<20:48:54> [MSG] Запрошен users.php
+<20:48:55> [MSG] Запрошен private-messages.php
+<20:48:55> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<20:48:56> [MSG] Запрошен notifications.php
+<20:48:57> [MSG] Запрошен notifications.php
+<20:48:57> [MSG] Запрошен users.php
+<20:49:03> [MSG] Запрошен users.php
+<20:49:08> [MSG] Запрошен notifications.php
+<20:49:09> [MSG] Запрошен users.php
+<20:49:10> [MSG] Запрошен notifications.php
+<20:49:10> [MSG] Запрошен users.php
+<20:49:11> [MSG] Запрошен private-messages.php
+<20:49:11> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<20:49:12> [MSG] Запрошен private-messages.php
+<20:49:16> [MSG] Запрошен private-messages.php
+<20:49:18> [MSG] Запрошен private-messages.php
+<20:49:19> [MSG] Запрошен private-messages.php
+<20:49:27> [MSG] Запрошен private-messages.php
+<20:49:38> [MSG] Запрошен private-messages.php
+<20:49:43> [MSG] Запрошен private-messages.php
+<20:49:50> [MSG] Запрошен private-messages.php
+<20:50:13> [MSG] Запрошен private-messages.php
+<20:50:24> [MSG] Запрошен private-messages.php
+<20:51:56> [MSG] Запрошен users.php
+<20:52:51> [MSG] Запрошен settings.php
+<20:52:51> [MSG] Запрошен avatars.php
+<20:52:51> [MSG] Запрошен rooms.php
+<20:52:52> [MSG] Запрошен users.php
+<20:52:55> [MSG] Запрошен users.php
+<20:52:56> [MSG] Запрошен users.php
+<20:53:26> [MSG] Запрошен avatars.php
+<20:53:26> [MSG] Запрошен settings.php
+<20:53:26> [MSG] Запрошен rooms.php
+<20:53:28> [MSG] Запрошен users.php
+<20:53:35> [MSG] Запрошен settings.php
+<20:53:35> [MSG] Запрошен avatars.php
+<20:53:35> [MSG] Запрошен rooms.php
+<20:53:37> [MSG] Запрошен users.php
+<20:53:39> [MSG] Запрошен users.php
+<20:53:40> [MSG] Запрошен users.php
+<20:53:42> [MSG] Запрошен avatars.php
+<20:53:42> [MSG] Запрошен settings.php
+<20:53:42> [MSG] Запрошен rooms.php
+<20:53:42> [MSG] Запрошен avatars.php
+<20:53:42> [MSG] Запрошен settings.php
+<20:53:42> [MSG] Запрошен rooms.php
+<20:53:43> [MSG] Запрошен settings.php
+<20:53:43> [MSG] Запрошен rooms.php
+<20:53:43> [MSG] Запрошен avatars.php
+<20:53:44> [MSG] Запрошен users.php
+<20:54:14> [MSG] Запрошен login.php
+<20:54:14> [MSG] Аутентифицирован пользователь ""
+<20:54:14> [MSG] Запрошен settings.php
+<20:54:14> [MSG] Запрошен avatars.php
+<20:54:14> [MSG] Запрошен rooms.php
+<20:54:56> [MSG] Запрошен users.php
+<20:54:58> [MSG] Запрошен private-messages.php
+<20:54:58> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<20:58:33> [MSG] Запрошен settings.php
+<20:58:33> [MSG] Запрошен avatars.php
+<20:58:33> [MSG] Запрошен rooms.php
+<20:59:44> [MSG] Запрошен settings.php
+<20:59:44> [MSG] Запрошен rooms.php
+<20:59:44> [MSG] Запрошен avatars.php
+<21:04:19> [MSG] Запрошен logout.php
+<21:04:19> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<21:04:39> [MSG] Запрошен login.php
+<21:04:39> [MSG] Аутентифицирован пользователь ""
+<21:04:39> [MSG] Запрошен settings.php
+<21:04:39> [MSG] Запрошен rooms.php
+<21:04:39> [MSG] Запрошен avatars.php
+<21:15:50> [MSG] Запрошен users.php
+<21:15:51> [MSG] Запрошен private-messages.php
+<21:15:51> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:15:57> [MSG] Запрошен settings.php
+<21:15:57> [MSG] Запрошен rooms.php
+<21:15:57> [MSG] Запрошен avatars.php
+<21:15:59> [MSG] Запрошен users.php
+<21:16:01> [MSG] Запрошен private-messages.php
+<21:16:01> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:16:02> [MSG] Запрошен private-messages.php
+<21:16:02> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:16:03> [MSG] Запрошен private-messages.php
+<21:16:03> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:16:04> [MSG] Запрошен private-messages.php
+<21:16:04> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:23:22> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:25:16> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<21:26:47> [MSG] Запрошен settings.php
+<21:26:47> [MSG] Запрошен rooms.php
+<21:26:47> [MSG] Запрошен avatars.php
+<21:30:22> [MSG] Запрошен users.php
+<21:30:27> [MSG] Запрошен logout.php
+<21:30:27> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<21:40:11> [MSG] Запрошен login.php
+<21:40:12> [MSG] Аутентифицирован пользователь ""
+<21:40:12> [MSG] Запрошен settings.php
+<21:40:12> [MSG] Запрошен rooms.php
+<21:40:12> [MSG] Запрошен avatars.php
+<21:40:14> [MSG] Запрошен settings.php
+<21:40:39> [MSG] Запрошен settings.php
+<21:40:53> [MSG] Запрошен settings.php
+<21:42:11> [MSG] Запрошен logout.php
+<21:42:11> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<21:53:18> [MSG] Запрошен login.php
+<21:53:18> [MSG] Аутентифицирован пользователь ""
+<21:53:18> [MSG] Запрошен avatars.php
+<21:53:18> [MSG] Запрошен settings.php
+<21:53:18> [MSG] Запрошен rooms.php
+<21:54:52> [MSG] Запрошен settings.php
+<21:59:15> [MSG] Запрошен avatars.php
+<21:59:15> [MSG] Запрошен settings.php
+<21:59:15> [MSG] Запрошен rooms.php
+<22:01:20> [MSG] Запрошен settings.php
+<22:01:20> [MSG] Запрошен rooms.php
+<22:01:20> [MSG] Запрошен avatars.php
+<22:05:24> [MSG] Запрошен users.php
+<22:05:25> [MSG] Запрошен private-messages.php
+<22:05:25> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<22:05:58> [MSG] Запрошен private-messages.php
+<22:05:58> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<22:17:20> [MSG] Запрошен users.php
+<22:17:20> [MSG] Запрошен users.php
+<22:17:22> [MSG] Запрошен users.php
+<22:17:23> [MSG] Запрошен users.php
+<22:17:23> [MSG] Запрошен users.php
+<22:17:23> [MSG] Запрошен users.php
+<22:17:23> [MSG] Запрошен users.php
+<22:17:24> [MSG] Запрошен notifications.php
+<22:21:47> [MSG] Запрошен avatars.php
+<22:21:47> [MSG] Запрошен rooms.php
+<22:21:47> [MSG] Запрошен settings.php
+<23:49:56> [MSG] Запрошен rooms.php
+<23:49:56> [MSG] Запрошен rooms.php
+<23:49:57> [MSG] Запрошен rooms.php
+<23:49:58> [MSG] Запрошен rooms.php
+<23:49:59> [MSG] Запрошен rooms.php
+<23:49:59> [MSG] Запрошен rooms.php
+<23:49:59> [MSG] Запрошен rooms.php
+<23:50:00> [MSG] Запрошен rooms.php
+<23:50:01> [MSG] Запрошен rooms.php
+<23:50:01> [MSG] Запрошен rooms.php
+<23:50:01> [MSG] Запрошен rooms.php
+<23:50:01> [MSG] Запрошен rooms.php
+<23:50:01> [MSG] Запрошен rooms.php
+<23:50:01> [MSG] Запрошен rooms.php
+<23:50:18> [MSG] Запрошен rooms.php
+<23:52:17> [MSG] Запрошен avatars.php
+<23:52:17> [MSG] Запрошен settings.php
+<23:52:17> [MSG] Запрошен rooms.php
+<23:52:19> [MSG] Запрошен rooms.php
+<23:52:21> [MSG] Запрошен settings.php
+<23:52:21> [MSG] Запрошен avatars.php
+<23:52:21> [MSG] Запрошен rooms.php
+<23:52:35> [MSG] Запрошен users.php
+<23:52:45> [MSG] Запрошен private-messages.php
+<23:52:45> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<23:53:24> [MSG] Запрошен private-messages.php
+<23:53:24> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<23:53:26> [MSG] Запрошен private-messages.php
+<23:53:26> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<23:59:04> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]

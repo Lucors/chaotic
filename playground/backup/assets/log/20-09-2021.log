@@ -1,0 +1,29 @@
+<17:30:23> [MSG] Запрошен settings.php
+<17:30:23> [MSG] Запрошен rooms.php
+<17:30:23> [MSG] Запрошен avatars.php
+<17:30:26> [MSG] Запрошен settings.php
+<17:30:26> [MSG] Запрошен rooms.php
+<17:30:26> [MSG] Запрошен avatars.php
+<17:30:33> [MSG] Запрошен rooms.php
+<17:30:34> [MSG] Запрошен rooms.php
+<17:30:40> [MSG] Запрошен users.php
+<17:30:42> [MSG] Запрошен private-messages.php
+<17:30:42> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<17:30:47> [MSG] Запрошен notifications.php
+<17:30:55> [MSG] Запрошен rating.php
+<17:31:06> [MSG] Запрошен topics.php
+<17:31:11> [MSG] Запрошен rooms.php
+<17:31:15> [MSG] Запрошен settings.php
+<17:31:15> [MSG] Запрошен rooms.php
+<17:31:15> [MSG] Запрошен avatars.php
+<17:31:23> [MSG] Запрошен settings.php
+<17:31:23> [MSG] Запрошен avatars.php
+<17:31:23> [MSG] Запрошен rooms.php
+<17:31:26> [MSG] Запрошен logout.php
+<17:31:26> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:31:40> [MSG] Запрошен login.php
+<17:31:40> [MSG] Аутентифицирован пользователь ""
+<17:31:41> [MSG] Запрошен settings.php
+<17:31:41> [MSG] Запрошен avatars.php
+<17:31:41> [MSG] Запрошен rooms.php
+<17:31:42> [MSG] Запрошен settings.php

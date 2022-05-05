@@ -1,0 +1,237 @@
+<html>
+	<head>
+	    <meta charset="utf-8" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	    <title>Прототипы дизайна</title>
+	    <link rel="shortcut icon" href="../src/playground-favicon.png"/>
+
+	    <script src="../src/jquery.js"></script>
+	    <script src="../src/jquery.easing.min.js"></script>
+	    <script src="../src/velocity.min.js"></script>
+
+	    <style type="text/css">
+	    	:root {
+				font-family: "Comfortaa Regular";
+				color: white;
+	    		font-size: 1.1vw;
+	    	}
+			@font-face {
+				font-family: "Comfortaa Regular"; 
+				src: url(../src/Comfortaa-Regular.ttf); 
+			}
+			@font-face {
+				font-family: "Comfortaa Bold"; 
+				src: url(../src/Comfortaa-Bold.ttf); 
+			}
+	    	body {
+	    		margin: 0;
+	    		padding: 0;
+	    		width: 100vw;
+	    		min-height: 100vh;
+	    		overflow-x: hidden;
+	    		display: flex;
+	    		justify-content: center;
+	    		align-items: center;
+				color: white;
+				flex-direction: column;
+				position: relative;
+
+			    background: radial-gradient(#2e2e2e78 45%, transparent 45%) 0 0;
+				background-color: #363636;
+			    /*background-size: 0.6vw 0.6vw;*/
+			    background-size: 0.4vw 0.4vw;
+	    	}
+/*	    	body::after {
+	    		content: "";
+	    		position: absolute;
+	    		width: 100vw;
+	    		height: 100%;
+	    		background: url(src/dots.png) repeat;
+	    		background-size: contain;
+	    		z-index: -1;
+	    	}*/
+	    	h1 {
+	    		font-size: 3.5vw;
+			    color: #FFD800;
+	    	}
+	    	h2 {
+	    		font-size: 2.5vw;
+	    	}
+	    	p {
+	    		text-indent: 1em;
+	    	}
+
+	    	.multicols-2 {
+	    		width: 80vw;
+	    		height: auto;
+	    		display: flex;
+	    		flex-direction: row;
+	    		justify-content: space-between;
+	    		align-items: flex-start;
+	    	}
+	    	.multicols-2>* {
+	    		width: 47%;
+	    		height: 100%;
+	    		padding: 0 2.5% 0 2.5%;
+	    	}
+	    	.multicols-2>#info-intro {
+	    		width: 40%;
+	    	}
+	    	.multicols-2>#video-intro {
+	    		width: 55%;
+	    	}
+	    	.multicols-2>#imgs-info {
+	    		width: 40%;
+	    	}
+	    	.multicols-2>#imgs {
+	    		width: 55%;
+	    		display: flex;
+	    		justify-content: center;
+	    		align-items: center;
+	    		flex-direction: row;
+	    	}
+	    	#imgs>img:nth-child(1) {
+	    		width: 70%;
+	    		height: auto;
+	    	}
+	    	#imgs>img:nth-child(2) {
+	    		width: 30%;
+	    		height: auto;
+	    	}
+
+	    	.CH {
+	    		font-family: "Comfortaa Bold";
+			    color: #FFD800;
+			    --stroke-width: 0.05em;
+			    --stroke-color: #1c1c1c;
+			    font-weight: bold;
+			    -webkit-text-stroke-color: #1c1c1c;
+    			-webkit-text-stroke-width: 0.03em;
+    			/*text-shadow: 0.081em 0.081em #1c1c1c;*/
+    			filter: drop-shadow(0.075em 0.075em 0 #1c1c1c);
+	    	}
+
+	    	#data {
+	    		display: flex;
+	    		width: 100%;
+	    		justify-content: center;
+	    		align-items: center;
+	    		flex-direction: column;
+	    	}
+	    	#data>* {
+	    		margin: 1% 0 1% 0;
+	    		background-color: #ffffff0d;
+	    		width: 80%;
+	    		padding: 0.5%;
+	    	}
+	    	#other {
+	    		display: flex;
+	    		height: 100%;
+	    		/*width: 100%;*/
+	    		justify-content: center;
+	    		align-items: center;
+	    		flex-direction: column;
+	    	}
+	    	#other>* {
+	    		max-width: 50%;
+	    		min-width: 20%;
+	    		height: auto;
+	    		margin: 1% 0 1% 0;
+	    	}
+	    	.valign {
+	    		display: flex;
+	    		/*width: 100%;*/
+	    		flex-direction: column;
+	    		align-items: center;
+	    		justify-content: center;
+	    		padding: 1% 2.5% 1% 2.5%;
+	    	}
+	    	.valign>* {
+	    		margin: 1%;
+	    	}
+	    </style>
+        <link rel = "stylesheet" href = "interact.css">
+
+	    <script defer type="text/javascript">
+	    	$(document).ready(function(){
+	    	});
+	    </script>
+	</head>
+
+	<body>
+		<h1>Прототип дизайна веб-игры <span class="CH">Chaotic</span></h1>
+
+		<div id="data">
+			<div style="text-align: center;">По итогам опроса среди участников команды выбрано название "Chaotic!" для реализуемого проекта.</div>
+
+
+			<div class="multicols-2">
+				<div id="imgs-info">
+					<p>Также был определен логотип, его вы можете увидеть справа вместе с favicon страниц.
+					<p>На данном этапе стало ясно, что с реализацией логотипа посредством средств CSS могут возни&shy;кнуть проблемы,
+					в силу отсуствия методов отри&shy;совки внешнего контура у текста, кроме хака с множественным выстроением text-shadow.
+					<p>Принимая во внимание вышесказанное, на данный момент предполагается, в качестве альтернативы обводки текста,
+					использовать заготовленные изо&shy;бражения каждого символа слова "Chaotic!" с альфа-каналом.
+				</div>
+				<div id="imgs">
+					<img src="src/logo-alpha.png">
+					<img src="src/ch-favicon.png">
+				</div>
+			</div>
+
+			<div style="text-align: center;">
+				<p> Основным шрифтом приложения выбрано семейство <a href="https://fonts.google.com/specimen/Comfortaa">Comfortaa</a>
+				<p> Для анимаций на странице используется библиотека <a href="http://velocityjs.org/#cssSupport">Velocity v2</a>
+				<p> Некоторые элементы на странице могут использовать Canvas для отрисовки контента
+			</div>
+
+			<div class="multicols-2">
+				<div class="valign">
+					<div id="info-intro">
+						<p>Справа представлена демонстрация ани&shy;мации при входе на сайт неавто&shy;ризированного пользо&shy;вателя.
+							Ани&shy;мация может отличаться от прототипа.
+						<p>Вы можете ознакомиться с прототипом страницы входа:
+					</div>
+					<div>
+						<a class="b1 grey" href="login-demo" style="font-size: 1.2vw">Log-In Proto</a>
+					</div>
+				</div>
+				<video id="video-intro" src="src/proto-intro-r2.mp4" controls></video>
+			</div>
+
+			<div>
+				<div style="text-align: center;">Далее представлены некоторые интерактивные элементы в серой теме</div>
+				<div class="valign" style="font-size: 2vw">
+					<div class="icob1parent">
+						<img class="icob1 grey" style="width: 3vw; height: auto;" src="src/gear-ico.svg">
+					</div>
+					<div class="icob1parent">
+						<img class="icob1 grey" style="width: 3vw; height: auto;" src="src/logout-ico.svg">
+					</div>
+					<div>
+						<button class="b1 grey">Кнопка Button</button>
+					</div>
+					<div>
+						<input class="b1 grey" type="submit" name="" value="Кнопка Submit">
+					</div>
+					<div>
+						<input class="i1 grey" type="text" name="" value="value">
+					</div>
+					<div>
+						<input class="i1 grey" type="text" name="" placeholder="placeholder">
+					</div>
+				</div>
+			</div>
+
+			<div id="other">
+				<a href="src/board.png" target="_blank" title="Нажмите, чтобы открыть в новой вкладке">
+					<img style="width: 100%;" src="src/board.png">
+				</a>
+				<img src="src/Chaotic-logo-small.png">
+				<img src="src/Chaotic-logo-full.png">
+				<img src="src/login-form-proto.png" title="Устарело">
+			</div>
+		</div>
+	</body>
+
+</html>

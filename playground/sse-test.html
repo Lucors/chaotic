@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>SSE TEST</title>
+		<script src="../assets/js/lib/jquery.min.js"></script>
+		<script defer type="text/javascript">
+			function setSessionName(value){
+				$.get("set-session.php", {name: value});
+			}
+			$(function() {
+
+				// var name = prompt("Введите ваше имя");
+				var source = new EventSource("sse-test.php");
+				// source.addEventListener("ping", function(event) {
+				// 	document.getElementById("data").innerHTML = event.data;
+				// });
+				source.onmessage = function(event) {
+					document.getElementById("data").innerHTML = event.data;
+				};
+			});
+		</script>
+	</head>
+	<body>
+		<h1>Тест SSE:</h1><br>
+		<div id=data>
+			
+		</div>
+	</body>
+</html>

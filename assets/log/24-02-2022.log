@@ -1,0 +1,19 @@
+<10:31:31> [MSG] Создана комната: {
+                room_id:    401, 
+                creator_id: 1, 
+                privace:    0,
+                name:       "Крутое название", 
+                map_id:     1
+            }
+<10:31:48> [MSG] Аутентифицирован "Pepsico"
+<10:31:52> [MSG] Игрок вошел в комнату: {room_id: 401, user_id: 18}
+<10:32:02> [MSG] Началась игра: {room_id: 401}
+<10:33:02> [MSG] Игра окончена: {room_id: 401, winner_id: 1}
+<10:33:10> [MSG] Игрок покинул комнату: {room_id: 401, user_id: 1}
+<10:33:10> [MSG] Удалена комната: {room_id: 401}
+<10:33:15> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<10:33:15> [MSG] Игрок покинул комнату: {room_id: , user_id: 18}
+<10:39:46> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<10:39:50> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<14:50:48> [WARN] Не найден пользователь "jeka@jeka.ru" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<14:51:01> [MSG] Аутентифицирован "Lucors"

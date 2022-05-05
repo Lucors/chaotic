@@ -1,0 +1,48 @@
+<01:12:25> [MSG] Запрошен logout.php
+<01:12:25> [MSG] Пользователь "test.max@yandex.ru" вышел
+<01:12:31> [MSG] Запрошен login.php
+<01:12:31> [MSG] Аутентифицирован пользователь "test"
+<01:12:31> [MSG] Запрошен rooms.php
+<01:12:31> [MSG] Запрошен avatars.php
+<01:12:31> [MSG] Запрошен settings.php
+<01:12:33> [MSG] Запрошен users.php
+<12:18:26> [MSG] Запрошен signup.php
+<12:18:26> [MSG] Зарегистрирован пользователь "RANEPA:prutskova69@mail.ru"
+<12:18:27> [MSG] Запрошен rooms.php
+<12:18:27> [MSG] Запрошен settings.php
+<12:18:27> [MSG] Запрошен avatars.php
+<12:18:38> [MSG] Запрошен settings.php
+<12:18:41> [MSG] Запрошен rating.php
+<12:18:57> [MSG] Запрошен rooms.php
+<12:18:57> [MSG] Запрошен avatars.php
+<12:18:57> [MSG] Запрошен settings.php
+<12:19:00> [MSG] Запрошен topics.php
+<12:19:00> [MSG] Запрошен maps.php
+<12:19:14> [MSG] Запрошен rooms.php
+<12:19:14> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('1', 0, '',
+						10, 0, 20, 1)
+			
+<12:19:19> [MSG] Запрошен rooms.php
+<12:19:19> [MSG] Запрошен rooms.php
+<12:19:21> [MSG] Запрошен users.php
+<12:19:23> [MSG] Запрошен notifications.php
+<12:20:36> [MSG] Запрошен rooms.php
+<12:20:36> [MSG] Запрошен settings.php
+<12:20:36> [MSG] Запрошен avatars.php
+<12:20:44> [MSG] Запрошен topics.php
+<12:20:44> [MSG] Запрошен maps.php
+<12:20:53> [MSG] Запрошен settings.php
+<17:13:22> [MSG] Запрошен rooms.php
+<17:13:22> [MSG] Запрошен settings.php
+<17:13:22> [MSG] Запрошен avatars.php
+<17:16:04> [MSG] Запрошен users.php
+<17:16:37> [MSG] Запрошен rooms.php
+<17:16:37> [MSG] Запрошен topics.php
+<17:16:40> [MSG] Запрошен rooms.php
+<17:16:42> [MSG] Запрошен rating.php
+<17:16:49> [MSG] Запрошен settings.php
+<17:17:04> [MSG] Запрошен settings.php

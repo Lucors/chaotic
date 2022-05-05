@@ -1,0 +1,70 @@
+<17:08:59> [MSG] Запрошен login.php
+<17:08:59> [MSG] Аутентифицирован пользователь ""
+<17:08:59> [MSG] Запрошен avatars.php
+<17:08:59> [MSG] Запрошен settings.php
+<17:08:59> [MSG] Запрошен rooms.php
+<17:09:01> [MSG] Запрошен users.php
+<17:09:04> [MSG] Запрошен private-messages.php
+<17:09:08> [MSG] Запрошен private-messages.php
+<17:09:11> [MSG] Запрошен private-messages.php
+<17:09:13> [MSG] Запрошен private-messages.php
+<17:09:17> [MSG] Запрошен private-messages.php
+<17:09:20> [MSG] Запрошен private-messages.php
+<17:09:25> [MSG] Запрошен users.php
+<17:09:30> [MSG] Запрошен topics.php
+<17:10:02> [MSG] Запрошен topics.php
+<17:10:24> [MSG] Запрошен topics.php
+<17:10:31> [MSG] Запрошен settings.php
+<17:10:36> [MSG] Запрошен rating.php
+<17:10:47> [MSG] Запрошен settings.php
+<17:10:51> [MSG] Запрошен rooms.php
+<17:10:53> [MSG] Запрошен users.php
+<17:10:55> [MSG] Запрошен notifications.php
+<17:10:56> [MSG] Запрошен users.php
+<17:10:58> [MSG] Запрошен users.php
+<17:11:01> [MSG] Запрошен users.php
+<17:11:03> [MSG] Запрошен users.php
+<17:11:07> [MSG] Запрошен logout.php
+<17:11:07> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:11:54> [MSG] Запрошен signup.php
+<17:11:54> [ERROR] Ошибка MYSQL: Duplicate entry 'lucors' for key 'users.nick'
+<17:11:54> [ERROR] Ошибка регистрации [hhh@yandex.ru]
+<17:12:07> [MSG] Запрошен login.php
+<17:12:07> [MSG] Аутентифицирован пользователь ""
+<17:12:07> [MSG] Запрошен settings.php
+<17:12:07> [MSG] Запрошен rooms.php
+<17:12:07> [MSG] Запрошен avatars.php
+<17:12:10> [MSG] Запрошен logout.php
+<17:12:10> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:12:21> [MSG] Запрошен login.php
+<17:12:22> [MSG] Аутентифицирован пользователь ""
+<17:12:22> [MSG] Запрошен settings.php
+<17:12:22> [MSG] Запрошен avatars.php
+<17:12:22> [MSG] Запрошен rooms.php
+<17:12:28> [MSG] Запрошен rooms.php
+<17:12:30> [MSG] Запрошен topics.php
+<17:12:34> [MSG] Запрошен rooms.php
+<17:12:39> [MSG] Запрошен rooms.php
+<17:12:40> [MSG] Запрошен rooms.php
+<17:12:42> [MSG] Запрошен rooms.php
+<17:12:43> [MSG] Запрошен users.php
+<17:12:44> [MSG] Запрошен settings.php
+<17:12:44> [MSG] Запрошен avatars.php
+<17:12:44> [MSG] Запрошен rooms.php
+<17:12:47> [MSG] Запрошен topics.php
+<17:12:50> [MSG] Запрошен rooms.php
+<17:12:52> [MSG] Запрошен settings.php
+<17:12:52> [MSG] Запрошен rooms.php
+<17:12:52> [MSG] Запрошен avatars.php
+<17:12:54> [MSG] Запрошен settings.php
+<17:12:54> [MSG] Запрошен rooms.php
+<17:12:54> [MSG] Запрошен avatars.php
+<17:12:56> [MSG] Запрошен settings.php
+<17:12:56> [MSG] Запрошен avatars.php
+<17:12:56> [MSG] Запрошен rooms.php
+<17:12:58> [MSG] Запрошен rooms.php
+<17:12:58> [MSG] Запрошен rooms.php
+<17:13:22> [MSG] Запрошен users.php
+<17:14:46> [MSG] Запрошен users.php
+<17:14:48> [MSG] Запрошен logout.php
+<17:14:48> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел

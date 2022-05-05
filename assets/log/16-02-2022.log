@@ -1,0 +1,44 @@
+<16:06:17> [MSG] Аутентифицирован "test"
+<16:06:45> [MSG] Пользователь "test.max@yandex.ru" вышел
+<16:06:49> [MSG] Аутентифицирован "test"
+<16:07:03> [WARN] Доступ запрещен /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[386]
+<16:07:04> [WARN] Доступ запрещен /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[386]
+<16:07:05> [WARN] Доступ запрещен /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[386]
+<16:07:10> [WARN] Доступ запрещен /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[386]
+<16:12:47> [WARN] Уведомление не найдено (nid=53) /home/u3905860fl/domains/chaoticgame.ru/public_html/api/notification/methods.php[83]
+<16:13:26> [WARN] Неверный пароль /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[391]
+<16:17:01> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<16:27:09> [MSG] Пользователь "test.max@yandex.ru" вышел
+<16:27:13> [MSG] Аутентифицирован "Pepsico"
+<16:30:49> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<16:30:59> [MSG] Аутентифицирован "mechik123"
+<16:31:01> [MSG] Пользователь "pilla12@mail.ru" вышел
+<18:40:57> [WARN] Не определен путь запроса (route) /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[36]
+<18:44:32> [MSG] Аутентифицирован "Lucors"
+<19:15:04> [MSG] Аутентифицирован "Pepsico"
+<19:50:40> [MSG] Аутентифицирован "Lucors"
+<20:09:59> [MSG] Аутентифицирован "Pepsico"
+<20:10:08> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<20:11:00> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<20:12:22> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<20:12:47> [WARN] Не найден пользователь "sexy@sexy.com" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<20:12:53> [MSG] Аутентифицирован "sexy"
+<20:13:03> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<20:13:31> [MSG] Аутентифицирован "mechik123"
+<20:17:37> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<20:18:24> [WARN] Не найден пользователь "nais.ira@mail.ru" /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[45]
+<20:26:34> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<20:26:37> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<21:42:24> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:51:46> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<23:52:23> [MSG] Аутентифицирован "Lucors"
+<23:52:44> [WARN] Ошибка получения данных комнаты #1 /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[62]
+<23:52:53> [WARN] Ошибка получения данных комнаты #1 /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[62]
+<23:53:12> [WARN] Вы уже в комнате. Обновите страницу /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[105]
+<23:56:55> [MSG] Аутентифицирован "Lucors"
+<23:56:55> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'GROUP BY
+                room_id, rooms.name, privacy' at line 17
+<23:56:55> [WARN] Ошибка получения данных комнаты #1 /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[62]
+<23:57:36> [WARN] Комната не найдена /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[376]
+<23:58:05> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<23:58:08> [MSG] Аутентифицирован "Pepsico"

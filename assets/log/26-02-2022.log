@@ -1,0 +1,41 @@
+<15:59:13> [MSG] Аутентифицирован "sexy"
+<15:59:32> [MSG] Создана комната: {
+                room_id:    402, 
+                creator_id: 3, 
+                privace:    0,
+                name:       "Траходром", 
+                map_id:     1
+            }
+<15:59:41> [MSG] Аутентифицирован "Lucors"
+<15:59:44> [MSG] Игрок вошел в комнату: {room_id: 402, user_id: 1}
+<16:00:18> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<16:00:22> [WARN] Пользователь не авторизирован /home/u3905860fl/domains/chaoticgame.ru/public_html/api/index.php[42]
+<16:00:32> [MSG] Аутентифицирован "uwu"
+<16:00:37> [MSG] Игрок вошел в комнату: {room_id: 402, user_id: 34}
+<16:00:51> [MSG] Аутентифицирован "Slave"
+<16:01:10> [MSG] Игрок вошел в комнату: {room_id: 402, user_id: 16}
+<16:01:29> [MSG] Началась игра: {room_id: 402}
+<16:04:16> [MSG] Игрок покинул комнату: {room_id: 402, user_id: 34}
+<16:08:28> [MSG] Игра окончена: {room_id: 402, winner_id: 3}
+<16:08:31> [MSG] Игрок покинул комнату: {room_id: 402, user_id: 3}
+<16:08:31> [MSG] Удалена комната: {room_id: 402}
+<16:08:32> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<16:08:32> [MSG] Игрок покинул комнату: {room_id: , user_id: 16}
+<16:08:40> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<16:08:40> [MSG] Игрок покинул комнату: {room_id: , user_id: 1}
+<20:19:06> [MSG] Аутентифицирован "Lucors"
+<20:19:31> [MSG] Создана комната: {
+                room_id:    403, 
+                creator_id: 1, 
+                privace:    0,
+                name:       "Chaotic room!", 
+                map_id:     1
+            }
+<20:19:48> [MSG] Аутентифицирован "Pepsico"
+<20:19:53> [MSG] Игрок вошел в комнату: {room_id: 403, user_id: 18}
+<20:19:56> [MSG] Началась игра: {room_id: 403}
+<20:20:48> [MSG] Игра окончена: {room_id: 403, winner_id: 1}
+<20:20:52> [MSG] Игрок покинул комнату: {room_id: 403, user_id: 18}
+<20:20:52> [MSG] Удалена комната: {room_id: 403}
+<20:20:54> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<20:20:54> [MSG] Игрок покинул комнату: {room_id: , user_id: 1}

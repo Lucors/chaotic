@@ -1,0 +1,426 @@
+<10:54:47> [MSG] Запрошен login.php
+<10:54:47> [MSG] Аутентифицирован пользователь ""
+<10:54:47> [MSG] Запрошен avatars.php
+<10:54:47> [MSG] Запрошен settings.php
+<10:54:47> [MSG] Запрошен rooms.php
+<10:54:57> [MSG] Запрошен settings.php
+<10:54:57> [MSG] Запрошен rooms.php
+<10:54:57> [MSG] Запрошен avatars.php
+<10:55:02> [MSG] Запрошен topics.php
+<11:09:44> [MSG] Запрошен rooms.php
+<15:10:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:10:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:11:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:12:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:13:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:14:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:15:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:16:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:17:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:18:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:19:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:20:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:21:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:33> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:39> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:45> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:51> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:22:57> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:03> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:09> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:15> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:21> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:23:27> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<16:40:43> [MSG] Запрошен rating.php
+<16:46:32> [MSG] Запрошен topics.php
+<16:53:56> [MSG] Запрошен topics.php
+<16:54:04> [MSG] Запрошен topics.php
+<16:54:16> [MSG] Запрошен topics.php
+<16:56:01> [MSG] Запрошен users.php
+<16:56:03> [MSG] Запрошен notifications.php
+<16:56:05> [MSG] Запрошен users.php
+<16:56:06> [MSG] Запрошен private-messages.php
+<16:58:13> [MSG] Запрошен avatars.php
+<16:58:13> [MSG] Запрошен settings.php
+<16:58:13> [MSG] Запрошен rooms.php
+<16:58:17> [MSG] Запрошен users.php
+<16:58:21> [MSG] Запрошен users.php
+<16:58:35> [MSG] Запрошен users.php
+<16:58:38> [MSG] Запрошен notifications.php
+<16:59:00> [MSG] Запрошен users.php
+<16:59:01> [MSG] Запрошен notifications.php
+<16:59:05> [MSG] Запрошен users.php
+<16:59:06> [MSG] Запрошен notifications.php
+<16:59:20> [MSG] Запрошен notifications.php
+<16:59:45> [MSG] Запрошен users.php
+<16:59:45> [MSG] Запрошен users.php
+<16:59:47> [MSG] Запрошен private-messages.php
+<17:00:04> [MSG] Запрошен private-messages.php
+<17:02:02> [MSG] Запрошен users.php
+<17:13:58> [MSG] Запрошен settings.php
+<17:13:58> [MSG] Запрошен rooms.php
+<17:13:58> [MSG] Запрошен avatars.php
+<17:20:19> [MSG] Запрошен users.php
+<17:20:20> [MSG] Запрошен settings.php
+<17:20:20> [MSG] Запрошен rooms.php
+<17:20:20> [MSG] Запрошен avatars.php
+<17:20:22> [MSG] Запрошен users.php
+<17:27:45> [MSG] Запрошен settings.php
+<17:27:45> [MSG] Запрошен rooms.php
+<17:27:45> [MSG] Запрошен avatars.php
+<17:36:21> [MSG] Запрошен users.php
+<17:36:22> [MSG] Запрошен private-messages.php
+<17:42:04> [MSG] Запрошен logout.php
+<17:42:04> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:42:27> [MSG] Запрошен signup.php
+<17:42:27> [MSG] Зарегистрирован пользователь "leha:nizamovms@sgu.ru"
+<17:42:28> [MSG] Запрошен settings.php
+<17:42:28> [MSG] Запрошен rooms.php
+<17:42:28> [MSG] Запрошен avatars.php
+<17:44:33> [MSG] Запрошен login.php
+<17:44:33> [MSG] Аутентифицирован пользователь ""
+<17:44:33> [MSG] Запрошен settings.php
+<17:44:33> [MSG] Запрошен rooms.php
+<17:44:33> [MSG] Запрошен avatars.php
+<17:44:36> [MSG] Запрошен rating.php
+<17:44:51> [MSG] Запрошен topics.php
+<17:45:17> [MSG] Запрошен rating.php
+<17:46:58> [MSG] Запрошен rating.php
+<17:47:09> [MSG] Запрошен rating.php
+<21:17:43> [MSG] Запрошен login.php
+<21:17:43> [MSG] Аутентифицирован пользователь ""
+<21:17:43> [MSG] Запрошен settings.php
+<21:17:43> [MSG] Запрошен rooms.php
+<21:17:43> [MSG] Запрошен avatars.php
+<21:17:45> [MSG] Запрошен users.php
+<21:17:48> [MSG] Запрошен users.php
+<21:17:48> [MSG] Запрошен notifications.php
+<21:17:52> [MSG] Запрошен topics.php
+<21:17:57> [MSG] Запрошен rooms.php
+<21:17:58> [MSG] Запрошен topics.php
+<21:18:54> [MSG] Запрошен topics.php
+<21:19:11> [MSG] Запрошен rooms.php
+<21:19:22> [MSG] Запрошен avatars.php
+<21:19:22> [MSG] Запрошен settings.php
+<21:19:22> [MSG] Запрошен rooms.php
+<21:19:28> [MSG] Запрошен settings.php
+<21:19:28> [MSG] Запрошен avatars.php
+<21:19:28> [MSG] Запрошен rooms.php
+<21:40:06> [MSG] Запрошен login.php
+<21:40:06> [WARN] Переданы неверные значения email&pass
+<21:40:15> [MSG] Запрошен login.php
+<21:40:15> [WARN] Переданы неверные значения email&pass
+<21:40:32> [MSG] Запрошен login.php
+<21:40:32> [MSG] Аутентифицирован пользователь ""
+<21:40:32> [MSG] Запрошен settings.php
+<21:40:32> [MSG] Запрошен avatars.php
+<21:40:32> [MSG] Запрошен rooms.php
+<21:40:41> [MSG] Запрошен users.php
+<21:40:43> [MSG] Запрошен users.php
+<21:40:44> [MSG] Запрошен notifications.php
+<21:40:45> [MSG] Запрошен users.php
+<21:40:46> [MSG] Запрошен private-messages.php
+<21:40:51> [MSG] Запрошен private-messages.php
+<21:40:53> [MSG] Запрошен private-messages.php
+<21:40:59> [MSG] Запрошен private-messages.php
+<21:50:51> [MSG] Запрошен login.php
+<21:50:51> [MSG] Аутентифицирован пользователь ""
+<21:50:51> [MSG] Запрошен avatars.php
+<21:50:51> [MSG] Запрошен settings.php
+<21:50:51> [MSG] Запрошен rooms.php
+<21:50:54> [MSG] Запрошен users.php
+<21:51:35> [MSG] Запрошен private-messages.php
+<21:51:37> [MSG] Запрошен private-messages.php
+<21:51:47> [MSG] Запрошен private-messages.php
+<21:57:19> [MSG] Запрошен logout.php
+<21:57:19> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<21:58:03> [MSG] Запрошен signup.php
+<21:58:03> [MSG] Зарегистрирован пользователь "amelin:ame-roman@rws.ru"
+<21:58:03> [MSG] Запрошен avatars.php
+<21:58:03> [MSG] Запрошен settings.php
+<21:58:03> [MSG] Запрошен rooms.php
+<21:58:06> [MSG] Запрошен users.php
+<21:59:36> [MSG] Запрошен avatars.php
+<21:59:36> [MSG] Запрошен settings.php
+<21:59:36> [MSG] Запрошен rooms.php
+<21:59:50> [MSG] Запрошен users.php
+<22:00:57> [MSG] Запрошен settings.php
+<22:00:57> [MSG] Запрошен rooms.php
+<22:00:57> [MSG] Запрошен avatars.php
+<22:01:48> [MSG] Запрошен avatars.php
+<22:01:48> [MSG] Запрошен settings.php
+<22:01:48> [MSG] Запрошен rooms.php
+<22:01:58> [MSG] Запрошен avatars.php
+<22:01:58> [MSG] Запрошен settings.php
+<22:01:58> [MSG] Запрошен rooms.php
+<22:02:00> [MSG] Запрошен users.php
+<22:03:05> [MSG] Запрошен settings.php
+<22:03:05> [MSG] Запрошен rooms.php
+<22:03:05> [MSG] Запрошен avatars.php
+<22:09:21> [MSG] Запрошен login.php
+<22:09:21> [MSG] Аутентифицирован пользователь ""
+<22:09:21> [MSG] Запрошен settings.php
+<22:09:21> [MSG] Запрошен avatars.php
+<22:09:21> [MSG] Запрошен rooms.php
+<22:09:24> [MSG] Запрошен users.php
+<22:10:32> [MSG] Запрошен notifications.php
+<22:10:33> [MSG] Запрошен users.php
+<22:49:50> [MSG] Запрошен avatars.php
+<22:49:50> [MSG] Запрошен rooms.php
+<22:49:50> [MSG] Запрошен settings.php
+<22:52:35> [MSG] Запрошен users.php
+<22:53:02> [MSG] Запрошен private-messages.php
+<22:53:07> [MSG] Запрошен private-messages.php
+<22:53:17> [MSG] Запрошен settings.php
+<22:53:17> [MSG] Запрошен rooms.php
+<22:53:17> [MSG] Запрошен avatars.php
+<22:53:19> [MSG] Запрошен users.php
+<22:53:20> [MSG] Запрошен private-messages.php
+<22:53:24> [MSG] Запрошен private-messages.php
+<22:53:35> [MSG] Запрошен users.php
+<22:53:38> [MSG] Запрошен private-messages.php
+<22:54:41> [MSG] Запрошен private-messages.php
+<22:54:45> [MSG] Запрошен private-messages.php
+<22:54:46> [MSG] Запрошен private-messages.php
+<22:55:09> [MSG] Запрошен private-messages.php
+<22:55:17> [MSG] Запрошен private-messages.php
+<23:50:32> [MSG] Запрошен users.php

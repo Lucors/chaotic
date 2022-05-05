@@ -1,0 +1,101 @@
+<02:11:22> [MSG] Запрошен login.php
+<02:11:22> [MSG] Аутентифицирован пользователь ""
+<02:11:22> [MSG] Запрошен avatars.php
+<02:11:22> [MSG] Запрошен settings.php
+<02:11:22> [MSG] Запрошен rooms.php
+<02:11:24> [MSG] Запрошен users.php
+<02:11:26> [MSG] Запрошен users.php
+<11:25:20> [MSG] Запрошен avatars.php
+<11:25:20> [MSG] Запрошен rooms.php
+<11:25:20> [MSG] Запрошен settings.php
+<11:43:10> [MSG] Запрошен users.php
+<11:43:16> [MSG] Запрошен users.php
+<11:43:21> [MSG] Запрошен settings.php
+<11:43:26> [MSG] Запрошен logout.php
+<11:43:26> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<15:40:16> [ERROR] Ошибка MYSQL: Server shutdown in progress
+<15:40:16> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:22> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:22> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:28> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:28> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:34> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:34> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:40> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:40> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:42> [ERROR] Ошибка MYSQL: (2002) No such file or directory
+<15:40:45> [ERROR] Ошибка MYSQL: (2002) No such file or directory
+<15:40:46> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<15:40:46> [ERROR] Ошибка MYSQL: MySQL server has gone away
+<17:39:05> [MSG] Запрошен users.php
+<17:39:36> [MSG] Запрошен logout.php
+<17:39:36> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:40:09> [MSG] Запрошен login.php
+<17:40:09> [MSG] Аутентифицирован пользователь ""
+<17:40:09> [MSG] Запрошен avatars.php
+<17:40:09> [MSG] Запрошен settings.php
+<17:40:09> [MSG] Запрошен rooms.php
+<17:40:11> [MSG] Запрошен users.php
+<17:40:28> [MSG] Запрошен private-messages.php
+<17:40:31> [MSG] Запрошен users.php
+<17:40:37> [MSG] Запрошен users.php
+<17:41:03> [MSG] Запрошен rooms.php
+<17:41:04> [MSG] Запрошен settings.php
+<18:42:56> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Зарегистрирован пользователь "Slave:lexa.andronov2014@yandex.ru"
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:57> [MSG] Запрошен signup.php
+<18:42:58> [MSG] Запрошен signup.php
+<18:42:58> [MSG] Запрошен signup.php
+<18:43:07> [MSG] Запрошен rooms.php
+<18:43:07> [MSG] Запрошен settings.php
+<18:43:07> [MSG] Запрошен avatars.php
+<18:43:23> [MSG] Запрошен users.php
+<18:43:35> [MSG] Запрошен users.php
+<18:43:36> [MSG] Запрошен notifications.php
+<18:43:51> [MSG] Запрошен topics.php
+<18:43:51> [MSG] Запрошен maps.php
+<18:43:57> [MSG] Запрошен settings.php
+<18:43:57> [MSG] Запрошен users.php
+<18:43:58> [MSG] Запрошен notifications.php
+<18:43:59> [MSG] Запрошен notifications.php
+<18:44:00> [MSG] Запрошен users.php
+<18:44:01> [MSG] Запрошен settings.php
+<18:44:01> [MSG] Запрошен private-messages.php
+<18:44:03> [MSG] Запрошен settings.php
+<18:44:05> [MSG] Запрошен topics.php
+<18:44:05> [MSG] Запрошен maps.php
+<18:44:05> [MSG] Запрошен private-messages.php
+<18:44:09> [MSG] Запрошен rating.php
+<18:44:11> [MSG] Запрошен settings.php
+<18:44:26> [MSG] Запрошен private-messages.php
+<18:45:20> [MSG] Запрошен users.php
+<18:45:21> [MSG] Запрошен private-messages.php
+<18:45:28> [MSG] Запрошен private-messages.php
+<18:47:42> [MSG] Запрошен users.php
+<18:47:43> [MSG] Запрошен private-messages.php
+<18:48:06> [MSG] Запрошен users.php
+<18:50:44> [MSG] Запрошен users.php
+<18:50:45> [MSG] Запрошен private-messages.php
+<19:12:33> [MSG] Запрошен users.php
+<19:16:51> [MSG] Запрошен users.php
+<22:54:06> [MSG] Запрошен login.php
+<22:54:06> [MSG] Аутентифицирован пользователь ""
+<22:54:06> [MSG] Запрошен settings.php
+<22:54:06> [MSG] Запрошен avatars.php
+<22:54:06> [MSG] Запрошен rooms.php
+<22:54:08> [MSG] Запрошен users.php
+<22:54:10> [MSG] Запрошен private-messages.php
+<23:36:48> [MSG] Запрошен users.php

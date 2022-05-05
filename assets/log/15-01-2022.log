@@ -1,0 +1,34 @@
+<00:32:20> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<00:39:20> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<01:00:03> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<01:02:08> [MSG] Аутентифицирован "Pepsico"
+<01:24:30> [MSG] Аутентифицирован "Slave"
+<01:25:35> [MSG] Аутентифицирован "sexy"
+<01:28:27> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<01:28:28> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<01:28:54> [ERROR] Ошибка MYSQL: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<05:16:44> [MSG] Аутентифицирован "Lucors"
+<05:33:06> [MSG] Аутентифицирован "Pepsico"
+<05:33:25> [ERROR] Ошибка MYSQL: Duplicate entry 'Привет из Linux' for key 'rooms.name'
+<05:33:27> [ERROR] Ошибка MYSQL: Duplicate entry 'Привет из Linux' for key 'rooms.name'
+<05:37:23> [ERROR] Ошибка MYSQL: (1062) Duplicate entry 'Привет из Linux' for key 'rooms.name'
+<05:39:54> [ERROR] Ошибка MYSQL: (1062) Duplicate entry 'Привет из Linux' for key 'rooms.name'
+<05:50:21> [MSG] Аутентифицирован "Pepsico"
+<05:51:39> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<05:53:40> [MSG] Аутентифицирован "Pepsico"
+<05:54:39> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<05:54:50> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<05:59:39> [MSG] Аутентифицирован "Lucors"
+<06:01:06> [MSG] Аутентифицирован "Pepsico"
+<06:01:44> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<06:06:23> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<06:24:47> [MSG] Аутентифицирован "Pepsico"
+<06:31:39> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6
+<06:46:47> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''FKJ\')' at line 4
+<06:46:51> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''FKJ\')' at line 4
+<06:46:53> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''FKJ\')' at line 4
+<08:06:16> [MSG] Аутентифицирован "Братишка"
+<08:32:50> [MSG] Аутентифицирован "Братишка"
+<13:48:45> [MSG] Аутентифицирован "Lucors"
+<23:36:47> [MSG] Аутентифицирован "Lucors"
+<23:39:13> [MSG] Аутентифицирован "Братишка"

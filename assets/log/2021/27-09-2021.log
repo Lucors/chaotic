@@ -1,0 +1,52 @@
+<09:40:27> [MSG] Запрошен login.php
+<09:40:27> [MSG] Аутентифицирован пользователь ""
+<09:40:27> [MSG] Запрошен avatars.php
+<09:40:27> [MSG] Запрошен rooms.php
+<09:40:27> [MSG] Запрошен settings.php
+<09:40:30> [MSG] Запрошен users.php
+<09:40:33> [MSG] Запрошен users.php
+<09:40:40> [MSG] Запрошен logout.php
+<09:40:40> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<11:14:35> [MSG] Запрошен login.php
+<11:14:35> [WARN] Не найден пользователь "thesourecode.max@yandex.ru"
+<11:14:40> [MSG] Запрошен login.php
+<11:14:40> [WARN] Не найден пользователь "thesourceode.max@yandex.ru"
+<11:14:47> [MSG] Запрошен login.php
+<11:14:47> [MSG] Аутентифицирован пользователь ""
+<11:14:47> [MSG] Запрошен avatars.php
+<11:14:47> [MSG] Запрошен settings.php
+<11:14:47> [MSG] Запрошен rooms.php
+<11:14:49> [MSG] Запрошен users.php
+<11:14:55> [MSG] Запрошен private-messages.php
+<11:15:00> [MSG] Запрошен settings.php
+<11:15:07> [MSG] Запрошен rooms.php
+<17:06:46> [MSG] Запрошен login.php
+<17:06:46> [MSG] Аутентифицирован пользователь ""
+<17:06:46> [MSG] Запрошен settings.php
+<17:06:46> [MSG] Запрошен rooms.php
+<17:06:46> [MSG] Запрошен avatars.php
+<17:06:48> [MSG] Запрошен users.php
+<17:06:57> [MSG] Запрошен users.php
+<17:07:07> [MSG] Запрошен logout.php
+<17:07:07> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:08:54> [MSG] Запрошен login.php
+<17:08:54> [WARN] Не найден пользователь "jeka@jeka.ru"
+<17:09:00> [MSG] Запрошен login.php
+<17:09:00> [WARN] Не найден пользователь "jeka@jeka.ru"
+<17:09:03> [MSG] Запрошен login.php
+<17:09:03> [WARN] Не найден пользователь "jeka@jeka.ru"
+<17:09:06> [MSG] Запрошен login.php
+<17:09:06> [MSG] Аутентифицирован пользователь ""
+<17:09:06> [MSG] Запрошен settings.php
+<17:09:06> [MSG] Запрошен rooms.php
+<17:09:06> [MSG] Запрошен avatars.php
+<17:10:03> [MSG] Запрошен rooms.php
+<17:10:04> [MSG] Запрошен users.php
+<17:10:07> [MSG] Запрошен logout.php
+<17:10:07> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:17:43> [MSG] Запрошен login.php
+<17:17:43> [MSG] Аутентифицирован пользователь ""
+<17:17:43> [MSG] Запрошен avatars.php
+<17:17:43> [MSG] Запрошен settings.php
+<17:17:43> [MSG] Запрошен rooms.php
+<17:17:50> [MSG] Запрошен users.php

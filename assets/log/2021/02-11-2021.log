@@ -1,0 +1,42 @@
+<12:57:04> [MSG] Запрошен login.php
+<12:57:04> [MSG] Аутентифицирован пользователь "Lucors"
+<12:57:04> [MSG] Запрошен settings.php
+<12:57:04> [MSG] Запрошен avatars.php
+<12:57:04> [MSG] Запрошен rooms.php
+<12:57:06> [MSG] Запрошен users.php
+<13:07:27> [MSG] Запрошен users.php
+<13:07:31> [MSG] Запрошен logout.php
+<13:07:31> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<13:07:35> [MSG] Запрошен login.php
+<13:07:35> [WARN] Не найден пользователь "jeka@jeka.ru"
+<13:07:37> [MSG] Запрошен login.php
+<13:07:38> [MSG] Аутентифицирован пользователь "test"
+<13:07:38> [MSG] Запрошен avatars.php
+<13:07:38> [MSG] Запрошен rooms.php
+<13:07:38> [MSG] Запрошен settings.php
+<13:07:40> [MSG] Запрошен logout.php
+<13:07:40> [MSG] Пользователь "test.max@yandex.ru" вышел
+<13:07:43> [MSG] Запрошен login.php
+<13:07:43> [MSG] Аутентифицирован пользователь "Lucors"
+<13:07:43> [MSG] Запрошен settings.php
+<13:07:43> [MSG] Запрошен avatars.php
+<13:07:43> [MSG] Запрошен rooms.php
+<13:07:45> [MSG] Запрошен users.php
+<13:07:49> [MSG] Запрошен avatars.php
+<13:07:49> [MSG] Запрошен settings.php
+<13:07:49> [MSG] Запрошен rooms.php
+<13:07:51> [MSG] Запрошен logout.php
+<13:07:51> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<13:07:54> [MSG] Запрошен login.php
+<13:07:54> [MSG] Аутентифицирован пользователь "test"
+<13:07:54> [MSG] Запрошен avatars.php
+<13:07:54> [MSG] Запрошен settings.php
+<13:07:54> [MSG] Запрошен rooms.php
+<13:07:57> [MSG] Запрошен logout.php
+<13:07:57> [MSG] Пользователь "test.max@yandex.ru" вышел
+<13:08:00> [MSG] Запрошен login.php
+<13:08:00> [MSG] Аутентифицирован пользователь "Lucors"
+<13:08:00> [MSG] Запрошен settings.php
+<13:08:00> [MSG] Запрошен rooms.php
+<13:08:00> [MSG] Запрошен avatars.php
+<13:08:02> [MSG] Запрошен users.php

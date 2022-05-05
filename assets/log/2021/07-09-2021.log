@@ -1,0 +1,22 @@
+<01:11:36> [MSG] Запрошен login.php
+<01:11:36> [WARN] Не найден пользователь "thesorcecode.max@yandex.ru"
+<01:11:52> [MSG] Запрошен login.php
+<01:11:52> [WARN] Не найден пользователь "thesorcecode.max@yandex.ru"
+<01:11:58> [MSG] Запрошен login.php
+<01:11:58> [WARN] Переданы неверные значения email&pass
+<01:12:20> [MSG] Запрошен login.php
+<01:12:20> [MSG] Аутентифицирован пользователь ""
+<01:12:21> [MSG] Запрошен settings.php
+<01:12:21> [MSG] Запрошен rooms.php
+<01:12:21> [MSG] Запрошен avatars.php
+<01:12:27> [MSG] Запрошен settings.php
+<01:12:33> [MSG] Запрошен settings.php
+<01:12:38> [MSG] Запрошен users.php
+<01:12:39> [MSG] Запрошен private-messages.php
+<01:12:49> [MSG] Запрошен private-messages.php
+<01:12:55> [MSG] Запрошен private-messages.php
+<01:12:59> [MSG] Запрошен private-messages.php
+<01:13:05> [MSG] Запрошен settings.php
+<01:13:09> [MSG] Запрошен topics.php
+<01:13:18> [MSG] Запрошен topics.php
+<01:13:37> [MSG] Запрошен rating.php

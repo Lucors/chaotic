@@ -1,0 +1,22 @@
+<21:59:07> [MSG] Запрошен login.php
+<21:59:07> [MSG] Аутентифицирован пользователь ""
+<21:59:07> [MSG] Запрошен settings.php
+<21:59:07> [MSG] Запрошен rooms.php
+<21:59:07> [MSG] Запрошен avatars.php
+<21:59:11> [MSG] Запрошен topics.php
+<21:59:11> [MSG] Запрошен maps.php
+<21:59:29> [MSG] Запрошен rooms.php
+<21:59:29> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('ротдл', 0, '',
+						10, 0, 5, 1)
+			
+<21:59:34> [MSG] Запрошен rooms.php
+<21:59:34> [MSG] Запрошен rooms.php
+<21:59:42> [MSG] Запрошен settings.php
+<21:59:48> [MSG] Запрошен settings.php
+<21:59:53> [MSG] Запрошен rating.php
+<21:59:58> [MSG] Запрошен users.php
+<22:00:12> [MSG] Запрошен private-messages.php

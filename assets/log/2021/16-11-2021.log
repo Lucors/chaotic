@@ -1,0 +1,48 @@
+<12:57:58> [MSG] Запрошен login.php
+<12:57:59> [MSG] Аутентифицирован пользователь "Lucors"
+<12:57:59> [MSG] Запрошен settings.php
+<12:57:59> [MSG] Запрошен rooms.php
+<12:57:59> [MSG] Запрошен avatars.php
+<12:58:00> [MSG] Запрошен users.php
+<14:27:47> [MSG] Запрошен login.php
+<14:27:47> [MSG] Аутентифицирован пользователь "ann"
+<14:27:47> [MSG] Запрошен rooms.php
+<14:27:47> [MSG] Запрошен settings.php
+<14:27:47> [MSG] Запрошен avatars.php
+<14:27:50> [MSG] Запрошен topics.php
+<14:27:50> [MSG] Запрошен maps.php
+<14:28:05> [MSG] Запрошен rating.php
+<14:28:10> [MSG] Запрошен settings.php
+<14:28:16> [MSG] Запрошен topics.php
+<14:28:16> [MSG] Запрошен maps.php
+<14:28:24> [MSG] Запрошен rooms.php
+<14:28:24> [ERROR] 
+				INSERT INTO
+					rooms (name, privacy, password, step_time, stage, creator_id, map_id)
+				VALUES 
+					('ааа', 0, '',
+						10, 0, 5, 1)
+			
+<14:28:27> [MSG] Запрошен rooms.php
+<14:28:27> [MSG] Запрошен rooms.php
+<14:28:31> [MSG] Запрошен users.php
+<22:17:12> [MSG] Запрошен login.php
+<22:17:12> [MSG] Аутентифицирован пользователь "Lucors"
+<22:17:12> [MSG] Запрошен rooms.php
+<22:17:12> [MSG] Запрошен avatars.php
+<22:17:12> [MSG] Запрошен settings.php
+<22:19:52> [MSG] Запрошен login.php
+<22:19:52> [WARN] Не найден пользователь "brother@yandex.ru"
+<22:19:54> [MSG] Запрошен login.php
+<22:19:54> [WARN] Не найден пользователь "brother@yandex.ru"
+<22:20:08> [MSG] Запрошен login.php
+<22:20:08> [MSG] Аутентифицирован пользователь "Lucors"
+<22:20:08> [MSG] Запрошен rooms.php
+<22:20:08> [MSG] Запрошен settings.php
+<22:20:08> [MSG] Запрошен avatars.php
+<22:20:53> [MSG] Запрошен rating.php
+<22:21:33> [MSG] Запрошен settings.php
+<22:21:36> [MSG] Запрошен users.php
+<22:21:38> [MSG] Запрошен notifications.php
+<22:21:40> [MSG] Запрошен users.php
+<22:21:41> [MSG] Запрошен users.php

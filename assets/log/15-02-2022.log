@@ -1,0 +1,30 @@
+<12:21:09> [MSG] Аутентифицирован "Lucors"
+<12:21:20> [MSG] Аутентифицирован "Slave"
+<12:21:23> [WARN] Ошибка входа /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[83]
+<12:21:25> [WARN] Ошибка входа /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[83]
+<12:21:27> [WARN] Ошибка входа /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[83]
+<12:21:32> [WARN] Ошибка входа /home/u3905860fl/domains/chaoticgame.ru/public_html/api/auth/methods.php[83]
+<12:22:04> [MSG] Аутентифицирован "Pepsico"
+<12:23:49> [WARN] Неверный пароль /home/u3905860fl/domains/chaoticgame.ru/public_html/api/room/methods.php[391]
+<12:26:25> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:27:28> [MSG] Аутентифицирован "test"
+<12:29:34> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:32:12> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:36:20> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:37:57> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:43:41> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:54:47> [MSG] Аутентифицирован "jekarws"
+<12:55:46> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<12:58:36> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<13:00:05> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<13:02:45> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<13:29:48> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<13:30:24> [MSG] Пользователь "test.max@yandex.ru" вышел
+<13:31:47> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<17:31:27> [MSG] Аутентифицирован "Lucors"
+<17:31:40> [MSG] Аутентифицирован "Pepsico"
+<17:32:26> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<18:29:50> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<18:31:26> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<18:31:39> [MSG] Пользователь "pepsi@yandex.ru" вышел
+<23:31:49> [MSG] Аутентифицирован "Lucors"

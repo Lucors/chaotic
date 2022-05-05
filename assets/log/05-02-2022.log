@@ -1,0 +1,101 @@
+<01:48:02> [MSG] Аутентифицирован "Lucors"
+<01:48:31> [MSG] Аутентифицирован "test"
+<01:52:19> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:22> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:25> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:28> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:29> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:32> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:35> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:38> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:41> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:44> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:47> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:50> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:53> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:56> [DIE] Попытка запуска game-listen без параметра room_id
+<01:52:59> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:02> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:05> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:08> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:11> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:14> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:17> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:20> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:23> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:26> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:30> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:33> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:36> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:39> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:42> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:45> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:48> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:51> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:54> [DIE] Попытка запуска game-listen без параметра room_id
+<01:53:57> [DIE] Попытка запуска game-listen без параметра room_id
+<01:54:00> [DIE] Попытка запуска game-listen без параметра room_id
+<01:54:03> [DIE] Попытка запуска game-listen без параметра room_id
+<01:54:06> [DIE] Попытка запуска game-listen без параметра room_id
+<01:54:09> [DIE] Попытка запуска game-listen без параметра room_id
+<01:54:10> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:10> [DIE] Ошибка получения данных комнаты
+<01:54:11> [DIE] Попытка запуска game-listen без параметра room_id
+<01:54:13> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:13> [DIE] Ошибка получения данных комнаты
+<01:54:14> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:14> [DIE] Ошибка получения данных комнаты
+<01:54:16> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:16> [DIE] Ошибка получения данных комнаты
+<01:54:17> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:17> [DIE] Ошибка получения данных комнаты
+<01:54:19> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:19> [DIE] Ошибка получения данных комнаты
+<01:54:20> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:20> [DIE] Ошибка получения данных комнаты
+<01:54:22> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:22> [DIE] Ошибка получения данных комнаты
+<01:54:23> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:23> [DIE] Ошибка получения данных комнаты
+<01:54:25> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:25> [DIE] Ошибка получения данных комнаты
+<01:54:26> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:26> [DIE] Ошибка получения данных комнаты
+<01:54:28> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:28> [DIE] Ошибка получения данных комнаты
+<01:54:29> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:29> [DIE] Ошибка получения данных комнаты
+<01:54:31> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:31> [DIE] Ошибка получения данных комнаты
+<01:54:32> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:32> [DIE] Ошибка получения данных комнаты
+<01:54:34> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:34> [DIE] Ошибка получения данных комнаты
+<01:54:35> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:35> [DIE] Ошибка получения данных комнаты
+<01:54:37> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:37> [DIE] Ошибка получения данных комнаты
+<01:54:38> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:38> [DIE] Ошибка получения данных комнаты
+<01:54:40> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:40> [DIE] Ошибка получения данных комнаты
+<01:54:41> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:41> [DIE] Ошибка получения данных комнаты
+<01:54:43> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:43> [DIE] Ошибка получения данных комнаты
+<01:54:44> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:44> [DIE] Ошибка получения данных комнаты
+<01:54:46> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:46> [DIE] Ошибка получения данных комнаты
+<01:54:47> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 12
+<01:54:47> [DIE] Ошибка получения данных комнаты
+<01:54:50> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 10
+<01:54:50> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 10
+<01:54:51> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 10
+<01:54:51> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 10
+<02:02:27> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11
+<17:07:59> [MSG] Аутентифицирован "Lucors"
+<17:08:02> [MSG] Аутентифицирован "test"
+<17:36:16> [ERROR] Ошибка MYSQL: (1054) Unknown column 'SSTAGE_AWAIT' in 'field list'
+<17:36:32> [ERROR] Ошибка MYSQL: (1054) Unknown column 'SSTAGE_AWAIT' in 'field list'
+<18:01:16> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11

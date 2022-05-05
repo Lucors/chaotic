@@ -1,0 +1,117 @@
+<html>
+	<head>
+	    <meta charset="utf-8" />
+	    <meta name="viewport" content="width=device-width, initial-scale=1" />
+	    <title>Тест анимаций</title>
+	    <link rel="shortcut icon" href="src/playground-favicon.png"/>
+
+	    <script src="src/jquery.js"></script>
+	    <script src="src/jquery.easing.min.js"></script>
+
+	    <style type="text/css">
+			@font-face {
+				font-family: "Comfortaa Regular"; 
+				src: url(src/Comfortaa-Regular.ttf); 
+			}
+	    	body {
+	    		margin: 0;
+	    		padding: 0;
+	    		width: 100vw;
+	    		height: 100vh;
+	    		overflow: hidden;
+	    		display: flex;
+	    		justify-content: center;
+	    		align-items: center;
+				background-color: #363636;
+				color: white;
+	    	}
+	    	a {
+	    		color: wheat;
+	    	}
+	    	#setup {
+	    		position: absolute;
+	    		top: 10vh;
+	    		left: 10vw;
+	    		display: flex;
+	    		justify-content: center;
+	    		align-items: center;
+	    		flex-direction: column;
+	    	}
+	    	#setup2 {
+	    		position: absolute;
+	    		top: 10vh;
+	    		right: 10vw;
+	    		display: flex;
+	    		justify-content: center;
+	    		align-items: center;
+	    		flex-direction: column;
+	    	}
+			#CH {
+				font-family: "Comfortaa Regular";
+			    color: #FFD800;
+			    background-color: #1C1C1C;
+			    padding: 3%;
+			    transition-property: font-size, border-radius;
+			    transition-duration: 0.5s;
+			}
+			.set.yeah {
+				background-color: #87ff87;
+			}
+	    </style>
+
+	    <script defer type="text/javascript">
+	    	let flag = true;
+
+	    	$(document).ready(function(){
+	    		$("#setup .set").click(function(){
+	    			fs = $("#fsvalue").val() + $(this).text();
+	    			$("#CH").css({
+	    				fontSize: fs
+	    			});
+	    		});
+
+	    		$("#setup2 .set").click(function(){
+	    			br = $("#brvalue").val() + $(this).text();
+	    			$("#CH").css({
+	    				borderRadius: br
+	    			});
+	    		});
+	    	});
+	    </script>
+	</head>
+
+	<body>
+		<div id="setup">
+			<span>Выбор размера текста</span>
+			<input id="fsvalue" type="number" name="fs" value="10">
+			<div>
+				<button class="set yeah">vw</button>
+				<button class="set">vh</button>
+				<button class="set">em</button>
+				<button class="set">rem</button>
+				<button class="set">%</button>
+				<button class="set">vmin</button>
+				<button class="set">vmax</button>
+				<button class="set">px</button>
+			</div>
+		</div>
+
+		<div id="setup2">
+			<span>Выбор размера закругления</span>
+			<input id="brvalue" type="number" name="br" value="10">
+			<div>
+				<button class="set yeah">vw</button>
+				<button class="set">vh</button>
+				<button class="set">em</button>
+				<button class="set">rem</button>
+				<button class="set">%</button>
+				<button class="set">vmin</button>
+				<button class="set">vmax</button>
+				<button class="set">px</button>
+			</div>
+		</div>
+
+		<div id="CH">Chaotic!</div>
+	</body>
+
+</html>

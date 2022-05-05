@@ -1,0 +1,7 @@
+Order Allow, Deny
+Allow from all
+
+Options +Indexes
+HeaderName HEADER.html
+ReadmeName README.html
+IndexIgnore HEADER.html README.html src

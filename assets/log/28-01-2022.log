@@ -1,0 +1,3 @@
+<17:42:33> [MSG] Аутентифицирован "Lucors"
+<17:42:44> [MSG] Аутентифицирован "Pepsico"
+<17:46:17> [ERROR] Ошибка MYSQL: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 11

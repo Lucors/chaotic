@@ -1,0 +1,213 @@
+#intro.panel > .content {
+    max-height: var(--authsub-h);
+}
+
+#arrows {
+    position: absolute;
+    margin: 0;
+    border: none;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    filter: grayscale(1);
+    opacity: 0;
+    transition: opacity 0.5s;
+    transition-timing-function: ease;
+    z-index: -2;
+}
+#arrows.active {
+    opacity: 0.2;
+}
+
+
+#chaotic-logo {
+    position: relative;
+    width: 55vw;
+    height: auto;
+    /*cursor: pointer;*/
+}
+#chaotic-a {
+    margin: auto;
+}
+
+#auth-substrate {
+    position: absolute;
+    /*top: 0;*/
+    top: calc(50vh - (var(--authsub-h) / 2));
+    left: calc(50vw - (var(--authsub-b-w) * 2 + var(--authsub-w)) / 2);
+    height: var(--authsub-h);
+    width: var(--authsub-w);
+    border-radius: 0.7vw;
+/*    border-right: 1vw solid #6D79C3;
+    border-left: 1vw solid #6D79C3;
+    background-color: #2C3258;*/
+
+/*    border-right: var(--authsub-b-w) solid #fff240;
+    border-left: var(--authsub-b-w) solid #fff240;
+    background-color: #908e76;*/
+
+    border-right: var(--authsub-b-w) solid #fed600;
+    border-left: var(--authsub-b-w) solid #fed600;
+    box-shadow: -1.2vw 0px 1.3vw -0.9vw #fed6009e, 1.2vw 0px 1.3vw -0.9vw #fed6009e;
+    background-color: #63636340;
+    backdrop-filter: blur(0.3vw);
+
+    opacity: 0;
+    transform: scaleX(0);
+    z-index: -1;
+}
+
+#authparent {
+    position: relative;
+    height: 0%;
+    display: flex;
+    width: var(--authparent-w);
+    padding: 0%;
+    /*overflow: hidden auto;*/
+}
+
+#auth {
+    /*position: absolute;*/
+    position: relative;
+    
+    visibility: hidden;
+    /*bottom: 0vh;*/
+    opacity: 0;
+
+    width: var(--authparent-w);
+    /*height: 50vh;*/
+    height: 22vw;
+    /*background-color: #B2A99D;*/
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    border-radius: 3em;
+    text-shadow: 0em 0.1em 0 #9B9A9A;
+
+    transform: translateY(20%);
+/*    transition-property: height, transform, bottom, opacity, visibility;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;*/
+}
+/*#auth.active {
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+}*/
+#auth > .title {
+    font-family: "Comfortaa Bold"; 
+    font-size: 4vw;
+    text-shadow: 0.07em 0.07em 0 #9b9a9a;
+}
+#auth > .inputs {
+    width: 100%;
+    min-height: 42%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+#auth > .inputs > * {
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#auth  #auth-fail-msg {
+    margin: 0 0 5% 0;
+/*    color: #b7b7b7;
+    text-shadow: 0em 0.1em 0 #4e3b3b;*/
+    color: #fed600;
+    text-shadow: 0em 0.1em 0 #807121;
+    text-align: center;
+}
+#auth > .inputs > * .ico {
+    width: 7%;
+    height: auto;
+    /*filter: brightness(2);*/
+}
+#auth > .inputs > * .i1parent {
+    width: 90%;
+}
+#auth > .submit {
+    width: 100%;
+    font-size: 1.2vw;
+}
+#auth > .hline {
+    margin-top: 6.5%;
+}
+#auth > .about {
+    width: 85%;
+    text-align: center;
+}
+#auth > .extras {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 30%;
+    /*margin-top: 10%;*/
+}
+.extras .extra {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    margin: 1% 0 1% 0;
+}
+.extras .extra > *:nth-child(1) {
+    width: 80%;
+    font-size: var(--general-f-s);
+}
+.extras .extra > *:nth-child(2) {
+    width: auto;
+    font-size: calc(var(--general-f-s) - 0.1vw);
+}
+
+
+#create-account .container {
+    width: 50vw;
+}
+#create-account .title {
+    font-size: 2vw;
+    text-align: left;
+    margin-bottom: 6%;
+    text-shadow: 0em 0.09em 0 #9b9a9a;
+}
+#create-account .field {
+    width: 80%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 3% 0 2% 0;
+}
+#create-account .both-required {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#create-account .field .ico {
+    width: 7%;
+    height: auto;
+    /*filter: brightness(2);*/
+}
+#create-account .field .i1parent {
+    width: 90%;
+}
+#create-account .hline {
+    margin: 10% 0 3% 0;
+}
+#create-account .submit {
+    font-size: 1.2vw;
+    margin-bottom: 3%;
+}
+#create-account-fail-msg {
+    color: #fed600;
+    text-shadow: 0em 0.09em 0 #807121;
+}

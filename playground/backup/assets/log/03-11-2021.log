@@ -1,0 +1,40 @@
+<09:44:57> [MSG] Запрошен avatars.php
+<09:44:57> [MSG] Запрошен settings.php
+<09:44:57> [ERROR] Ошибка MYSQL: Table 'u3905860fl_admin.settings_values' doesn't exist
+<09:44:57> [WARN] Ошибка получения настроек
+<09:44:57> [MSG] Запрошен rooms.php
+<09:44:59> [MSG] Запрошен users.php
+<09:45:03> [MSG] Запрошен settings.php
+<09:45:03> [ERROR] Ошибка MYSQL: Table 'u3905860fl_admin.settings_values' doesn't exist
+<09:45:03> [WARN] Ошибка получения настроек
+<09:45:06> [MSG] Запрошен rating.php
+<09:45:21> [MSG] Запрошен topics.php
+<09:45:40> [MSG] Запрошен rating.php
+<09:45:44> [MSG] Запрошен users.php
+<09:45:47> [MSG] Запрошен notifications.php
+<09:45:48> [MSG] Запрошен users.php
+<09:45:50> [MSG] Запрошен private-messages.php
+<09:45:50> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<09:45:51> [MSG] Запрошен private-messages.php
+<09:45:51> [MSG] Запущена sse слушатель сообщений [deamon-msg-listen.php]
+<09:45:56> [MSG] Запрошен notifications.php
+<09:45:57> [MSG] Запрошен users.php
+<09:45:57> [MSG] Запрошен users.php
+<09:46:16> [MSG] Запрошен rating.php
+<09:46:19> [MSG] Запрошен rooms.php
+<09:46:28> [MSG] Запрошен users.php
+<09:46:39> [MSG] Запрошен settings.php
+<09:46:39> [ERROR] Ошибка MYSQL: Table 'u3905860fl_admin.settings_values' doesn't exist
+<09:46:39> [WARN] Ошибка получения настроек
+<09:46:43> [MSG] Запрошен rating.php
+<09:46:49> [MSG] Запрошен logout.php
+<09:46:49> [MSG] Пользователь "thesourcecode.max@yandex.ru" вышел
+<10:28:05> [MSG] Запрошен login.php
+<10:28:06> [MSG] Аутентифицирован пользователь ""
+<10:28:06> [MSG] Запрошен avatars.php
+<10:28:06> [MSG] Запрошен rooms.php
+<10:28:06> [MSG] Запрошен settings.php
+<10:28:06> [ERROR] Ошибка MYSQL: Table 'u3905860fl_admin.settings_values' doesn't exist
+<10:28:06> [WARN] Ошибка получения настроек
+<10:28:08> [MSG] Запрошен users.php
+<10:28:11> [MSG] Запрошен rooms.php

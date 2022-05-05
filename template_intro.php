@@ -1,0 +1,114 @@
+<div class="modals">
+    <div class="modal" id="create-account">
+        <form class="container">
+            <div class="content">
+                <div class="header">
+                    <span class="title">Регистрация</span>
+                    <div class="modal-close b1 red">
+                        <img src="assets/img/close.svg">
+                    </div>
+
+<!--                     <div class="modal-close b1 red">
+                        <img src="assets/img/close.svg">
+                    </div> -->
+                </div>
+                <div class="about">
+<!--                     Дорогой аноним!<br>
+                    Ты — на пороге удивительных открытий.
+                    Перед тобой могут распахнуться двери нашей прекрасной игры, стоит лишь заполнить форму ниже! -->
+                </div>
+
+                <div class="field">
+                    <img class="ico" src="assets/img/nick-ico.svg">
+                    <div class="i1parent">
+                        <input class="i1 grey" type="text" name="nick" placeholder="Никнейм">
+                    </div> 
+                </div>
+                <div class="field">
+                    <img class="ico" src="assets/img/email-ico.svg">
+                    <div class="i1parent">
+                        <input class="i1 grey" type="email" name="email" placeholder="Эл. Почта">
+                    </div> 
+                </div>
+                <div class="both-required">
+                    <div class="field">
+                        <img class="ico" src="assets/img/lock-ico.svg">
+                        <div class="i1parent">
+                            <input class="i1 grey" type="password" name="pass" placeholder="Пароль">
+                        </div> 
+                    </div>
+                    <div class="field">
+                        <img class="ico" src="assets/img/lock2-ico.svg">
+                        <div class="i1parent">
+                            <input class="i1 grey" type="password" name="pass2" placeholder="Повторите пароль">
+                        </div> 
+                    </div>
+                </div>
+                <div id="create-account-fail-msg" class="fail-msg"></div>
+
+                <div class="hline"></div>
+
+                <div id="do-create-account" class="submit itype-b b1 grey">
+                    <div class="value">Создать аккаунт</div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<canvas id="arrows"></canvas>
+<div id="auth-substrate"></div>
+
+<div class="content">
+    <a id="chaotic-a" href="/">
+        <img id="chaotic-logo" src="assets/img/logo-big.svg">
+    </a>
+
+    <div id="authparent">
+        <form id="auth">
+            <div class="inputs">
+                <div>
+                    <img class="ico" src="assets/img/email-ico.svg">
+                    <div class="i1parent">
+                        <input class="i1 grey" type="email" name="email" placeholder="Эл. Почта">
+                    </div>
+                </div>
+                <div>
+                    <img class="ico" src="assets/img/lock-ico.svg">
+                    <div class="i1parent">
+                        <input class="i1 grey" type="password" name="pass" placeholder="Пароль">
+                    </div>
+                </div>
+            </div>
+            <div id="auth-fail-msg"></div>
+
+            <button id="do-login" class="submit itype-b b1 grey" type="button">
+                <div class="value">Войти</div>
+            </button>
+            <div class="hline"></div>
+
+<!--                     <div class="about">
+                Данный текст написан в качестве заглушки.
+            </div> -->
+
+            <div class="extras">
+                <div class="extra">
+                    <span class="title">Забыли пароль?</span>
+                    <div id="extr-restore" class="itype-b b1 grey">
+                        <div class="value">Восстановить</div>
+                    </div>
+                </div>
+
+                <div class="extra">
+                    <span class="title">У вас нет аккаунта?</span>
+                    <div id="extr-create" class="itype-b b1 grey">
+                        <div class="value">Создать</div>
+                    </div>
+<!--                     <div class="b1parent">
+                        <input id="extr-create" class="b1 grey" type="button" value="Создать">
+                    </div> -->
+                </div>
+            </div>
+        </form>
+    </div>   
+</div>

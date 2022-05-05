@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>403 Запрещено</title>
+        <link rel="shortcut icon" href="https://<!--#echo var="HTTP_HOST" -->/assets/img/favicon.png"/>
+		<link rel="stylesheet" href="https://<!--#echo var="HTTP_HOST" -->/assets/css/blank.css">
+	</head>
+	<body>
+		<div id="dots"></div>
+		<div class="modal">
+		    <div class="container">
+		        <div class="content">
+		            <div class="header">
+	                    <span class="title">Сообщение</span>
+	                </div>
+	                <span id="code">403</span>
+	                <span class="data">Запрещено</span>
+	                <div class="hline"></div>
+	                <span class="data desc">
+	                	У вас нет прав для доступа к <span class="breakable"><!--#echo var="REQUEST_URI" --></span> на этом сервере.
+	                </span>
+					<div  class="hline"></div>
+	                <a class="index" href="https://<!--#echo var="HTTP_HOST" -->"><!--#echo var="HTTP_HOST" --></a>
+		        </div>
+		    </div>
+		</div>
+	</body>
+</html>
